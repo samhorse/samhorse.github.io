@@ -1,0 +1,19 @@
+//////////////免费使用，严禁商用，仅供学习，违者自负！////////////
+//配置属性-->虚拟机专用配置接口
+//配置地址-->https://wuai.pub/vmwtargus
+
+{"urls":[
+{"name":"本地:🌏0925提升接口①","url":"clan://localhost/TVBox/JIM/20220925.json"},
+{"name":"本地:🏰0705家庭接口②","url":"clan://localhost/TVBox/SAM/Port/20220705.json"},
+{"name":"本地:👲0701绿色接口③","url":"clan://localhost/TVBox/PUB/Port/20220701.json"},
+{"name":"本地:🐝0700公共接口④","url":"clan://localhost/TVBox/PUB/Port/20220700.json"},
+{"name":"本地:📝7799测试接口⑤","url":"clan://localhost/$MuMu共享文件夹/config/TVBox/77"},
+{"name":"本地:📝5577测试接口⑥","url":"clan://localhost/$MuMu共享文件夹/config/TVBox/55"},
+{"name":"在线:🐼necore  接口⑦","url":"https://wuai.pub/necore"},
+{"name":"在线:🐻samhorse接口⑧","url":"https://wuai.pub/samhorse"},
+{"name":"在线:🐹cubtargus接口⑨","url":"https://wuai.pub/cubtargus"},
+{"name":"在线:🐶subtargus接口⑩","url":"https://wuai.pub/subtargus"},
+{"name":"在线:🐷tubtargus接口⑪","url":"https://wuai.pub/tubtargus"},
+{"name":"在线:🐯pubtargus接口⑫","url":"https://wuai.pub/pubtargus"}
+]
+}
