@@ -9,94 +9,94 @@ ______      _               _  _
 //如果你抓包了获取到了直播源,请自用,别公开,谢谢！//
 
 🔠央卫高清,#genre#
-CCTV-1,http://kxrj.site:8081/8647/mg.php?id=cctv1
-CCTV-2,http://kxrj.site:8081/8647/mg.php?id=cctv2
-CCTV-3,http://kxrj.site:8081/8647/mg.php?id=cctv3
-CCTV-4,http://kxrj.site:8081/8647/mg.php?id=cctv4
-CCTV-5,http://kxrj.site:8081/8647/mg.php?id=cctv5
-CCTV-5+,http://kxrj.site:8081/8647/mg.php?id=cctv5p
-CCTV-6,http://kxrj.site:8081/8647/mg.php?id=cctv6
-CCTV-7,http://kxrj.site:8081/8647/mg.php?id=cctv7
-CCTV-8,http://kxrj.site:8081/8647/mg.php?id=cctv8
-CCTV-9,http://kxrj.site:8081/8647/mg.php?id=cctv9
-CCTV-10,http://kxrj.site:8081/8647/mg.php?id=cctv10
-CCTV-11,http://kxrj.site:8081/8647/mg.php?id=cctv11
-CCTV-12,http://kxrj.site:8081/8647/mg.php?id=cctv12
-CCTV-13,http://kxrj.site:8081/8647/mg.php?id=cctv13
-CCTV-14,http://kxrj.site:8081/8647/mg.php?id=cctv14
-CCTV-15,http://kxrj.site:8081/8647/mg.php?id=cctv15
-CCTV-16,http://kxrj.site:8081/8647/mg.php?id=cctv16
-CCTV-17,http://kxrj.site:8081/8647/mg.php?id=cctv17
-CCTV-4欧洲,http://kxrj.site:8081/8647/mg.php?id=cctv4o
-CCTV-4美洲,http://kxrj.site:8081/8647/mg.php?id=cctv4a
-CGTN-纪录,http://kxrj.site:8081/8647/mg.php?id=cgtnjl
-CGTN-英语,http://kxrj.site:8081/8647/mg.php?id=cgtn
-CGTN-西语,http://kxrj.site:8081/8647/mg.php?id=cgtne
-CGTN-阿语,http://kxrj.site:8081/8647/mg.php?id=cgtna
-CGTN-法语,http://kxrj.site:8081/8647/mg.php?id=cgtnf
-CGTN-俄语,http://kxrj.site:8081/8647/mg.php?id=cgtnr
-CHC家庭影院,http://kxrj.site:8081/8647/mg.php?id=chcjt
-CHC动作电影,http://kxrj.site:8081/8647/mg.php?id=chcdz
-CHC影谜电影,http://kxrj.site:8081/8647/mg.php?id=chcgq
-欢笑剧场4K,http://kxrj.site:8081/8647/mg.php?id=hxjc
-东方卫视,http://kxrj.site:8081/8647/mg.php?id=dfws
-北京卫视,http://kxrj.site:8081/8647/mg.php?id=bjws
-重庆卫视,http://kxrj.site:8081/8647/mg.php?id=cqws
-吉林卫视,http://kxrj.site:8081/8647/mg.php?id=jlws
-辽宁卫视,http://kxrj.site:8081/8647/mg.php?id=lnws
-宁夏卫视,http://kxrj.site:8081/8647/mg.php?id=nxws
-甘肃卫视,http://kxrj.site:8081/8647/mg.php?id=gsws
-青海卫视,http://kxrj.site:8081/8647/mg.php?id=qhws
-陕西卫视,http://kxrj.site:8081/8647/mg.php?id=sxws
-山东卫视,http://kxrj.site:8081/8647/mg.php?id=sdws
-湖北卫视,http://kxrj.site:8081/8647/mg.php?id=hubws
-湖南卫视,http://kxrj.site:8081/8647/mg.php?id=hunws
-江西卫视,http://kxrj.site:8081/8647/mg.php?id=jxws
-江苏卫视,http://kxrj.site:8081/8647/mg.php?id=jsws
-广东卫视,http://kxrj.site:8081/8647/mg.php?id=gdws
-南方卫视,http://kxrj.site:8081/8647/mg.php?id=dwqws
-四川卫视,http://kxrj.site:8081/8647/mg.php?id=scws
-新疆卫视,http://kxrj.site:8081/8647/mg.php?id=xjws
-西藏卫视,http://kxrj.site:8081/8647/mg.php?id=xzws
-海南卫视,http://kxrj.site:8081/8647/mg.php?id=hinws
-内蒙古卫视,http://kxrj.site:8081/8647/mg.php?id=nmws
-Y+ 剧 场,http://kxrj.site:8081/8647/mg.php?id=yjjc
-中 学 生,http://kxrj.site:8081/8647/mg.php?id=zxs
-老 故 事,http://kxrj.site:8081/8647/mg.php?id=lgs
-发现之旅,http://kxrj.site:8081/8647/mg.php?id=fxzl
-四海钓鱼,http://kxrj.site:8081/8647/mg.php?id=shdy
-江苏教育,http://kxrj.site:8081/8647/mg.php?id=jsjy
-山东教育,http://kxrj.site:8081/8647/mg.php?id=sdjy
-游戏风云,http://kxrj.site:8081/8647/mg.php?id=yxfy
-东方购物,http://kxrj.site:8081/8647/mg.php?id=dfgw
-之江纪录,http://kxrj.site:8081/8647/mg.php?id=zjjl
-杭州综合,http://kxrj.site:8081/8647/mg.php?id=hzzh
-杭州明珠,http://kxrj.site:8081/8647/mg.php?id=hzmz
-杭州生活,http://kxrj.site:8081/8647/mg.php?id=hzsh
-杭州影视,http://kxrj.site:8081/8647/mg.php?id=hzys
-杭州少儿,http://kxrj.site:8081/8647/mg.php?id=hzse
-高清大片,http://kxrj.site:8081/8647/mg.php?id=gqdp
-热剧联播,http://kxrj.site:8081/8647/mg.php?id=rjlb
-成龙作品集,http://kxrj.site:8081/8647/mg.php?id=clzp
-赛事最经典,http://kxrj.site:8081/8647/mg.php?id=sszjd
-掼蛋精英赛,http://kxrj.site:8081/8647/mg.php?id=gdjys
-体坛名栏汇,http://kxrj.site:8081/8647/mg.php?id=ttmhl
-新片放映厅,http://kxrj.site:8081/8647/mg.php?id=xpfyt
-军事迷必看大片,http://kxrj.site:8081/8647/mg.php?id=jsdp
-经典深圳旁边电影,http://kxrj.site:8081/8647/mg.php?id=jddy
-嵊泗新闻综合,http://kxrj.site:8081/8647/mg.php?id=ssxwzh
-普陀新闻综合,http://kxrj.site:8081/8647/mg.php?id=ptxwzh
-熊猫直播频道0,http://kxrj.site:8081/8647/mg.php?id=xmhd
-熊猫直播频道1,http://kxrj.site:8081/8647/mg.php?id=xm1
-熊猫直播频道2,http://kxrj.site:8081/8647/mg.php?id=xm2
-熊猫直播频道3,http://kxrj.site:8081/8647/mg.php?id=xm3
-熊猫直播频道4,http://kxrj.site:8081/8647/mg.php?id=xm4
-熊猫直播频道5,http://kxrj.site:8081/8647/mg.php?id=xm5
-熊猫直播频道6,http://kxrj.site:8081/8647/mg.php?id=xm6
-熊猫直播频道7,http://kxrj.site:8081/8647/mg.php?id=xm7
-熊猫直播频道8,http://kxrj.site:8081/8647/mg.php?id=xm8
-熊猫直播频道9,http://kxrj.site:8081/8647/mg.php?id=xm9
-熊猫直播频道10,http://kxrj.site:8081/8647/mg.php?id=xm10
+CCTV-1,http://kxrj.site:64325/86/mg.php?id=cctv1
+CCTV-2,http://kxrj.site:64325/86/mg.php?id=cctv2
+CCTV-3,http://kxrj.site:64325/86/mg.php?id=cctv3
+CCTV-4,http://kxrj.site:64325/86/mg.php?id=cctv4
+CCTV-5,http://kxrj.site:64325/86/mg.php?id=cctv5
+CCTV-5+,http://kxrj.site:64325/86/mg.php?id=cctv5p
+CCTV-6,http://kxrj.site:64325/86/mg.php?id=cctv6
+CCTV-7,http://kxrj.site:64325/86/mg.php?id=cctv7
+CCTV-8,http://kxrj.site:64325/86/mg.php?id=cctv8
+CCTV-9,http://kxrj.site:64325/86/mg.php?id=cctv9
+CCTV-10,http://kxrj.site:64325/86/mg.php?id=cctv10
+CCTV-11,http://kxrj.site:64325/86/mg.php?id=cctv11
+CCTV-12,http://kxrj.site:64325/86/mg.php?id=cctv12
+CCTV-13,http://kxrj.site:64325/86/mg.php?id=cctv13
+CCTV-14,http://kxrj.site:64325/86/mg.php?id=cctv14
+CCTV-15,http://kxrj.site:64325/86/mg.php?id=cctv15
+CCTV-16,http://kxrj.site:64325/86/mg.php?id=cctv16
+CCTV-17,http://kxrj.site:64325/86/mg.php?id=cctv17
+CCTV-4欧洲,http://kxrj.site:64325/86/mg.php?id=cctv4o
+CCTV-4美洲,http://kxrj.site:64325/86/mg.php?id=cctv4a
+CGTN-纪录,http://kxrj.site:64325/86/mg.php?id=cgtnjl
+CGTN-英语,http://kxrj.site:64325/86/mg.php?id=cgtn
+CGTN-西语,http://kxrj.site:64325/86/mg.php?id=cgtne
+CGTN-阿语,http://kxrj.site:64325/86/mg.php?id=cgtna
+CGTN-法语,http://kxrj.site:64325/86/mg.php?id=cgtnf
+CGTN-俄语,http://kxrj.site:64325/86/mg.php?id=cgtnr
+CHC家庭影院,http://kxrj.site:64325/86/mg.php?id=chcjt
+CHC动作电影,http://kxrj.site:64325/86/mg.php?id=chcdz
+CHC影谜电影,http://kxrj.site:64325/86/mg.php?id=chcgq
+欢笑剧场4K,http://kxrj.site:64325/86/mg.php?id=hxjc
+东方卫视,http://kxrj.site:64325/86/mg.php?id=dfws
+北京卫视,http://kxrj.site:64325/86/mg.php?id=bjws
+重庆卫视,http://kxrj.site:64325/86/mg.php?id=cqws
+吉林卫视,http://kxrj.site:64325/86/mg.php?id=jlws
+辽宁卫视,http://kxrj.site:64325/86/mg.php?id=lnws
+宁夏卫视,http://kxrj.site:64325/86/mg.php?id=nxws
+甘肃卫视,http://kxrj.site:64325/86/mg.php?id=gsws
+青海卫视,http://kxrj.site:64325/86/mg.php?id=qhws
+陕西卫视,http://kxrj.site:64325/86/mg.php?id=sxws
+山东卫视,http://kxrj.site:64325/86/mg.php?id=sdws
+湖北卫视,http://kxrj.site:64325/86/mg.php?id=hubws
+湖南卫视,http://kxrj.site:64325/86/mg.php?id=hunws
+江西卫视,http://kxrj.site:64325/86/mg.php?id=jxws
+江苏卫视,http://kxrj.site:64325/86/mg.php?id=jsws
+广东卫视,http://kxrj.site:64325/86/mg.php?id=gdws
+南方卫视,http://kxrj.site:64325/86/mg.php?id=dwqws
+四川卫视,http://kxrj.site:64325/86/mg.php?id=scws
+新疆卫视,http://kxrj.site:64325/86/mg.php?id=xjws
+西藏卫视,http://kxrj.site:64325/86/mg.php?id=xzws
+海南卫视,http://kxrj.site:64325/86/mg.php?id=hinws
+内蒙古卫视,http://kxrj.site:64325/86/mg.php?id=nmws
+Y+ 剧 场,http://kxrj.site:64325/86/mg.php?id=yjjc
+中 学 生,http://kxrj.site:64325/86/mg.php?id=zxs
+老 故 事,http://kxrj.site:64325/86/mg.php?id=lgs
+发现之旅,http://kxrj.site:64325/86/mg.php?id=fxzl
+四海钓鱼,http://kxrj.site:64325/86/mg.php?id=shdy
+江苏教育,http://kxrj.site:64325/86/mg.php?id=jsjy
+山东教育,http://kxrj.site:64325/86/mg.php?id=sdjy
+游戏风云,http://kxrj.site:64325/86/mg.php?id=yxfy
+东方购物,http://kxrj.site:64325/86/mg.php?id=dfgw
+之江纪录,http://kxrj.site:64325/86/mg.php?id=zjjl
+杭州综合,http://kxrj.site:64325/86/mg.php?id=hzzh
+杭州明珠,http://kxrj.site:64325/86/mg.php?id=hzmz
+杭州生活,http://kxrj.site:64325/86/mg.php?id=hzsh
+杭州影视,http://kxrj.site:64325/86/mg.php?id=hzys
+杭州少儿,http://kxrj.site:64325/86/mg.php?id=hzse
+高清大片,http://kxrj.site:64325/86/mg.php?id=gqdp
+热剧联播,http://kxrj.site:64325/86/mg.php?id=rjlb
+成龙作品集,http://kxrj.site:64325/86/mg.php?id=clzp
+赛事最经典,http://kxrj.site:64325/86/mg.php?id=sszjd
+掼蛋精英赛,http://kxrj.site:64325/86/mg.php?id=gdjys
+体坛名栏汇,http://kxrj.site:64325/86/mg.php?id=ttmhl
+新片放映厅,http://kxrj.site:64325/86/mg.php?id=xpfyt
+军事迷必看大片,http://kxrj.site:64325/86/mg.php?id=jsdp
+经典深圳旁边电影,http://kxrj.site:64325/86/mg.php?id=jddy
+嵊泗新闻综合,http://kxrj.site:64325/86/mg.php?id=ssxwzh
+普陀新闻综合,http://kxrj.site:64325/86/mg.php?id=ptxwzh
+熊猫直播频道0,http://kxrj.site:64325/86/mg.php?id=xmhd
+熊猫直播频道1,http://kxrj.site:64325/86/mg.php?id=xm1
+熊猫直播频道2,http://kxrj.site:64325/86/mg.php?id=xm2
+熊猫直播频道3,http://kxrj.site:64325/86/mg.php?id=xm3
+熊猫直播频道4,http://kxrj.site:64325/86/mg.php?id=xm4
+熊猫直播频道5,http://kxrj.site:64325/86/mg.php?id=xm5
+熊猫直播频道6,http://kxrj.site:64325/86/mg.php?id=xm6
+熊猫直播频道7,http://kxrj.site:64325/86/mg.php?id=xm7
+熊猫直播频道8,http://kxrj.site:64325/86/mg.php?id=xm8
+熊猫直播频道9,http://kxrj.site:64325/86/mg.php?id=xm9
+熊猫直播频道10,http://kxrj.site:64325/86/mg.php?id=xm10
 
 CCTV-1,http://dd.ddzb.fun:80/php/migu.php?id=cctv1
 CCTV-2,http://dd.ddzb.fun:80/php/migu.php?id=cctv2
@@ -233,17 +233,17 @@ CCTV-14,http://39.134.66.66/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-15,http://39.134.66.66/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-16,http://39.134.66.66/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-17,http://39.134.66.66/PLTV/88888888/224/3221225708/1.m3u8
-CCTV-4欧洲,http://123.121.60.214:8686/udp/239.3.1.213:4220
+CCTV-4欧洲,http://iptv.8t.cx:8180/udp/239.3.1.213:4220
 CCTV-4欧洲,http://webmail.axxe.top:4022/udp/239.3.1.213:4220
-CCTV-4美洲,http://123.121.60.214:8686/udp/239.3.1.214:4220
+CCTV-4美洲,http://iptv.8t.cx:8180/udp/239.3.1.214:4220
 CCTV-4美洲,http://webmail.axxe.top:4022/udp/239.3.1.214:4220
-CETV-1中教,http://123.121.60.214:8686/udp/239.3.1.57:8152
+CETV-1中教,http://iptv.8t.cx:8180/udp/239.3.1.57:8152
 CETV-1中教,http://webmail.axxe.top:4022/udp/239.3.1.57:8152
-CETV-2中教,http://123.121.60.214:8686/udp/239.3.1.54:4120
+CETV-2中教,http://iptv.8t.cx:8180/udp/239.3.1.54:4120
 CETV-2中教,http://webmail.axxe.top:4022/udp/239.3.1.54:4120
-CETV-3中教,http://123.121.60.214:8686/udp/239.3.1.55:4120
+CETV-3中教,http://iptv.8t.cx:8180/udp/239.3.1.55:4120
 CETV-3中教,http://webmail.axxe.top:4022/udp/239.3.1.55:4120
-CETV-4中教,http://123.121.60.214:8686/udp/239.3.1.56:4120
+CETV-4中教,http://iptv.8t.cx:8180/udp/239.3.1.56:4120
 CETV-4中教,http://webmail.axxe.top:4022/udp/239.3.1.56:4120
 CGTN-英语,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN-纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -871,7 +871,7 @@ CETV-4中教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
-三沙卫视,http://123.121.60.214:8686/udp/239.3.1.155:4120
+三沙卫视,http://iptv.8t.cx:8180/udp/239.3.1.155:4120
 三沙卫视,http://webmail.axxe.top:4022/udp/239.3.1.155:4120
 三沙卫视,http://218.241.192.50:8808/udp/239.3.1.155:4120
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
@@ -1996,16 +1996,16 @@ CHC家庭影院,https://live.goodiptv.club/api/cqyx.php?id=CHCJTYYHD
 安徽|宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 安徽|宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 安徽|宿州新闻,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-北京|北京新闻,http://123.121.60.214:8686/udp/239.3.1.159:8000
-北京|北京影视,http://123.121.60.214:8686/udp/239.3.1.158:8000
-北京|北京文艺,http://123.121.60.214:8686/udp/239.3.1.242:8000
-北京|北京财经,http://123.121.60.214:8686/udp/239.3.1.116:8000
-北京|北京生活,http://123.121.60.214:8686/udp/239.3.1.117:8000
-北京|北京青年,http://123.121.60.214:8686/udp/239.3.1.118:8000
-北京|北京纪实,http://123.121.60.214:8686/udp/239.3.1.115:8000
-北京|北京体育,http://123.121.60.214:8686/udp/239.3.1.230:8000
-北京|北京国际,http://123.121.60.214:8686/udp/239.3.1.235:8000
-北京|卡酷少儿,http://123.121.60.214:8686/udp/239.3.1.189:8000
+北京|北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
+北京|北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
+北京|北京文艺,http://iptv.8t.cx:8180/udp/239.3.1.242:8000
+北京|北京财经,http://iptv.8t.cx:8180/udp/239.3.1.116:8000
+北京|北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000
+北京|北京青年,http://iptv.8t.cx:8180/udp/239.3.1.118:8000
+北京|北京纪实,http://iptv.8t.cx:8180/udp/239.3.1.115:8000
+北京|北京体育,http://iptv.8t.cx:8180/udp/239.3.1.230:8000
+北京|北京国际,http://iptv.8t.cx:8180/udp/239.3.1.235:8000
+北京|卡酷少儿,http://iptv.8t.cx:8180/udp/239.3.1.189:8000
 北京|北京卫视,http://218.241.192.50:8808/udp/239.3.1.241:8000
 北京|北京新闻,http://218.241.192.50:8808/udp/239.3.1.159:8000
 北京|北京影视,http://218.241.192.50:8808/udp/239.3.1.158:8000
@@ -3210,15 +3210,83 @@ MOMOTV,rtmp://220.130.201.73/sat/tv761.flv
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 阿里郎电视,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+🏰港闽高清,#genre#
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+PLUS综合,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+POPC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+NOW-星影,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
+NOW-爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+有线新闻,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+无线翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+无线明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+无线赛马,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+28AI赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+黄金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+无线娱乐,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+无线经典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+无线亚剧,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+无线翡剧,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+无线明剧,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+无线J1美,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+无线新美,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+VIUTV-粤,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+VIUTV-英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+TVBS闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+中视闽南,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+华视闽南,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+神州新闻,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
+东方国际,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+国家地理,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK新闻,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+CNA新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+TVN韩综,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+KIX韩综,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+DW_综合,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+C+_香港,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+ROCK影综,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+NICK综合,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+NICK卡通,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+THRILL,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ANIMAX,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+ZOOMOO,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+CHANNELU,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+CHANNEL5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+CHANNEL8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+FRANCE24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+日本新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+泰语购物,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+
 🎬数字高清,#genre#
-IPTV北京淘精彩,http://123.121.60.214:8686/udp/239.3.1.178:8001
-IPTV北京萌宠TV,http://123.121.60.214:8686/udp/239.3.1.102:8001
-IPTV北京淘Baby,http://123.121.60.214:8686/udp/239.3.1.238:8001
-IPTV北京淘剧场,http://123.121.60.214:8686/udp/239.3.1.95:8001
-IPTV北京淘电影,http://123.121.60.214:8686/udp/239.3.1.250:8001
-IPTV北京淘娱乐,http://123.121.60.214:8686/udp/239.3.1.100:8001
-IPTV北京大健康,http://123.121.60.214:8686/udp/239.3.1.251:8001
-IPTV北京4K超清,http://123.121.60.214:8686/udp/239.3.1.249:8001
+IPTV北京淘精彩,http://1.203.77.72:7788/udp/225.1.8.33:8002
+IPTV北京萌宠TV,http://1.203.77.72:7788/udp/225.1.8.63:8002
+IPTV北京淘Baby,http://1.203.77.72:7788/udp/225.1.8.36:8002
+IPTV北京淘剧场,http://1.203.77.72:7788/udp/225.1.8.37:8002
+IPTV北京淘电影,http://1.203.77.72:7788/udp/225.1.8.38:8002
+IPTV北京淘娱乐,http://1.203.77.72:7788/udp/225.1.8.61:8002
+IPTV北京大健康,http://1.203.77.72:7788/udp/225.1.8.39:8002
+IPTV北京4K超清,http://1.203.77.72:7788/udp/225.1.8.211:8002
+IPTV北京淘精彩,http://iptv.8t.cx:8180/udp/239.3.1.178:8001
+IPTV北京萌宠TV,http://iptv.8t.cx:8180/udp/239.3.1.102:8001
+IPTV北京淘Baby,http://iptv.8t.cx:8180/udp/239.3.1.238:8001
+IPTV北京淘剧场,http://iptv.8t.cx:8180/udp/239.3.1.95:8001
+IPTV北京淘电影,http://iptv.8t.cx:8180/udp/239.3.1.250:8001
+IPTV北京淘娱乐,http://iptv.8t.cx:8180/udp/239.3.1.100:8001
+IPTV北京大健康,http://iptv.8t.cx:8180/udp/239.3.1.251:8001
+IPTV北京4K超清,http://iptv.8t.cx:8180/udp/239.3.1.249:8001
 IPTV北京淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
 IPTV北京萌宠TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
 IPTV北京淘Baby,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
@@ -3227,10 +3295,10 @@ IPTV北京淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
 IPTV北京淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
 IPTV北京大健康,http://webmail.axxe.top:4022/udp/239.3.1.251:8001
 IPTV北京4K超清,http://webmail.axxe.top:4022/udp/239.3.1.249:8001
-IPTV睛彩竞技,http://123.121.60.214:8686/udp/239.3.1.125:8001
-IPTV睛彩篮球,http://123.121.60.214:8686/udp/239.3.1.126:8001
-IPTV睛彩羽毛球,http://123.121.60.214:8686/udp/239.3.1.127:8001
-IPTV睛彩广场舞,http://123.121.60.214:8686/udp/239.3.1.128:8001
+IPTV睛彩竞技,http://iptv.8t.cx:8180/udp/239.3.1.125:8001
+IPTV睛彩篮球,http://iptv.8t.cx:8180/udp/239.3.1.126:8001
+IPTV睛彩羽毛球,http://iptv.8t.cx:8180/udp/239.3.1.127:8001
+IPTV睛彩广场舞,http://iptv.8t.cx:8180/udp/239.3.1.128:8001
 IPTV睛彩竞技,http://webmail.axxe.top:4022/udp/239.3.1.125:8001
 IPTV睛彩篮球,http://webmail.axxe.top:4022/udp/239.3.1.126:8001
 IPTV睛彩羽毛球,http://webmail.axxe.top:4022/udp/239.3.1.127:8001
@@ -3364,13 +3432,13 @@ CCTV-女性时尚,http://over.qiyuevod.com/tmsctv/yhtv.php?id=nxsshd
 CCTV-央视台球,http://over.qiyuevod.com/tmsctv/yhtv.php?id=ystq
 CCTV-高尔夫网球,http://over.qiyuevod.com/tmsctv/yhtv.php?id=gefwq
 CCTV-央视文化精品,http://over.qiyuevod.com/tmsctv/yhtv.php?id=whjp
-CETV-1中教,http://123.121.60.214:8686/udp/239.3.1.57:8152
+CETV-1中教,http://iptv.8t.cx:8180/udp/239.3.1.57:8152
 CETV-1中教,http://webmail.axxe.top:4022/udp/239.3.1.57:8152
-CETV-2中教,http://123.121.60.214:8686/udp/239.3.1.54:4120
+CETV-2中教,http://iptv.8t.cx:8180/udp/239.3.1.54:4120
 CETV-2中教,http://webmail.axxe.top:4022/udp/239.3.1.54:4120
-CETV-3中教,http://123.121.60.214:8686/udp/239.3.1.55:4120
+CETV-3中教,http://iptv.8t.cx:8180/udp/239.3.1.55:4120
 CETV-3中教,http://webmail.axxe.top:4022/udp/239.3.1.55:4120
-CETV-4中教,http://123.121.60.214:8686/udp/239.3.1.56:4120
+CETV-4中教,http://iptv.8t.cx:8180/udp/239.3.1.56:4120
 CETV-4中教,http://webmail.axxe.top:4022/udp/239.3.1.56:4120
 CETV-1中教,http://39.134.66.66/PLTV/88888888/224/3221225563/1.m3u8
 CETV-4中教,http://39.134.66.66/PLTV/88888888/224/3221225750/1.m3u8
@@ -3441,7 +3509,7 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 四川影视,http://183.222.206.14:8096/udp/239.93.0.166:5140
 四川影视,http://117.176.241.206:4022/udp/239.11.0.77:5140
 四川影视,http://112.19.171.156:9999/udp/239.93.0.166:5140
-北京影视,http://123.121.60.214:8686/udp/239.3.1.158:8000
+北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
 北京影视,http://webmail.axxe.top:4022/udp/239.3.1.158:8000
 五星体育,http://php.jdshipin.com:8880/bst2.php?id=wxtyhd8m/8000000
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
@@ -3902,7 +3970,7 @@ NewTV超级电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenl
 广东综艺4K,http://ddns.cyruslee.top:8888/udp/239.77.0.246:5146
 广东综艺4K,http://ddns.cyruslee.top:8888/udp/239.77.0.252:5146
 广东综艺4K,http://over.qiyuevod.com/tmsctv/gdcs.php?id=gdzy4k
-北京超清4K,http://123.121.60.214:8686/udp/239.3.1.249:8001
+北京超清4K,http://iptv.8t.cx:8180/udp/239.3.1.249:8001
 北京超清4K,http://webmail.axxe.top:4022/rtp/239.3.1.249:8001
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K,http://over.qiyuevod.com/tmsctv/bj8k.php?id=kj8k
@@ -4038,7 +4106,6 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9
 经典再现特色轮播,http://117.176.241.206:4022/udp/239.10.0.130:5140
 军旅谍战特色轮播,http://117.176.241.206:4022/udp/239.10.0.131:5140
 高清影院特色轮播,http://117.176.241.206:4022/udp/239.10.0.188:5140
-经典重温特色轮播,http://39.134.134.88/000000002001/PLTV/88888888/224/3221279950/index.m3u8?HlsProfileId=
 地 雷 战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地 道 战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
 少 林 寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
@@ -4697,13 +4764,13 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 👲娱乐综艺,#genre#
 好歌不停,http://139.196.228.200:35455/yy/54880976
 好歌不停,http://mmitv.top/pltv/yy.php?id=54880976
-好歌不停,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=54880976
+好歌不停,http://live.iill.top/yy.php?id=54880976
 热舞不断,http://139.196.228.200:35455/yy/22490906
 热舞不断,http://mmitv.top/pltv/yy.php?id=22490906
-热舞不断,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22490906
-坂井泉水,http://mmitv.top/test/bili.php?id=26429625
-坂井泉水,http://jxiptv.xn--9kqp7k2rd.com/svip/bili.php?t=26429625
+热舞不断,http://live.iill.top/yy.php?id=22490906
 坂井泉水,http://139.196.228.200:35455/bili/26429625
+坂井泉水,http://mmitv.top/test/bili.php?id=26429625
+坂井泉水,http://live.iill.top/bilibili.php?id=26429625
 动听漫歌,http://cfss.cc/cdn/dyu/9564766.m3u8
 周董乐台,http://cfss.cc/cdn/dyu/7537296.m3u8
 余娟乐台,http://cfss.cc/cdn/dyu/3186217.m3u8
@@ -4717,16 +4784,41 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 皇冠壹厅,http://cfss.cc/cdn/dyu/17732.m3u8
 皇冠贰厅,http://cfss.cc/cdn/dyu/3221207.m3u8
 秋月剪水,http://cfss.cc/cdn/dyu/9588891.m3u8
-音乐石榴,http://cfss.cc/cdn/hy/17091681
-阿兰民歌,http://cfss.cc/cdn/hy/22970983
-日系乐团,http://cfss.cc/cdn/hy/21241796
-杰伦专场,http://cfss.cc/cdn/hy/25703092
-奕迅金曲,http://cfss.cc/cdn/hy/21241843
-动听音乐,http://cfss.cc/cdn/hy/19439762
-精彩现场,http://cfss.cc/cdn/hy/21241817
-催眠音乐,http://cfss.cc/cdn/hy/21241811
-爵士乐赏,http://cfss.cc/cdn/hy/21241769
-华语翻唱,http://cfss.cc/cdn/hy/21241810
+音乐石榴,http://cfss.cc/cdn/hy/17091681.m3u8
+阿兰民歌,http://cfss.cc/cdn/hy/22970983.m3u8
+日系乐团,http://cfss.cc/cdn/hy/21241796.m3u8
+杰伦专场,http://cfss.cc/cdn/hy/25703092.m3u8
+奕迅金曲,http://cfss.cc/cdn/hy/21241843.m3u8
+动听音乐,http://cfss.cc/cdn/hy/19439762.m3u8
+精彩现场,http://cfss.cc/cdn/hy/21241817.m3u8
+催眠音乐,http://cfss.cc/cdn/hy/21241811.m3u8
+爵士乐赏,http://cfss.cc/cdn/hy/21241769.m3u8
+华语翻唱,http://cfss.cc/cdn/hy/21241810.m3u8
+
+坂井泉水,http://120.77.28.4:8648/bili.php?id=26429625
+动听漫歌,http://120.77.28.4:8648/douyu.php?id=9564766
+周董乐台,http://120.77.28.4:8648/douyu.php?id=7537296
+余娟乐台,http://120.77.28.4:8648/douyu.php?id=3186217
+音乐抬头,http://120.77.28.4:8648/douyu.php?id=8666105
+黑糖音乐,http://120.77.28.4:8648/douyu.php?id=9560563
+音乐小琼,http://120.77.28.4:8648/douyu.php?id=8666210
+粤语歌姬,http://120.77.28.4:8648/douyu.php?id=4728410
+老郑音乐,http://120.77.28.4:8648/douyu.php?id=8666143
+喵喵音乐,http://120.77.28.4:8648/douyu.php?id=9568091
+女团现场,http://120.77.28.4:8648/douyu.php?id=123351
+皇冠壹厅,http://120.77.28.4:8648/douyu.php?id=17732
+皇冠贰厅,http://120.77.28.4:8648/douyu.php?id=3221207
+秋月剪水,http://120.77.28.4:8648/douyu.php?id=9588891
+音乐石榴,http://120.77.28.4:8648/huya.php?id=17091681
+阿兰民歌,http://120.77.28.4:8648/huya.php?id=22970983
+日系乐团,http://120.77.28.4:8648/huya.php?id=21241796
+杰伦专场,http://120.77.28.4:8648/huya.php?id=25703092
+奕迅金曲,http://120.77.28.4:8648/huya.php?id=21241843
+动听音乐,http://120.77.28.4:8648/huya.php?id=19439762
+精彩现场,http://120.77.28.4:8648/huya.php?id=21241817
+催眠音乐,http://120.77.28.4:8648/huya.php?id=21241811
+爵士乐赏,http://120.77.28.4:8648/huya.php?id=21241769
+华语翻唱,http://120.77.28.4:8648/huya.php?id=21241810
 
 坂井泉水,https://www.goodiptv.club/bili/26429625
 动听漫歌,https://www.goodiptv.club/douyu/9564766
@@ -4753,31 +4845,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 爵士乐赏,https://www.goodiptv.club/huya/21241769
 华语翻唱,https://www.goodiptv.club/huya/21241810
 
-坂井泉水,http://over.qiyuevod.com/tmsclb/bi.php?id=26429625
-动听漫歌,http://over.qiyuevod.com/tmsclb/dy.php?id=9564766
-周董乐台,http://over.qiyuevod.com/tmsclb/dy.php?id=7537296
-余娟乐台,http://over.qiyuevod.com/tmsclb/dy.php?id=3186217
-音乐抬头,http://over.qiyuevod.com/tmsclb/dy.php?id=8666105
-黑糖音乐,http://over.qiyuevod.com/tmsclb/dy.php?id=9560563
-音乐小琼,http://over.qiyuevod.com/tmsclb/dy.php?id=8666210
-粤语歌姬,http://over.qiyuevod.com/tmsclb/dy.php?id=4728410
-老郑音乐,http://over.qiyuevod.com/tmsclb/dy.php?id=8666143
-喵喵音乐,http://over.qiyuevod.com/tmsclb/dy.php?id=9568091
-女团现场,http://over.qiyuevod.com/tmsclb/dy.php?id=123351
-皇冠壹厅,http://over.qiyuevod.com/tmsclb/dy.php?id=17732
-皇冠贰厅,http://over.qiyuevod.com/tmsclb/dy.php?id=3221207
-秋月剪水,http://over.qiyuevod.com/tmsclb/dy.php?id=9588891
-音乐石榴,http://over.qiyuevod.com/tmsclb/hy.php?id=17091681
-阿兰民歌,http://over.qiyuevod.com/tmsclb/hy.php?id=22970983
-日系乐团,http://over.qiyuevod.com/tmsclb/hy.php?id=21241796
-杰伦专场,http://over.qiyuevod.com/tmsclb/hy.php?id=25703092
-奕迅金曲,http://over.qiyuevod.com/tmsclb/hy.php?id=21241843
-动听音乐,http://over.qiyuevod.com/tmsclb/hy.php?id=19439762
-精彩现场,http://over.qiyuevod.com/tmsclb/hy.php?id=21241817
-催眠音乐,http://over.qiyuevod.com/tmsclb/hy.php?id=21241811
-爵士乐赏,http://over.qiyuevod.com/tmsclb/hy.php?id=21241769
-华语翻唱,http://over.qiyuevod.com/tmsclb/hy.php?id=21241810
-
 极限挑战,https://bp-caster.bestv.com.cn/954/3/video.m3u8
 极限挑战,http://8.210.232.168/bs1.php?id=27
 极限挑战,http://8.210.232.168/php/bs1.php?id=27
@@ -4795,11 +4862,14 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
 高能脱口秀,http://bp-caster.bestv.com.cn/462/1/video.m3u8
 美食李子柒,http://cfss.cc/cdn/dyu/2901080.m3u8
+美食李子柒,http://diyp.zxxoo.work/douyu/2901080
 美食李子柒,http://www.goodiptv.club/douyu/2901080
 美食李子柒,http://lxajh.top/tv/douyu.php?id=2901080
 美食李子柒,http://maomao.kandiantv.cn/douyu1.php?id=2901080
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-陈翔六点半,http://cfss.cc/cdn/hy/11274154.m3u8
+陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
+陈翔六点半,http://diyp.zxxoo.work/hy/11274154
+陈翔六点半,http://ygbh666.cn/huya.php?id=11274154
 陈翔六点半,https://www.goodiptv.club/huya/11274154
 陈翔六点半,http://live.aptvapp.com/live/huya/11274154
 陈翔六点半,http://live.aptvapp.com/live/huya/11274154?platform=h5&line=first&quality=10000
@@ -4922,6 +4992,119 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.m3u8
 剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.m3u8
 
+电影_星爷,http://120.77.28.4:8648/huya.php?id=11342412
+电影_英叔,http://120.77.28.4:8648/huya.php?id=11342421
+电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
+电影_成龙,http://120.77.28.4:8648/huya.php?id=11342386
+电影_王晶,http://120.77.28.4:8648/huya.php?id=11602058
+电影_沈腾,http://120.77.28.4:8648/huya.php?id=11601968
+电影_黄渤,http://120.77.28.4:8648/huya.php?id=11352876
+电影_强森,http://120.77.28.4:8648/huya.php?id=21059581
+电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
+电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
+电影_怪兽,http://120.77.28.4:8648/huya.php?id=21059577
+电影_武侠,http://120.77.28.4:8648/huya.php?id=11342427
+电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
+电影_罪犯,http://120.77.28.4:8648/huya.php?id=11352962
+电影_枪战,http://120.77.28.4:8648/huya.php?id=21059579
+电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
+电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
+电影_推荐,http://120.77.28.4:8648/huya.php?id=11602041
+电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
+电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
+电影_盗墓,http://120.77.28.4:8648/huya.php?id=21059552
+电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
+电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
+电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
+电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
+电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
+电影_港片,http://120.77.28.4:8648/huya.php?id=11602043
+电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
+电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
+电影_李连杰,http://120.77.28.4:8648/huya.php?id=11342390
+电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
+电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
+电影_许冠英,http://120.77.28.4:8648/huya.php?id=11601972
+电影_刘德华,http://120.77.28.4:8648/huya.php?id=11342424
+电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
+电影_小鬼头,http://120.77.28.4:8648/huya.php?id=11352963
+电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
+电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
+电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
+电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
+电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
+电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
+电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
+电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
+电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
+电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
+电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
+电影_高分动作,http://120.77.28.4:8648/huya.php?id=11352884
+电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
+电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
+电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
+电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
+电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
+电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
+电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
+电影_古墓系列,http://120.77.28.4:8648/huya.php?id=11352913
+电影_嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
+电影_女神系列,http://120.77.28.4:8648/huya.php?id=11336571
+电影_经典女神,http://120.77.28.4:8648/huya.php?id=11352909
+电影_许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
+电影_经典港片,http://120.77.28.4:8648/huya.php?id=11352965
+电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
+电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
+电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
+电影_蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
+电影_搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
+电影_死神来了,http://120.77.28.4:8648/huya.php?id=11352903
+电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
+电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
+搞笑_陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
+解说_电影狂人,http://120.77.28.4:8648/huya.php?id=18715610
+解说_鹿哥电影,http://120.77.28.4:8648/huya.php?id=24396360
+解说_斌哥漫说,http://120.77.28.4:8648/huya.php?id=18632116
+解说_续哥说电影,http://120.77.28.4:8648/huya.php?id=24396472
+解说_小川侃电影,http://120.77.28.4:8648/huya.php?id=15870999
+解说_阿钙扒瞎,http://120.77.28.4:8648/huya.php?id=15978172
+解说_阿良说剧,http://120.77.28.4:8648/huya.php?id=20488841
+解说_鱼丸电影,http://120.77.28.4:8648/huya.php?id=16615910
+解说_阿斗说电影,http://120.77.28.4:8648/huya.php?id=13303478
+解说_扁豆看电影,http://120.77.28.4:8648/huya.php?id=16028551
+解说_乌贼说电影,http://120.77.28.4:8648/huya.php?id=16604522
+解说_大象放映室,http://120.77.28.4:8648/huya.php?id=21277391
+解说_科幻梦工场,http://120.77.28.4:8648/huya.php?id=15152155
+解说_亮哥讲电影,http://120.77.28.4:8648/huya.php?id=16144175
+解说_越哥说电影,http://120.77.28.4:8648/huya.php?id=15894162
+解说_小冉看电影,http://120.77.28.4:8648/huya.php?id=17341907
+解说_嫦娥撩电影,http://120.77.28.4:8648/huya.php?id=18201106
+解说_阿翔说电影,http://120.77.28.4:8648/huya.php?id=16868935
+解说_疯狂解说家,http://120.77.28.4:8648/huya.php?id=18366196
+解说_虎妞说电影,http://120.77.28.4:8648/huya.php?id=20343144
+解说_顾久撩电影,http://120.77.28.4:8648/huya.php?id=16422212
+解说_涵哥评电影,http://120.77.28.4:8648/huya.php?id=16865726
+解说_俗哥看电影,http://120.77.28.4:8648/huya.php?id=15452736
+解说_老皮讲电影,http://120.77.28.4:8648/huya.php?id=16968572
+解说_默爷侃电影,http://120.77.28.4:8648/huya.php?id=17204307
+解说_冷君说电影,http://120.77.28.4:8648/huya.php?id=16739452
+解说_老炮说电影,http://120.77.28.4:8648/huya.php?id=15454716
+解说_刘老师说电影,http://120.77.28.4:8648/huya.php?id=20289754
+解说_恐怖电影解说,http://120.77.28.4:8648/huya.php?id=16741179
+剧集_老三国,http://120.77.28.4:8648/huya.php?id=11602081
+剧集_新三国,http://120.77.28.4:8648/huya.php?id=11352944
+剧集_新水浒,http://120.77.28.4:8648/huya.php?id=11342384
+剧集_纪晓岚,http://120.77.28.4:8648/huya.php?id=11342396
+剧集_庆余年,http://120.77.28.4:8648/huya.php?id=11352960
+剧集_雍正王朝,http://120.77.28.4:8648/huya.php?id=11342439
+剧集_士兵突击,http://120.77.28.4:8648/huya.php?id=11342430
+剧集_爱情公寓,http://120.77.28.4:8648/huya.php?id=11336726
+剧集_家有儿女,http://120.77.28.4:8648/huya.php?id=11352872
+剧集_武林外传,http://120.77.28.4:8648/huya.php?id=21059598
+剧集_地下交通站,http://120.77.28.4:8648/huya.php?id=11342433
+剧集_邻里一家亲,http://120.77.28.4:8648/huya.php?id=11342426
+
 电影_星爷,https://www.goodiptv.club/huya/11342412
 电影_英叔,https://www.goodiptv.club/huya/11342421
 电影_发哥,https://www.goodiptv.club/huya/11342387
@@ -5035,119 +5218,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 剧集_地下交通站,https://www.goodiptv.club/huya/11342433
 剧集_邻里一家亲,https://www.goodiptv.club/huya/11342426
 
-电影_星爷,http://over.qiyuevod.com/tmsclb/hy.php?id=11342412
-电影_英叔,http://over.qiyuevod.com/tmsclb/hy.php?id=11342421
-电影_发哥,http://over.qiyuevod.com/tmsclb/hy.php?id=11342387
-电影_成龙,http://over.qiyuevod.com/tmsclb/hy.php?id=11342386
-电影_王晶,http://over.qiyuevod.com/tmsclb/hy.php?id=11602058
-电影_沈腾,http://over.qiyuevod.com/tmsclb/hy.php?id=11601968
-电影_黄渤,http://over.qiyuevod.com/tmsclb/hy.php?id=11352876
-电影_强森,http://over.qiyuevod.com/tmsclb/hy.php?id=21059581
-电影_漫威,http://over.qiyuevod.com/tmsclb/hy.php?id=11602034
-电影_宇宙,http://over.qiyuevod.com/tmsclb/hy.php?id=11342428
-电影_怪兽,http://over.qiyuevod.com/tmsclb/hy.php?id=21059577
-电影_武侠,http://over.qiyuevod.com/tmsclb/hy.php?id=11342427
-电影_警匪,http://over.qiyuevod.com/tmsclb/hy.php?id=11352886
-电影_罪犯,http://over.qiyuevod.com/tmsclb/hy.php?id=11352962
-电影_枪战,http://over.qiyuevod.com/tmsclb/hy.php?id=21059579
-电影_海盗,http://over.qiyuevod.com/tmsclb/hy.php?id=21059595
-电影_赛车,http://over.qiyuevod.com/tmsclb/hy.php?id=11279247
-电影_推荐,http://over.qiyuevod.com/tmsclb/hy.php?id=11602041
-电影_救援,http://over.qiyuevod.com/tmsclb/hy.php?id=21059594
-电影_热血,http://over.qiyuevod.com/tmsclb/hy.php?id=11352934
-电影_盗墓,http://over.qiyuevod.com/tmsclb/hy.php?id=21059552
-电影_贺岁,http://over.qiyuevod.com/tmsclb/hy.php?id=11601971
-电影_玄幻,http://over.qiyuevod.com/tmsclb/hy.php?id=11342414
-电影_谍战,http://over.qiyuevod.com/tmsclb/hy.php?id=21059585
-电影_战争,http://over.qiyuevod.com/tmsclb/hy.php?id=21059592
-电影_喜剧,http://over.qiyuevod.com/tmsclb/hy.php?id=11352877
-电影_港片,http://over.qiyuevod.com/tmsclb/hy.php?id=11602043
-电影_国产,http://over.qiyuevod.com/tmsclb/hy.php?id=11352973
-电影_周星星,http://over.qiyuevod.com/tmsclb/hy.php?id=11336587
-电影_李连杰,http://over.qiyuevod.com/tmsclb/hy.php?id=11342390
-电影_洪金宝,http://over.qiyuevod.com/tmsclb/hy.php?id=11279251
-电影_梁家辉,http://over.qiyuevod.com/tmsclb/hy.php?id=11342429
-电影_许冠英,http://over.qiyuevod.com/tmsclb/hy.php?id=11601972
-电影_刘德华,http://over.qiyuevod.com/tmsclb/hy.php?id=11342424
-电影_斯坦森,http://over.qiyuevod.com/tmsclb/hy.php?id=21059588
-电影_小鬼头,http://over.qiyuevod.com/tmsclb/hy.php?id=11352963
-电影_八点档,http://over.qiyuevod.com/tmsclb/hy.php?id=880261
-电影_蜘蛛侠,http://over.qiyuevod.com/tmsclb/hy.php?id=21059599
-电影_贺岁片,http://over.qiyuevod.com/tmsclb/hy.php?id=11601986
-电影_功夫片,http://over.qiyuevod.com/tmsclb/hy.php?id=11352941
-电影_黑帮片,http://over.qiyuevod.com/tmsclb/hy.php?id=11336719
-电影_丧尸片,http://over.qiyuevod.com/tmsclb/hy.php?id=21059578
-电影_灾难片,http://over.qiyuevod.com/tmsclb/hy.php?id=11602075
-电影_谍战片,http://over.qiyuevod.com/tmsclb/hy.php?id=21059587
-电影_战争片,http://over.qiyuevod.com/tmsclb/hy.php?id=21059574
-电影_犯罪片,http://over.qiyuevod.com/tmsclb/hy.php?id=11352974
-电影_古装片,http://over.qiyuevod.com/tmsclb/hy.php?id=11336590
-电影_高分动作,http://over.qiyuevod.com/tmsclb/hy.php?id=11352884
-电影_动作电影,http://over.qiyuevod.com/tmsclb/hy.php?id=11602077
-电影_搞笑喜剧,http://over.qiyuevod.com/tmsclb/hy.php?id=11342423
-电影_喜剧专场,http://over.qiyuevod.com/tmsclb/hy.php?id=11602044
-电影_欢笑影院,http://over.qiyuevod.com/tmsclb/hy.php?id=11352894
-电影_不挤影院,http://over.qiyuevod.com/tmsclb/hy.php?id=11352897
-电影_国产悬疑,http://over.qiyuevod.com/tmsclb/hy.php?id=11342395
-电影_快意江湖,http://over.qiyuevod.com/tmsclb/hy.php?id=11342435
-电影_黑帮斗争,http://over.qiyuevod.com/tmsclb/hy.php?id=11342419
-电影_古墓系列,http://over.qiyuevod.com/tmsclb/hy.php?id=11352913
-电影_嫣然影厅,http://over.qiyuevod.com/tmsclb/hy.php?id=11601977
-电影_女神系列,http://over.qiyuevod.com/tmsclb/hy.php?id=11336571
-电影_经典女神,http://over.qiyuevod.com/tmsclb/hy.php?id=11352909
-电影_许氏三杰,http://over.qiyuevod.com/tmsclb/hy.php?id=11602033
-电影_经典港片,http://over.qiyuevod.com/tmsclb/hy.php?id=11352965
-电影_镖行天下,http://over.qiyuevod.com/tmsclb/hy.php?id=11352969
-电影_高能反转,http://over.qiyuevod.com/tmsclb/hy.php?id=11352887
-电影_喜乐影院,http://over.qiyuevod.com/tmsclb/hy.php?id=21059580
-电影_蘑菇影厅,http://over.qiyuevod.com/tmsclb/hy.php?id=11601981
-电影_搞笑恐怖,http://over.qiyuevod.com/tmsclb/hy.php?id=11601960
-电影_死神来了,http://over.qiyuevod.com/tmsclb/hy.php?id=11352903
-电影_变形金刚,http://over.qiyuevod.com/tmsclb/hy.php?id=21059596
-电影_怪兽系列,http://over.qiyuevod.com/tmsclb/hy.php?id=21059554
-搞笑_陈翔六点半,http://over.qiyuevod.com/tmsclb/hy.php?id=11274154
-解说_电影狂人,http://over.qiyuevod.com/tmsclb/hy.php?id=18715610
-解说_鹿哥电影,http://over.qiyuevod.com/tmsclb/hy.php?id=24396360
-解说_斌哥漫说,http://over.qiyuevod.com/tmsclb/hy.php?id=18632116
-解说_续哥说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=24396472
-解说_小川侃电影,http://over.qiyuevod.com/tmsclb/hy.php?id=15870999
-解说_阿钙扒瞎,http://over.qiyuevod.com/tmsclb/hy.php?id=15978172
-解说_阿良说剧,http://over.qiyuevod.com/tmsclb/hy.php?id=20488841
-解说_鱼丸电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16615910
-解说_阿斗说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=13303478
-解说_扁豆看电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16028551
-解说_乌贼说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16604522
-解说_大象放映室,http://over.qiyuevod.com/tmsclb/hy.php?id=21277391
-解说_科幻梦工场,http://over.qiyuevod.com/tmsclb/hy.php?id=15152155
-解说_亮哥讲电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16144175
-解说_越哥说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=15894162
-解说_小冉看电影,http://over.qiyuevod.com/tmsclb/hy.php?id=17341907
-解说_嫦娥撩电影,http://over.qiyuevod.com/tmsclb/hy.php?id=18201106
-解说_阿翔说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16868935
-解说_疯狂解说家,http://over.qiyuevod.com/tmsclb/hy.php?id=18366196
-解说_虎妞说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=20343144
-解说_顾久撩电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16422212
-解说_涵哥评电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16865726
-解说_俗哥看电影,http://over.qiyuevod.com/tmsclb/hy.php?id=15452736
-解说_老皮讲电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16968572
-解说_默爷侃电影,http://over.qiyuevod.com/tmsclb/hy.php?id=17204307
-解说_冷君说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=16739452
-解说_老炮说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=15454716
-解说_刘老师说电影,http://over.qiyuevod.com/tmsclb/hy.php?id=20289754
-解说_恐怖电影解说,http://over.qiyuevod.com/tmsclb/hy.php?id=16741179
-剧集_老三国,http://over.qiyuevod.com/tmsclb/hy.php?id=11602081
-剧集_新三国,http://over.qiyuevod.com/tmsclb/hy.php?id=11352944
-剧集_新水浒,http://over.qiyuevod.com/tmsclb/hy.php?id=11342384
-剧集_纪晓岚,http://over.qiyuevod.com/tmsclb/hy.php?id=11342396
-剧集_庆余年,http://over.qiyuevod.com/tmsclb/hy.php?id=11352960
-剧集_雍正王朝,http://over.qiyuevod.com/tmsclb/hy.php?id=11342439
-剧集_士兵突击,http://over.qiyuevod.com/tmsclb/hy.php?id=11342430
-剧集_爱情公寓,http://over.qiyuevod.com/tmsclb/hy.php?id=11336726
-剧集_家有儿女,http://over.qiyuevod.com/tmsclb/hy.php?id=11352872
-剧集_武林外传,http://over.qiyuevod.com/tmsclb/hy.php?id=21059598
-剧集_地下交通站,http://over.qiyuevod.com/tmsclb/hy.php?id=11342433
-剧集_邻里一家亲,http://over.qiyuevod.com/tmsclb/hy.php?id=11342426
-
 🐠斗鱼影视,#genre#
 周 星 驰,http://cfss.cc/cdn/dyu/122402.m3u8
 刘 德 华,http://cfss.cc/cdn/dyu/2516864.m3u8
@@ -5250,6 +5320,107 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 大片片说小片,http://cfss.cc/cdn/dyu/7489563.m3u8
 火龙果说电影,http://cfss.cc/cdn/dyu/9559158.m3u8
 
+周 星 驰,http://120.77.28.4:8648/douyu.php?id=122402
+刘 德 华,http://120.77.28.4:8648/douyu.php?id=2516864
+好 先 生,http://120.77.28.4:8648/douyu.php?id=9650792
+庆 余 年,http://120.77.28.4:8648/douyu.php?id=5908256
+欢乐综艺,http://120.77.28.4:8648/douyu.php?id=131977
+万合出品,http://120.77.28.4:8648/douyu.php?id=9220456
+邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
+吃米滴虫,http://120.77.28.4:8648/douyu.php?id=315457
+高分电影,http://120.77.28.4:8648/douyu.php?id=7254536
+豆瓣高分,http://120.77.28.4:8648/douyu.php?id=8770422
+漫威影院,http://120.77.28.4:8648/douyu.php?id=6140589
+特辑电影,http://120.77.28.4:8648/douyu.php?id=3637778
+粤语电影,http://120.77.28.4:8648/douyu.php?id=1226741
+国产电影,http://120.77.28.4:8648/douyu.php?id=5423
+精彩电影,http://120.77.28.4:8648/douyu.php?id=9650887
+喜剧电影,http://120.77.28.4:8648/douyu.php?id=323876
+动作电影,http://120.77.28.4:8648/douyu.php?id=6763930
+恐怖电影,http://120.77.28.4:8648/douyu.php?id=218859
+恐怖鬼怪,http://120.77.28.4:8648/douyu.php?id=1165374
+童年阴影,http://120.77.28.4:8648/douyu.php?id=2935323
+惊悚电影,http://120.77.28.4:8648/douyu.php?id=96577
+粤语电影,http://120.77.28.4:8648/douyu.php?id=6566671
+华语影视,http://120.77.28.4:8648/douyu.php?id=3928
+神乐影视,http://120.77.28.4:8648/douyu.php?id=85894
+周末影院,http://120.77.28.4:8648/douyu.php?id=3637765
+周末电影,http://120.77.28.4:8648/douyu.php?id=3637726
+兔子影厅,http://120.77.28.4:8648/douyu.php?id=8985415
+冰冰影厅,http://120.77.28.4:8648/douyu.php?id=74374
+刀刀影院,http://120.77.28.4:8648/douyu.php?id=747764
+奶虫影院,http://120.77.28.4:8648/douyu.php?id=263824
+贝爷壹厅,http://120.77.28.4:8648/douyu.php?id=252802
+贝爷贰厅,http://120.77.28.4:8648/douyu.php?id=4332
+贝爷叁厅,http://120.77.28.4:8648/douyu.php?id=36337
+凌儿影院,http://120.77.28.4:8648/douyu.php?id=1377142
+云宝影院,http://120.77.28.4:8648/douyu.php?id=7305938
+花卷影院,http://120.77.28.4:8648/douyu.php?id=52787
+菜园小饼,http://120.77.28.4:8648/douyu.php?id=1735337
+米娅影院,http://120.77.28.4:8648/douyu.php?id=6537888
+橙記港剧,http://120.77.28.4:8648/douyu.php?id=4549169
+大宝影视,http://120.77.28.4:8648/douyu.php?id=805235
+蚂蚱影视,http://120.77.28.4:8648/douyu.php?id=6079455
+怡寶影视,http://120.77.28.4:8648/douyu.php?id=434971
+圆子影视,http://120.77.28.4:8648/douyu.php?id=6566658
+贝贝影视,http://120.77.28.4:8648/douyu.php?id=431460
+可乐影视,http://120.77.28.4:8648/douyu.php?id=20415
+萌牛影视,http://120.77.28.4:8648/douyu.php?id=7494871
+兔兔影视,http://120.77.28.4:8648/douyu.php?id=1504768
+无双影视,http://120.77.28.4:8648/douyu.php?id=4870914
+下饭神剧,http://120.77.28.4:8648/douyu.php?id=276200
+古装神剧,http://120.77.28.4:8648/douyu.php?id=338759
+晚湾影视,http://120.77.28.4:8648/douyu.php?id=9461178
+酒染影视,http://120.77.28.4:8648/douyu.php?id=7550220
+芊珏影视,http://120.77.28.4:8648/douyu.php?id=8814650
+热门港剧,http://120.77.28.4:8648/douyu.php?id=5522351
+盗墓剧集,http://120.77.28.4:8648/douyu.php?id=9292503
+金庸武侠,http://120.77.28.4:8648/douyu.php?id=7644931
+国产剧集,http://120.77.28.4:8648/douyu.php?id=8157860
+国产剧场,http://120.77.28.4:8648/douyu.php?id=308752
+爱情公寓,http://120.77.28.4:8648/douyu.php?id=2838296
+经典剧集,http://120.77.28.4:8648/douyu.php?id=6863367
+李卫当官,http://120.77.28.4:8648/douyu.php?id=7473576
+龙门镖局,http://120.77.28.4:8648/douyu.php?id=9650860
+雍正王朝,http://120.77.28.4:8648/douyu.php?id=4944033
+雍正帝王,http://120.77.28.4:8648/douyu.php?id=9650836
+隋唐演义,http://120.77.28.4:8648/douyu.php?id=7552568
+大宋神探,http://120.77.28.4:8648/douyu.php?id=7784862
+音乐欣赏,http://120.77.28.4:8648/douyu.php?id=3186217
+舌尖美食,http://120.77.28.4:8648/douyu.php?id=9650849
+篮球人物,http://120.77.28.4:8648/douyu.php?id=8434598
+史君说剧,http://120.77.28.4:8648/douyu.php?id=9419771
+史剧解说,http://120.77.28.4:8648/douyu.php?id=297689
+老秦说剧,http://120.77.28.4:8648/douyu.php?id=9650131
+老蔡解说,http://120.77.28.4:8648/douyu.php?id=8869614
+长片短解,http://120.77.28.4:8648/douyu.php?id=9410946
+宇哥解说,http://120.77.28.4:8648/douyu.php?id=8651489
+夜魔人老王,http://120.77.28.4:8648/douyu.php?id=610972
+皮皮看动漫,http://120.77.28.4:8648/douyu.php?id=9837291
+开心锤动漫,http://120.77.28.4:8648/douyu.php?id=9018297
+拳叔二次元,http://120.77.28.4:8648/douyu.php?id=9484105
+老邪说电影,http://120.77.28.4:8648/douyu.php?id=9222870
+洗碗君解说,http://120.77.28.4:8648/douyu.php?id=9446706
+百晓生说剧,http://120.77.28.4:8648/douyu.php?id=9649681
+百晓生解说,http://120.77.28.4:8648/douyu.php?id=9653063
+小司马说剧,http://120.77.28.4:8648/douyu.php?id=4808115
+小司马解说,http://120.77.28.4:8648/douyu.php?id=9660127
+星君说电影,http://120.77.28.4:8648/douyu.php?id=8014467
+刘哔讲电影,http://120.77.28.4:8648/douyu.php?id=2632223
+老王说电影,http://120.77.28.4:8648/douyu.php?id=9687733
+贤于说电影,http://120.77.28.4:8648/douyu.php?id=9461990
+牛叔说电影,http://120.77.28.4:8648/douyu.php?id=2758565
+侃片大师兄,http://120.77.28.4:8648/douyu.php?id=9338839
+虫哥说电影,http://120.77.28.4:8648/douyu.php?id=8915074
+电影迷小雅,http://120.77.28.4:8648/douyu.php?id=9639225
+1900影剧室,http://120.77.28.4:8648/douyu.php?id=7796193
+刘老师说电影,http://120.77.28.4:8648/douyu.php?id=8317926
+来呀官人解说,http://120.77.28.4:8648/douyu.php?id=9986305
+科幻Fans布玛,http://120.77.28.4:8648/douyu.php?id=3508304
+小片片说大片,http://120.77.28.4:8648/douyu.php?id=4258555
+大片片说小片,http://120.77.28.4:8648/douyu.php?id=7489563
+火龙果说电影,http://120.77.28.4:8648/douyu.php?id=9559158
+
 周 星 驰,https://www.goodiptv.club/douyu/122402
 刘 德 华,https://www.goodiptv.club/douyu/2516864
 好 先 生,https://www.goodiptv.club/douyu/9650792
@@ -5351,107 +5522,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 大片片说小片,https://www.goodiptv.club/douyu/7489563
 火龙果说电影,https://www.goodiptv.club/douyu/9559158
 
-周 星 驰,http://over.qiyuevod.com/tmsclb/dy.php?id=122402
-刘 德 华,http://over.qiyuevod.com/tmsclb/dy.php?id=2516864
-好 先 生,http://over.qiyuevod.com/tmsclb/dy.php?id=9650792
-庆 余 年,http://over.qiyuevod.com/tmsclb/dy.php?id=5908256
-欢乐综艺,http://over.qiyuevod.com/tmsclb/dy.php?id=131977
-万合出品,http://over.qiyuevod.com/tmsclb/dy.php?id=9220456
-邵氏影院,http://over.qiyuevod.com/tmsclb/dy.php?id=4246519
-吃米滴虫,http://over.qiyuevod.com/tmsclb/dy.php?id=315457
-高分电影,http://over.qiyuevod.com/tmsclb/dy.php?id=7254536
-豆瓣高分,http://over.qiyuevod.com/tmsclb/dy.php?id=8770422
-漫威影院,http://over.qiyuevod.com/tmsclb/dy.php?id=6140589
-特辑电影,http://over.qiyuevod.com/tmsclb/dy.php?id=3637778
-粤语电影,http://over.qiyuevod.com/tmsclb/dy.php?id=1226741
-国产电影,http://over.qiyuevod.com/tmsclb/dy.php?id=5423
-精彩电影,http://over.qiyuevod.com/tmsclb/dy.php?id=9650887
-喜剧电影,http://over.qiyuevod.com/tmsclb/dy.php?id=323876
-动作电影,http://over.qiyuevod.com/tmsclb/dy.php?id=6763930
-恐怖电影,http://over.qiyuevod.com/tmsclb/dy.php?id=218859
-恐怖鬼怪,http://over.qiyuevod.com/tmsclb/dy.php?id=1165374
-童年阴影,http://over.qiyuevod.com/tmsclb/dy.php?id=2935323
-惊悚电影,http://over.qiyuevod.com/tmsclb/dy.php?id=96577
-粤语电影,http://over.qiyuevod.com/tmsclb/dy.php?id=6566671
-华语影视,http://over.qiyuevod.com/tmsclb/dy.php?id=3928
-神乐影视,http://over.qiyuevod.com/tmsclb/dy.php?id=85894
-周末影院,http://over.qiyuevod.com/tmsclb/dy.php?id=3637765
-周末电影,http://over.qiyuevod.com/tmsclb/dy.php?id=3637726
-兔子影厅,http://over.qiyuevod.com/tmsclb/dy.php?id=8985415
-冰冰影厅,http://over.qiyuevod.com/tmsclb/dy.php?id=74374
-刀刀影院,http://over.qiyuevod.com/tmsclb/dy.php?id=747764
-奶虫影院,http://over.qiyuevod.com/tmsclb/dy.php?id=263824
-贝爷壹厅,http://over.qiyuevod.com/tmsclb/dy.php?id=252802
-贝爷贰厅,http://over.qiyuevod.com/tmsclb/dy.php?id=4332
-贝爷叁厅,http://over.qiyuevod.com/tmsclb/dy.php?id=36337
-凌儿影院,http://over.qiyuevod.com/tmsclb/dy.php?id=1377142
-云宝影院,http://over.qiyuevod.com/tmsclb/dy.php?id=7305938
-花卷影院,http://over.qiyuevod.com/tmsclb/dy.php?id=52787
-菜园小饼,http://over.qiyuevod.com/tmsclb/dy.php?id=1735337
-米娅影院,http://over.qiyuevod.com/tmsclb/dy.php?id=6537888
-橙記港剧,http://over.qiyuevod.com/tmsclb/dy.php?id=4549169
-大宝影视,http://over.qiyuevod.com/tmsclb/dy.php?id=805235
-蚂蚱影视,http://over.qiyuevod.com/tmsclb/dy.php?id=6079455
-怡寶影视,http://over.qiyuevod.com/tmsclb/dy.php?id=434971
-圆子影视,http://over.qiyuevod.com/tmsclb/dy.php?id=6566658
-贝贝影视,http://over.qiyuevod.com/tmsclb/dy.php?id=431460
-可乐影视,http://over.qiyuevod.com/tmsclb/dy.php?id=20415
-萌牛影视,http://over.qiyuevod.com/tmsclb/dy.php?id=7494871
-兔兔影视,http://over.qiyuevod.com/tmsclb/dy.php?id=1504768
-无双影视,http://over.qiyuevod.com/tmsclb/dy.php?id=4870914
-下饭神剧,http://over.qiyuevod.com/tmsclb/dy.php?id=276200
-古装神剧,http://over.qiyuevod.com/tmsclb/dy.php?id=338759
-晚湾影视,http://over.qiyuevod.com/tmsclb/dy.php?id=9461178
-酒染影视,http://over.qiyuevod.com/tmsclb/dy.php?id=7550220
-芊珏影视,http://over.qiyuevod.com/tmsclb/dy.php?id=8814650
-热门港剧,http://over.qiyuevod.com/tmsclb/dy.php?id=5522351
-盗墓剧集,http://over.qiyuevod.com/tmsclb/dy.php?id=9292503
-金庸武侠,http://over.qiyuevod.com/tmsclb/dy.php?id=7644931
-国产剧集,http://over.qiyuevod.com/tmsclb/dy.php?id=8157860
-国产剧场,http://over.qiyuevod.com/tmsclb/dy.php?id=308752
-爱情公寓,http://over.qiyuevod.com/tmsclb/dy.php?id=2838296
-经典剧集,http://over.qiyuevod.com/tmsclb/dy.php?id=6863367
-李卫当官,http://over.qiyuevod.com/tmsclb/dy.php?id=7473576
-龙门镖局,http://over.qiyuevod.com/tmsclb/dy.php?id=9650860
-雍正王朝,http://over.qiyuevod.com/tmsclb/dy.php?id=4944033
-雍正帝王,http://over.qiyuevod.com/tmsclb/dy.php?id=9650836
-隋唐演义,http://over.qiyuevod.com/tmsclb/dy.php?id=7552568
-大宋神探,http://over.qiyuevod.com/tmsclb/dy.php?id=7784862
-音乐欣赏,http://over.qiyuevod.com/tmsclb/dy.php?id=3186217
-舌尖美食,http://over.qiyuevod.com/tmsclb/dy.php?id=9650849
-篮球人物,http://over.qiyuevod.com/tmsclb/dy.php?id=8434598
-史君说剧,http://over.qiyuevod.com/tmsclb/dy.php?id=9419771
-史剧解说,http://over.qiyuevod.com/tmsclb/dy.php?id=297689
-老秦说剧,http://over.qiyuevod.com/tmsclb/dy.php?id=9650131
-老蔡解说,http://over.qiyuevod.com/tmsclb/dy.php?id=8869614
-长片短解,http://over.qiyuevod.com/tmsclb/dy.php?id=9410946
-宇哥解说,http://over.qiyuevod.com/tmsclb/dy.php?id=8651489
-夜魔人老王,http://over.qiyuevod.com/tmsclb/dy.php?id=610972
-皮皮看动漫,http://over.qiyuevod.com/tmsclb/dy.php?id=9837291
-开心锤动漫,http://over.qiyuevod.com/tmsclb/dy.php?id=9018297
-拳叔二次元,http://over.qiyuevod.com/tmsclb/dy.php?id=9484105
-老邪说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=9222870
-洗碗君解说,http://over.qiyuevod.com/tmsclb/dy.php?id=9446706
-百晓生说剧,http://over.qiyuevod.com/tmsclb/dy.php?id=9649681
-百晓生解说,http://over.qiyuevod.com/tmsclb/dy.php?id=9653063
-小司马说剧,http://over.qiyuevod.com/tmsclb/dy.php?id=4808115
-小司马解说,http://over.qiyuevod.com/tmsclb/dy.php?id=9660127
-星君说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=8014467
-刘哔讲电影,http://over.qiyuevod.com/tmsclb/dy.php?id=2632223
-老王说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=9687733
-贤于说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=9461990
-牛叔说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=2758565
-侃片大师兄,http://over.qiyuevod.com/tmsclb/dy.php?id=9338839
-虫哥说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=8915074
-电影迷小雅,http://over.qiyuevod.com/tmsclb/dy.php?id=9639225
-1900影剧室,http://over.qiyuevod.com/tmsclb/dy.php?id=7796193
-刘老师说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=8317926
-来呀官人解说,http://over.qiyuevod.com/tmsclb/dy.php?id=9986305
-科幻Fans布玛,http://over.qiyuevod.com/tmsclb/dy.php?id=3508304
-小片片说大片,http://over.qiyuevod.com/tmsclb/dy.php?id=4258555
-大片片说小片,http://over.qiyuevod.com/tmsclb/dy.php?id=7489563
-火龙果说电影,http://over.qiyuevod.com/tmsclb/dy.php?id=9559158
-
 🐱港剧影视,#genre#
 埋堆堆01,http://cfss.cc/cdn/hy/23749096.m3u8
 埋堆堆02,http://cfss.cc/cdn/hy/23735126.m3u8
@@ -5491,6 +5561,44 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 埋堆堆36,http://cfss.cc/cdn/hy/23863787.m3u8
 埋堆堆37,http://cfss.cc/cdn/hy/23824164.m3u8
 
+埋堆堆01,http://120.77.28.4:8648/huya.php?id=23749096
+埋堆堆02,http://120.77.28.4:8648/huya.php?id=23735126
+埋堆堆03,http://120.77.28.4:8648/huya.php?id=23740156
+埋堆堆04,http://120.77.28.4:8648/huya.php?id=23728660
+埋堆堆05,http://120.77.28.4:8648/huya.php?id=23865080
+埋堆堆06,http://120.77.28.4:8648/huya.php?id=23863804
+埋堆堆07,http://120.77.28.4:8648/huya.php?id=23864973
+埋堆堆08,http://120.77.28.4:8648/huya.php?id=23734169
+埋堆堆09,http://120.77.28.4:8648/huya.php?id=23865171
+埋堆堆10,http://120.77.28.4:8648/huya.php?id=23903130
+埋堆堆11,http://120.77.28.4:8648/huya.php?id=23860039
+埋堆堆12,http://120.77.28.4:8648/huya.php?id=23865142
+埋堆堆13,http://120.77.28.4:8648/huya.php?id=23903123
+埋堆堆14,http://120.77.28.4:8648/huya.php?id=23734183
+埋堆堆15,http://120.77.28.4:8648/huya.php?id=23734256
+埋堆堆16,http://120.77.28.4:8648/huya.php?id=23903183
+埋堆堆17,http://120.77.28.4:8648/huya.php?id=23903196
+埋堆堆18,http://120.77.28.4:8648/huya.php?id=23829543
+埋堆堆19,http://120.77.28.4:8648/huya.php?id=23728674
+埋堆堆20,http://120.77.28.4:8648/huya.php?id=23865036
+埋堆堆21,http://120.77.28.4:8648/huya.php?id=23749083
+埋堆堆22,http://120.77.28.4:8648/huya.php?id=23865164
+埋堆堆23,http://120.77.28.4:8648/huya.php?id=23863818
+埋堆堆24,http://120.77.28.4:8648/huya.php?id=23865058
+埋堆堆25,http://120.77.28.4:8648/huya.php?id=23860049
+埋堆堆26,http://120.77.28.4:8648/huya.php?id=23734246
+埋堆堆27,http://120.77.28.4:8648/huya.php?id=23865161
+埋堆堆28,http://120.77.28.4:8648/huya.php?id=23746486
+埋堆堆29,http://120.77.28.4:8648/huya.php?id=23829447
+埋堆堆30,http://120.77.28.4:8648/huya.php?id=23863778
+埋堆堆31,http://120.77.28.4:8648/huya.php?id=23734176
+埋堆堆32,http://120.77.28.4:8648/huya.php?id=23863796
+埋堆堆33,http://120.77.28.4:8648/huya.php?id=23734211
+埋堆堆34,http://120.77.28.4:8648/huya.php?id=23865179
+埋堆堆35,http://120.77.28.4:8648/huya.php?id=23749068
+埋堆堆36,http://120.77.28.4:8648/huya.php?id=23863787
+埋堆堆37,http://120.77.28.4:8648/huya.php?id=23824164
+
 埋堆堆01,https://www.goodiptv.club/huya/23749096
 埋堆堆02,https://www.goodiptv.club/huya/23735126
 埋堆堆03,https://www.goodiptv.club/huya/23740156
@@ -5528,44 +5636,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 埋堆堆35,https://www.goodiptv.club/huya/23749068
 埋堆堆36,https://www.goodiptv.club/huya/23863787
 埋堆堆37,https://www.goodiptv.club/huya/23824164
-
-埋堆堆01,http://over.qiyuevod.com/tmsclb/hy.php?id=23749096
-埋堆堆02,http://over.qiyuevod.com/tmsclb/hy.php?id=23735126
-埋堆堆03,http://over.qiyuevod.com/tmsclb/hy.php?id=23740156
-埋堆堆04,http://over.qiyuevod.com/tmsclb/hy.php?id=23728660
-埋堆堆05,http://over.qiyuevod.com/tmsclb/hy.php?id=23865080
-埋堆堆06,http://over.qiyuevod.com/tmsclb/hy.php?id=23863804
-埋堆堆07,http://over.qiyuevod.com/tmsclb/hy.php?id=23864973
-埋堆堆08,http://over.qiyuevod.com/tmsclb/hy.php?id=23734169
-埋堆堆09,http://over.qiyuevod.com/tmsclb/hy.php?id=23865171
-埋堆堆10,http://over.qiyuevod.com/tmsclb/hy.php?id=23903130
-埋堆堆11,http://over.qiyuevod.com/tmsclb/hy.php?id=23860039
-埋堆堆12,http://over.qiyuevod.com/tmsclb/hy.php?id=23865142
-埋堆堆13,http://over.qiyuevod.com/tmsclb/hy.php?id=23903123
-埋堆堆14,http://over.qiyuevod.com/tmsclb/hy.php?id=23734183
-埋堆堆15,http://over.qiyuevod.com/tmsclb/hy.php?id=23734256
-埋堆堆16,http://over.qiyuevod.com/tmsclb/hy.php?id=23903183
-埋堆堆17,http://over.qiyuevod.com/tmsclb/hy.php?id=23903196
-埋堆堆18,http://over.qiyuevod.com/tmsclb/hy.php?id=23829543
-埋堆堆19,http://over.qiyuevod.com/tmsclb/hy.php?id=23728674
-埋堆堆20,http://over.qiyuevod.com/tmsclb/hy.php?id=23865036
-埋堆堆21,http://over.qiyuevod.com/tmsclb/hy.php?id=23749083
-埋堆堆22,http://over.qiyuevod.com/tmsclb/hy.php?id=23865164
-埋堆堆23,http://over.qiyuevod.com/tmsclb/hy.php?id=23863818
-埋堆堆24,http://over.qiyuevod.com/tmsclb/hy.php?id=23865058
-埋堆堆25,http://over.qiyuevod.com/tmsclb/hy.php?id=23860049
-埋堆堆26,http://over.qiyuevod.com/tmsclb/hy.php?id=23734246
-埋堆堆27,http://over.qiyuevod.com/tmsclb/hy.php?id=23865161
-埋堆堆28,http://over.qiyuevod.com/tmsclb/hy.php?id=23746486
-埋堆堆29,http://over.qiyuevod.com/tmsclb/hy.php?id=23829447
-埋堆堆30,http://over.qiyuevod.com/tmsclb/hy.php?id=23863778
-埋堆堆31,http://over.qiyuevod.com/tmsclb/hy.php?id=23734176
-埋堆堆32,http://over.qiyuevod.com/tmsclb/hy.php?id=23863796
-埋堆堆33,http://over.qiyuevod.com/tmsclb/hy.php?id=23734211
-埋堆堆34,http://over.qiyuevod.com/tmsclb/hy.php?id=23865179
-埋堆堆35,http://over.qiyuevod.com/tmsclb/hy.php?id=23749068
-埋堆堆36,http://over.qiyuevod.com/tmsclb/hy.php?id=23863787
-埋堆堆37,http://over.qiyuevod.com/tmsclb/hy.php?id=23824164
 
 🐶酷狗影视,#genre#
 CIBN综合台,http://zby.xjqxz.top/zh01/live.m3u8
