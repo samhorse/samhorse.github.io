@@ -9,95 +9,6 @@ ______      _               _  _
 //如果你抓包了获取到了直播源,请自用,别公开,谢谢！//
 
 🔠央卫高清,#genre#
-CCTV-1,http://kxrj.site:64325/86/mg.php?id=cctv1
-CCTV-2,http://kxrj.site:64325/86/mg.php?id=cctv2
-CCTV-3,http://kxrj.site:64325/86/mg.php?id=cctv3
-CCTV-4,http://kxrj.site:64325/86/mg.php?id=cctv4
-CCTV-5,http://kxrj.site:64325/86/mg.php?id=cctv5
-CCTV-5+,http://kxrj.site:64325/86/mg.php?id=cctv5p
-CCTV-6,http://kxrj.site:64325/86/mg.php?id=cctv6
-CCTV-7,http://kxrj.site:64325/86/mg.php?id=cctv7
-CCTV-8,http://kxrj.site:64325/86/mg.php?id=cctv8
-CCTV-9,http://kxrj.site:64325/86/mg.php?id=cctv9
-CCTV-10,http://kxrj.site:64325/86/mg.php?id=cctv10
-CCTV-11,http://kxrj.site:64325/86/mg.php?id=cctv11
-CCTV-12,http://kxrj.site:64325/86/mg.php?id=cctv12
-CCTV-13,http://kxrj.site:64325/86/mg.php?id=cctv13
-CCTV-14,http://kxrj.site:64325/86/mg.php?id=cctv14
-CCTV-15,http://kxrj.site:64325/86/mg.php?id=cctv15
-CCTV-16,http://kxrj.site:64325/86/mg.php?id=cctv16
-CCTV-17,http://kxrj.site:64325/86/mg.php?id=cctv17
-CCTV-4欧洲,http://kxrj.site:64325/86/mg.php?id=cctv4o
-CCTV-4美洲,http://kxrj.site:64325/86/mg.php?id=cctv4a
-CGTN-纪录,http://kxrj.site:64325/86/mg.php?id=cgtnjl
-CGTN-英语,http://kxrj.site:64325/86/mg.php?id=cgtn
-CGTN-西语,http://kxrj.site:64325/86/mg.php?id=cgtne
-CGTN-阿语,http://kxrj.site:64325/86/mg.php?id=cgtna
-CGTN-法语,http://kxrj.site:64325/86/mg.php?id=cgtnf
-CGTN-俄语,http://kxrj.site:64325/86/mg.php?id=cgtnr
-CHC家庭影院,http://kxrj.site:64325/86/mg.php?id=chcjt
-CHC动作电影,http://kxrj.site:64325/86/mg.php?id=chcdz
-CHC影谜电影,http://kxrj.site:64325/86/mg.php?id=chcgq
-欢笑剧场4K,http://kxrj.site:64325/86/mg.php?id=hxjc
-东方卫视,http://kxrj.site:64325/86/mg.php?id=dfws
-北京卫视,http://kxrj.site:64325/86/mg.php?id=bjws
-重庆卫视,http://kxrj.site:64325/86/mg.php?id=cqws
-吉林卫视,http://kxrj.site:64325/86/mg.php?id=jlws
-辽宁卫视,http://kxrj.site:64325/86/mg.php?id=lnws
-宁夏卫视,http://kxrj.site:64325/86/mg.php?id=nxws
-甘肃卫视,http://kxrj.site:64325/86/mg.php?id=gsws
-青海卫视,http://kxrj.site:64325/86/mg.php?id=qhws
-陕西卫视,http://kxrj.site:64325/86/mg.php?id=sxws
-山东卫视,http://kxrj.site:64325/86/mg.php?id=sdws
-湖北卫视,http://kxrj.site:64325/86/mg.php?id=hubws
-湖南卫视,http://kxrj.site:64325/86/mg.php?id=hunws
-江西卫视,http://kxrj.site:64325/86/mg.php?id=jxws
-江苏卫视,http://kxrj.site:64325/86/mg.php?id=jsws
-广东卫视,http://kxrj.site:64325/86/mg.php?id=gdws
-南方卫视,http://kxrj.site:64325/86/mg.php?id=dwqws
-四川卫视,http://kxrj.site:64325/86/mg.php?id=scws
-新疆卫视,http://kxrj.site:64325/86/mg.php?id=xjws
-西藏卫视,http://kxrj.site:64325/86/mg.php?id=xzws
-海南卫视,http://kxrj.site:64325/86/mg.php?id=hinws
-内蒙古卫视,http://kxrj.site:64325/86/mg.php?id=nmws
-Y+ 剧 场,http://kxrj.site:64325/86/mg.php?id=yjjc
-中 学 生,http://kxrj.site:64325/86/mg.php?id=zxs
-老 故 事,http://kxrj.site:64325/86/mg.php?id=lgs
-发现之旅,http://kxrj.site:64325/86/mg.php?id=fxzl
-四海钓鱼,http://kxrj.site:64325/86/mg.php?id=shdy
-江苏教育,http://kxrj.site:64325/86/mg.php?id=jsjy
-山东教育,http://kxrj.site:64325/86/mg.php?id=sdjy
-游戏风云,http://kxrj.site:64325/86/mg.php?id=yxfy
-东方购物,http://kxrj.site:64325/86/mg.php?id=dfgw
-之江纪录,http://kxrj.site:64325/86/mg.php?id=zjjl
-杭州综合,http://kxrj.site:64325/86/mg.php?id=hzzh
-杭州明珠,http://kxrj.site:64325/86/mg.php?id=hzmz
-杭州生活,http://kxrj.site:64325/86/mg.php?id=hzsh
-杭州影视,http://kxrj.site:64325/86/mg.php?id=hzys
-杭州少儿,http://kxrj.site:64325/86/mg.php?id=hzse
-高清大片,http://kxrj.site:64325/86/mg.php?id=gqdp
-热剧联播,http://kxrj.site:64325/86/mg.php?id=rjlb
-成龙作品集,http://kxrj.site:64325/86/mg.php?id=clzp
-赛事最经典,http://kxrj.site:64325/86/mg.php?id=sszjd
-掼蛋精英赛,http://kxrj.site:64325/86/mg.php?id=gdjys
-体坛名栏汇,http://kxrj.site:64325/86/mg.php?id=ttmhl
-新片放映厅,http://kxrj.site:64325/86/mg.php?id=xpfyt
-军事迷必看大片,http://kxrj.site:64325/86/mg.php?id=jsdp
-经典深圳旁边电影,http://kxrj.site:64325/86/mg.php?id=jddy
-嵊泗新闻综合,http://kxrj.site:64325/86/mg.php?id=ssxwzh
-普陀新闻综合,http://kxrj.site:64325/86/mg.php?id=ptxwzh
-熊猫直播频道0,http://kxrj.site:64325/86/mg.php?id=xmhd
-熊猫直播频道1,http://kxrj.site:64325/86/mg.php?id=xm1
-熊猫直播频道2,http://kxrj.site:64325/86/mg.php?id=xm2
-熊猫直播频道3,http://kxrj.site:64325/86/mg.php?id=xm3
-熊猫直播频道4,http://kxrj.site:64325/86/mg.php?id=xm4
-熊猫直播频道5,http://kxrj.site:64325/86/mg.php?id=xm5
-熊猫直播频道6,http://kxrj.site:64325/86/mg.php?id=xm6
-熊猫直播频道7,http://kxrj.site:64325/86/mg.php?id=xm7
-熊猫直播频道8,http://kxrj.site:64325/86/mg.php?id=xm8
-熊猫直播频道9,http://kxrj.site:64325/86/mg.php?id=xm9
-熊猫直播频道10,http://kxrj.site:64325/86/mg.php?id=xm10
-
 CCTV-1,http://dd.ddzb.fun:80/php/migu.php?id=cctv1
 CCTV-2,http://dd.ddzb.fun:80/php/migu.php?id=cctv2
 CCTV-3,http://dd.ddzb.fun:80/php/migu.php?id=cctv3
@@ -186,6 +97,95 @@ Y+ 剧 场,http://dd.ddzb.fun:80/php/migu.php?id=yjjc
 熊猫直播频道8,http://dd.ddzb.fun:80/php/migu.php?id=xm8
 熊猫直播频道9,http://dd.ddzb.fun:80/php/migu.php?id=xm9
 熊猫直播频道10,http://dd.ddzb.fun:80/php/migu.php?id=xm10
+
+CCTV-1,http://kxrj.site:1333/86/mg.php?id=cctv1
+CCTV-2,http://kxrj.site:1333/86/mg.php?id=cctv2
+CCTV-3,http://kxrj.site:1333/86/mg.php?id=cctv3
+CCTV-4,http://kxrj.site:1333/86/mg.php?id=cctv4
+CCTV-5,http://kxrj.site:1333/86/mg.php?id=cctv5
+CCTV-5+,http://kxrj.site:1333/86/mg.php?id=cctv5p
+CCTV-6,http://kxrj.site:1333/86/mg.php?id=cctv6
+CCTV-7,http://kxrj.site:1333/86/mg.php?id=cctv7
+CCTV-8,http://kxrj.site:1333/86/mg.php?id=cctv8
+CCTV-9,http://kxrj.site:1333/86/mg.php?id=cctv9
+CCTV-10,http://kxrj.site:1333/86/mg.php?id=cctv10
+CCTV-11,http://kxrj.site:1333/86/mg.php?id=cctv11
+CCTV-12,http://kxrj.site:1333/86/mg.php?id=cctv12
+CCTV-13,http://kxrj.site:1333/86/mg.php?id=cctv13
+CCTV-14,http://kxrj.site:1333/86/mg.php?id=cctv14
+CCTV-15,http://kxrj.site:1333/86/mg.php?id=cctv15
+CCTV-16,http://kxrj.site:1333/86/mg.php?id=cctv16
+CCTV-17,http://kxrj.site:1333/86/mg.php?id=cctv17
+CCTV-4欧洲,http://kxrj.site:1333/86/mg.php?id=cctv4o
+CCTV-4美洲,http://kxrj.site:1333/86/mg.php?id=cctv4a
+CGTN-纪录,http://kxrj.site:1333/86/mg.php?id=cgtnjl
+CGTN-英语,http://kxrj.site:1333/86/mg.php?id=cgtn
+CGTN-西语,http://kxrj.site:1333/86/mg.php?id=cgtne
+CGTN-阿语,http://kxrj.site:1333/86/mg.php?id=cgtna
+CGTN-法语,http://kxrj.site:1333/86/mg.php?id=cgtnf
+CGTN-俄语,http://kxrj.site:1333/86/mg.php?id=cgtnr
+CHC家庭影院,http://kxrj.site:1333/86/mg.php?id=chcjt
+CHC动作电影,http://kxrj.site:1333/86/mg.php?id=chcdz
+CHC影谜电影,http://kxrj.site:1333/86/mg.php?id=chcgq
+欢笑剧场4K,http://kxrj.site:1333/86/mg.php?id=hxjc
+东方卫视,http://kxrj.site:1333/86/mg.php?id=dfws
+北京卫视,http://kxrj.site:1333/86/mg.php?id=bjws
+重庆卫视,http://kxrj.site:1333/86/mg.php?id=cqws
+吉林卫视,http://kxrj.site:1333/86/mg.php?id=jlws
+辽宁卫视,http://kxrj.site:1333/86/mg.php?id=lnws
+宁夏卫视,http://kxrj.site:1333/86/mg.php?id=nxws
+甘肃卫视,http://kxrj.site:1333/86/mg.php?id=gsws
+青海卫视,http://kxrj.site:1333/86/mg.php?id=qhws
+陕西卫视,http://kxrj.site:1333/86/mg.php?id=sxws
+山东卫视,http://kxrj.site:1333/86/mg.php?id=sdws
+湖北卫视,http://kxrj.site:1333/86/mg.php?id=hubws
+湖南卫视,http://kxrj.site:1333/86/mg.php?id=hunws
+江西卫视,http://kxrj.site:1333/86/mg.php?id=jxws
+江苏卫视,http://kxrj.site:1333/86/mg.php?id=jsws
+广东卫视,http://kxrj.site:1333/86/mg.php?id=gdws
+南方卫视,http://kxrj.site:1333/86/mg.php?id=dwqws
+四川卫视,http://kxrj.site:1333/86/mg.php?id=scws
+新疆卫视,http://kxrj.site:1333/86/mg.php?id=xjws
+西藏卫视,http://kxrj.site:1333/86/mg.php?id=xzws
+海南卫视,http://kxrj.site:1333/86/mg.php?id=hinws
+内蒙古卫视,http://kxrj.site:1333/86/mg.php?id=nmws
+Y+ 剧 场,http://kxrj.site:1333/86/mg.php?id=yjjc
+中 学 生,http://kxrj.site:1333/86/mg.php?id=zxs
+老 故 事,http://kxrj.site:1333/86/mg.php?id=lgs
+发现之旅,http://kxrj.site:1333/86/mg.php?id=fxzl
+四海钓鱼,http://kxrj.site:1333/86/mg.php?id=shdy
+江苏教育,http://kxrj.site:1333/86/mg.php?id=jsjy
+山东教育,http://kxrj.site:1333/86/mg.php?id=sdjy
+游戏风云,http://kxrj.site:1333/86/mg.php?id=yxfy
+东方购物,http://kxrj.site:1333/86/mg.php?id=dfgw
+之江纪录,http://kxrj.site:1333/86/mg.php?id=zjjl
+杭州综合,http://kxrj.site:1333/86/mg.php?id=hzzh
+杭州明珠,http://kxrj.site:1333/86/mg.php?id=hzmz
+杭州生活,http://kxrj.site:1333/86/mg.php?id=hzsh
+杭州影视,http://kxrj.site:1333/86/mg.php?id=hzys
+杭州少儿,http://kxrj.site:1333/86/mg.php?id=hzse
+高清大片,http://kxrj.site:1333/86/mg.php?id=gqdp
+热剧联播,http://kxrj.site:1333/86/mg.php?id=rjlb
+成龙作品集,http://kxrj.site:1333/86/mg.php?id=clzp
+赛事最经典,http://kxrj.site:1333/86/mg.php?id=sszjd
+掼蛋精英赛,http://kxrj.site:1333/86/mg.php?id=gdjys
+体坛名栏汇,http://kxrj.site:1333/86/mg.php?id=ttmhl
+新片放映厅,http://kxrj.site:1333/86/mg.php?id=xpfyt
+军事迷必看大片,http://kxrj.site:1333/86/mg.php?id=jsdp
+经典深圳旁边电影,http://kxrj.site:1333/86/mg.php?id=jddy
+嵊泗新闻综合,http://kxrj.site:1333/86/mg.php?id=ssxwzh
+普陀新闻综合,http://kxrj.site:1333/86/mg.php?id=ptxwzh
+熊猫直播频道0,http://kxrj.site:1333/86/mg.php?id=xmhd
+熊猫直播频道1,http://kxrj.site:1333/86/mg.php?id=xm1
+熊猫直播频道2,http://kxrj.site:1333/86/mg.php?id=xm2
+熊猫直播频道3,http://kxrj.site:1333/86/mg.php?id=xm3
+熊猫直播频道4,http://kxrj.site:1333/86/mg.php?id=xm4
+熊猫直播频道5,http://kxrj.site:1333/86/mg.php?id=xm5
+熊猫直播频道6,http://kxrj.site:1333/86/mg.php?id=xm6
+熊猫直播频道7,http://kxrj.site:1333/86/mg.php?id=xm7
+熊猫直播频道8,http://kxrj.site:1333/86/mg.php?id=xm8
+熊猫直播频道9,http://kxrj.site:1333/86/mg.php?id=xm9
+熊猫直播频道10,http://kxrj.site:1333/86/mg.php?id=xm10
 
 🔡移动高清,#genre#
 CCTV-1,http://39.134.66.46/PLTV/88888888/224/3221225816/1.m3u8
@@ -1996,6 +1996,7 @@ CHC家庭影院,https://live.goodiptv.club/api/cqyx.php?id=CHCJTYYHD
 安徽|宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 安徽|宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 安徽|宿州新闻,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+北京|北京卫视,http://iptv.8t.cx:8180/udp/239.3.1.241:8000
 北京|北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
 北京|北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
 北京|北京文艺,http://iptv.8t.cx:8180/udp/239.3.1.242:8000
@@ -2028,13 +2029,16 @@ CHC家庭影院,https://live.goodiptv.club/api/cqyx.php?id=CHCJTYYHD
 北京|北京体育,http://webmail.axxe.top:4022/udp/239.3.1.230:8000
 北京|北京国际,http://webmail.axxe.top:4022/udp/239.3.1.235:8000
 北京|卡酷少儿,http://webmail.axxe.top:4022/udp/239.3.1.189:8000
+北京|北京卫视,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjws
 北京|北京新闻,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjxw
 北京|北京生活,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjsh
 北京|北京财经,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjcj
 北京|北京文艺,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjwy
 北京|北京影视,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjys
 北京|北京纪实,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjkj
+北京|北京体育,http://over.qiyuevod.com/tmsctv/brtv.php?id=bjty
 北京|卡酷少儿,http://over.qiyuevod.com/tmsctv/brtv.php?id=kkse
+北京|北京卫视,http://over.qiyuevod.com/tmsctv/bj8k.php?id=bjws
 北京|北京新闻,http://over.qiyuevod.com/tmsctv/bj8k.php?id=bjxw
 北京|北京生活,http://over.qiyuevod.com/tmsctv/bj8k.php?id=bjsh
 北京|北京财经,http://over.qiyuevod.com/tmsctv/bj8k.php?id=bjcj
@@ -3215,10 +3219,11 @@ MOMOTV,rtmp://220.130.201.73/sat/tv761.flv
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 PLUS综合,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 POPC电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-NOW-星影,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
-NOW-爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+NOW星影,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
+NOW爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 美亚电影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 有线新闻,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -3235,8 +3240,8 @@ NOW-爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 无线明剧,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 无线J1美,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
 无线新美,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-VIUTV-粤,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-VIUTV-英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+VIUTV粤,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+VIUTV英,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 TVBS闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -3244,31 +3249,30 @@ TVBS闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 中视闽南,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 华视闽南,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 神州新闻,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 东方国际,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+日本新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+泰语购物,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
 国家地理,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 NHK新闻,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 CNA新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 TVN韩综,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 KIX韩综,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-DW_综合,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 C+_香港,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-ROCK影综,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-NICK综合,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+DW_综合,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 NICK卡通,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+NICK综合,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK影综,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 THRILL,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 ANIMAX,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 ZOOMOO,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-CHANNELU,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+FRANCE24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 CHANNEL5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 CHANNEL8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-FRANCE24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-日本新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-泰语购物,http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+CHANNELU,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
 
 🎬数字高清,#genre#
 IPTV北京淘精彩,http://1.203.77.72:7788/udp/225.1.8.33:8002
