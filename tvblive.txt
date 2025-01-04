@@ -186,9 +186,7 @@ CCTV-2,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581514102
 CCTV-3,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581797368_796839580/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265667206&timezone=UTC&mtv_session=930288b6183258a028c1df87d499752c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4fe4ab3b93d2b7f4fe74cdc14f0914bb
 CCTV-4,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1582083769_-1437579634/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667639&timezone=UTC&mtv_session=bd66c8df11d2f77bee645f53f4ed7362&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c2b1baee99eab7588b8ea53f584c3bb1
 CCTV-5,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1582982132_-1228252651/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667565&timezone=UTC&mtv_session=9723de29a88e2be1095d8c6d5a75dee9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12723843ed39c650d67a569eb896dd81
-CCTV-5,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1583280123_-1034945773/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073733&ContentId=265667565&timezone=UTC&mtv_session=8f0bdd602a18ee761127cc159afcecfb&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2b2cde70d9706cbeb708efa172ae54ff
 CCTV-5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1583569220_1871236375/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073733&ContentId=265106763&timezone=UTC&mtv_session=58d355d22d80390d6d25dbd6f235e018&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9c4cfaf2b480fa47f51066d541e0a97a
-CCTV-5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1583876590_-1805575416/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073733&ContentId=265106763&timezone=UTC&mtv_session=1f5bd52f67ecd434a6cf3bd7ebc51a71&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=08375028c68909716c1218fc91018199
 CCTV-6,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584168866_889700348/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667482&timezone=UTC&mtv_session=f70082b1ade8cb422547681dfcdad578&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3197a71757b802dc65f32626eb2ec8dd
 CCTV-7,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584449189_-1771078739/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667268&timezone=UTC&mtv_session=dac68d68c1a7bfb5fce6e52fcae95b03&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=011fdc0d9d5b681821c2be70c08216b1
 CCTV-8,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584743785_1819567660/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667466&timezone=UTC&mtv_session=f134ad943219a0326cf721cd778880da&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7e74f98dc5df6c18673696da1cb0fc7
@@ -221,7 +219,6 @@ CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1
 广东卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1592898240_-1957872936/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=263541274&timezone=UTC&mtv_session=d190c97b4980b8b8fc8fe749d33c4b53&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7d16b4dab836849b2d69de0c71c0881
 南方卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a
 新疆卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593800523_-1493781639/wd-xinjiangwssd-600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=531262095&timezone=UTC&mtv_session=864a45b4901ac5ef45e66eda73f46964&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2ecb1cbf330584c821ad5f41b74ff983
-兵团卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1595216303_855788937/envivo_w/2018/SD/bttv/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073746&ContentId=265218946&timezone=UTC&mtv_session=5df7c38235f8bfddc40ba06656567aa2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=29623301ce35130c865d7d28c7f3b0c3
 西藏卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594087791_1409479634/envivo_x/2018/SD/xizang/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=524854265&timezone=UTC&mtv_session=5640f857e31349921ba36207946fa904&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=df71711e34a615ea23f680ef139afb1d
 海南卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594363320_-990671769/envivo_x/SD/lvyou/711/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=531262161&timezone=UTC&mtv_session=b55d04e0b5c7e772923fd49422a408a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=97ea95aaf536edf9a57ca0219cadc011
 内蒙古卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1589932581_-415191449/envivo_w/2018/SD/neimeng/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531261982&timezone=UTC&mtv_session=c9a5a27753539fa99cff7fe7b0773863&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9d2e1fadbae161e8f9ee1c06f4b85df
@@ -229,7 +226,6 @@ CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1
 山东教育,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1595216303_855788936/envivo_v/2018/SD/shandongedu/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265218942&timezone=UTC&mtv_session=5df7c38235f8bfddc40ba06656567aa2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=29623301ce35130c865d7d28c7f3b0c3
 四海钓鱼,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594642123_-1739463849/wd_r4/peoplecn/shdiaoyu/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265667494&timezone=UTC&mtv_session=62fe26ea17a6225b620ad6528d069bad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1dd468b7cedccd815604e427c9d0d8f7
 游戏风云,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1595481830_-1185482178/wd_r2/ocn/youxifengyunhd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265667664&timezone=UTC&mtv_session=a0ecd5ce9d57ca6fe2f9a78dd80357fc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=238d629872f240eaaeb4749a58e17d18
-天元围棋,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591088432_505084450/migu/kailu/shan3xiws/57/20220809/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531262099&timezone=UTC&mtv_session=3685f124271f5ee0b99269587b09cf4a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=25d01304c5d1e6f70cc33073ccfdaf0f
 高清大片,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842
 热剧联播,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599904987_1263698555/wd_r3/cctv/rejulianbo/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265218955&timezone=UTC&mtv_session=d08622891788b7f58f17fe9ddfcf7760&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=13902f5ffd15ce35b793e964458bc0a7
 成龙作品集,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1597833161_-605154292/wd_r2/virtuallive/5102010211/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073747&ContentId=265667553&timezone=UTC&mtv_session=fd80809f3f6b51a68ca8e0d327a5244a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31de3cf7ce30887e13ddcfcdd39350a2
@@ -658,10 +654,10 @@ CGTN-纪录,http://39.134.65.146/PLTV/88888888/224/3221225509/1.m3u8
 黑莓电影,http://39.134.66.46/PLTV/88888888/224/3221225681/1.m3u8
 黑莓电竞,http://39.134.66.46/PLTV/88888888/224/3221225559/1.m3u8
 黑莓动画,http://39.134.66.46/PLTV/88888888/224/3221225529/1.m3u8
-求索动物,http://iptv.887979.xyz/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索纪录,http://iptv.887979.xyz/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索科学,http://iptv.887979.xyz/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索生活,http://iptv.887979.xyz/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索动物,http://dychxy.us.kg:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://dychxy.us.kg:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://dychxy.us.kg:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://dychxy.us.kg:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索动物,http://025365.xyz:18098/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索纪录,http://025365.xyz:18098/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://025365.xyz:18098/itv/6000000002000032344.m3u8?cdn=wasusyt
@@ -3357,6 +3353,7 @@ NOW爆谷,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 黄金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 无线娱乐,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+无线星河,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
 无线经典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 无线亚剧,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 无线翡剧,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
@@ -3397,6 +3394,8 @@ FRANCE24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 CHANNEL5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 CHANNEL8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 CHANNELU,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+ASTROAEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
+ASTROQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
 
 🎬数字高清,#genre#
 IPTV北京淘剧场,http://drive.mxmy.net:8888/udp/239.3.1.95:8001
@@ -3638,6 +3637,9 @@ CGTN-纪录,http://over.qiyuevod.com/tmsctv/astv.php?id=cgtnjl
 CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
 CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC动作电影,http://183.222.206.14:8096/udp/239.93.42.7:5140
 CHC影迷电影,http://183.222.206.14:8096/udp/239.93.42.5:5140
 CHC家庭影院,http://183.222.206.14:8096/udp/239.93.42.6:5140
@@ -3656,9 +3658,6 @@ CHC影迷电影,http://111.20.35.103:6610/yinhe/2/ch00000090990000002065/index.m
 CHC家庭影院,http://39.134.19.228:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://111.20.35.103:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,http://over.qiyuevod.com/tmsctv/scxg.php?id=wqCHCdzdyH265_4000
-CHC影迷电影,http://over.qiyuevod.com/tmsctv/scxg.php?id=lnwsCHC-H265_4000
-CHC家庭影院,http://over.qiyuevod.com/tmsctv/scxg.php?id=jbtygqCHCjtyyH265_4000
 CHC动作电影,http://over.qiyuevod.com/tmsctv/astv.php?id=chcdzdy
 CHC影迷电影,http://over.qiyuevod.com/tmsctv/astv.php?id=chcgqdy
 CHC家庭影院,http://over.qiyuevod.com/tmsctv/astv.php?id=chcjtyy
@@ -3708,7 +3707,7 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 七彩戏剧,http://025365.xyz:18098/itv/5000000011000031116.m3u8?cdn=bestzb
 七彩戏剧,http://php.jdshipin.com:8880/bst2.php?id=qcxjhd8m/8000000
 七彩戏剧,http://over.qiyuevod.com/tmsctv/scxg.php?id=qcxj_2000
-法治天地,http://iptv.887979.xyz/itv/9001547084732463424.m3u8?cdn=bestzb
+法治天地,http://dychxy.us.kg:35455/itv/9001547084732463424.m3u8?cdn=bestzb
 法治天地,http://025365.xyz:18098/itv/9001547084732463424.m3u8?cdn=bestzb
 法治天地,http://php.jdshipin.com:8880/bst2.php?id=fztd8m/8000000
 法治天地,http://over.qiyuevod.com/tmsctv/scxg.php?id=fztx_4000
@@ -3717,7 +3716,7 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 游戏风云,http://over.qiyuevod.com/tmsctv/migu.php?id=yxfy
 游戏风云,http://over.qiyuevod.com/tmsctv/migu2.php?id=yxfy
 游戏风云,http://over.qiyuevod.com/tmsctv/yhtv.php?id=yxfy
-生活时尚,http://iptv.887979.xyz/itv/5000000002000019634.m3u8?cdn=bestzb
+生活时尚,http://dychxy.us.kg:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 生活时尚,http://025365.xyz:18098/itv/5000000002000019634.m3u8?cdn=bestzb
 生活时尚,http://php.jdshipin.com:8880/bst2.php?id=shss8m/8000000
 生活时尚,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43043/index.m3u8
@@ -3729,8 +3728,8 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 动漫秀场,http://php.jdshipin.com:8880/bst2.php?id=dmxc8m/8000000
 动漫秀场,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43045/index.m3u8
 动漫秀场,http://over.qiyuevod.com/tmsctv/scxg.php?id=yybb-dmxc-H265_4000
-金色学堂,http://iptv.887979.xyz/itv/5000000010000026105.m3u8?cdn=bestzb
 金色学堂,http://025365.xyz:18098/itv/5000000010000026105.m3u8?cdn=bestzb
+金色学堂,http://dychxy.us.kg:35455/itv/5000000010000026105.m3u8?cdn=bestzb
 金色学堂,http://php.jdshipin.com:8880/bst2.php?id=jingsepd8m/8000000
 金色学堂,http://over.qiyuevod.com/tmsctv/yhtv.php?id=jsxt
 魅力足球,http://025365.xyz:18098/itv/5000000011000031207.m3u8?cdn=bestzb
@@ -3861,6 +3860,7 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 新 动 漫,http://over.qiyuevod.com/tmsctv/astv.php?id=xdm
 央视少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 央视少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/1.m3u8
+央视少儿,http://39.134.66.46/PLTV/88888888/224/3221225674/1.m3u8
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/1.m3u8
 卡酷少儿,http://php.jdshipin.com:8880/bst2.php?id=kkse8m/8000000
@@ -3875,6 +3875,7 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 金鹰卡通,http://php.jdshipin.com:8880/bst2.php?id=jykt
 金鹰卡通,http://over.qiyuevod.com/tmsctv/scxg.php?id=jykt_2000
 金鹰卡通,http://over.qiyuevod.com/tmsctv/astv.php?id=jykt
+嘉佳卡通,http://120.238.94.10:9901/tsfile/live/1038_1.m3u8
 嘉佳卡通,http://php.jdshipin.com:8880/bst2.php?id=jjkt
 嘉佳卡通,http://over.qiyuevod.com/tmsctv/scxg.php?id=jjkt_2000
 嘉佳卡通,http://over.qiyuevod.com/tmsctv/astv.php?id=jjkt
@@ -3882,7 +3883,6 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 优漫卡通,http://39.134.66.66/PLTV/88888888/224/3221225556/1.m3u8
 优漫卡通,http://over.qiyuevod.com/tmsctv/yhtv.php?id=ymkt
 卡酷少儿,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-卡酷少儿,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 金鹰卡通,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 嘉佳卡通,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 优漫卡通,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
@@ -3902,10 +3902,10 @@ CHC家庭影院,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcjt
 求索纪录,http://025365.xyz:18098/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://025365.xyz:18098/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://025365.xyz:18098/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索动物,http://iptv.887979.xyz/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索纪录,http://iptv.887979.xyz/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索科学,http://iptv.887979.xyz/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索生活,http://iptv.887979.xyz/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索动物,http://dychxy.us.kg:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://dychxy.us.kg:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://dychxy.us.kg:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://dychxy.us.kg:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/1.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/1.m3u8
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/1.m3u8
@@ -4155,8 +4155,8 @@ NewTV超级电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenl
 咪咕4K,http://39.135.133.178/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&from=23&hms_devid=145,1248&online=1684775292&vqe=3
 咪咕4K,http://39.134.136.160:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕4K,http://39.134.136.160:6610/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-华数4K,http://iptv.887979.xyz/itv/6000000003000004748.m3u8?cdn=wasusyt
 华数4K,http://025365.xyz:18098/itv/6000000003000004748.m3u8?cdn=wasusyt
+华数4K,http://dychxy.us.kg:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 华数4K,http://39.134.65.79/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&HlsProfileId=
 华数4K,http://39.134.136.160:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K,http://39.134.136.160:6610/000000001000/2000000004000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=3
@@ -4284,49 +4284,49 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9
 粤语版电影四轮播,https://www.goodiptv.club/douyu/2466104
 80上海滩经典轮播,http://cfss.cc/cdn/yy/1382745184.m3u8
 80上海滩经典轮播,https://lunbo.freetv.top/yy/1382745184
-80上海滩经典轮播,http://119.1.161.121:18525/live/yy/1382745184
+80上海滩经典轮播,http://025365.xyz:18098/yy/1382745184
 83射雕英雄传轮播,http://cfss.cc/cdn/yy/1354210357.m3u8
 83射雕英雄传轮播,https://lunbo.freetv.top/yy/1354210357
-83射雕英雄传轮播,http://119.1.161.121:18525/live/yy/1354210357
+83射雕英雄传轮播,http://025365.xyz:18098/yy/1354210357
 87红楼梦经典轮播,http://cfss.cc/cdn/yy/1382745084.m3u8
 87红楼梦经典轮播,https://lunbo.freetv.top/yy/1382745084
-87红楼梦经典轮播,http://119.1.161.121:18525/live/yy/1382745084
+87红楼梦经典轮播,http://025365.xyz:18098/yy/1382745084
 90渴望电视剧轮播,http://cfss.cc/cdn/yy/1354930963.m3u8
 90渴望电视剧轮播,https://lunbo.freetv.top/yy/1354930963
-90渴望电视剧轮播,http://119.1.161.121:18525/live/yy/1354930963
+90渴望电视剧轮播,http://025365.xyz:18098/yy/1354930963
 98水浒传经典轮播,http://cfss.cc/cdn/yy/23206872.m3u8
 98水浒传经典轮播,https://lunbo.freetv.top/yy/23206872
-98水浒传经典轮播,http://119.1.161.121:18525/live/yy/23206872
+98水浒传经典轮播,http://025365.xyz:18098/yy/23206872
 98鹿鼎记经典轮播,http://cfss.cc/cdn/yy/28265277.m3u8
 98鹿鼎记经典轮播,https://lunbo.freetv.top/yy/28265277
-98鹿鼎记经典轮播,http://119.1.161.121:18525/live/yy/28265277
+98鹿鼎记经典轮播,http://025365.xyz:18098/yy/28265277
 01寻秦记经典轮播,http://cfss.cc/cdn/yy/1382749900.m3u8
 01寻秦记经典轮播,https://lunbo.freetv.top/yy/1382749900
-01寻秦记经典轮播,http://119.1.161.121:18525/live/yy/1382749900
+01寻秦记经典轮播,http://025365.xyz:18098/yy/1382749900
 07金婚电视剧轮播,http://cfss.cc/cdn/yy/1382828768.m3u8
 07金婚电视剧轮播,http://cfss.cc/cdn/yy/1382736832.m3u8
 07金婚电视剧轮播,https://lunbo.freetv.top/yy/1382828768
 07金婚电视剧轮播,https://lunbo.freetv.top/yy/1382736832
-07金婚电视剧轮播,http://119.1.161.121:18525/live/yy/1382828768
-07金婚电视剧轮播,http://119.1.161.121:18525/live/yy/1382736832
+07金婚电视剧轮播,http://025365.xyz:18098/yy/1382828768
+07金婚电视剧轮播,http://025365.xyz:18098/yy/1382736832
 三国演义经典轮播,http://cfss.cc/cdn/yy/1354936241.m3u8
 三国演义经典轮播,https://lunbo.freetv.top/yy/1354936241
-三国演义经典轮播,http://119.1.161.121:18525/live/yy/1354936241
+三国演义经典轮播,http://025365.xyz:18098/yy/1354936241
 天龙八部经典轮播,http://cfss.cc/cdn/yy/1351814644.m3u8
 天龙八部经典轮播,https://lunbo.freetv.top/yy/1351814644
-天龙八部经典轮播,http://119.1.161.121:18525/live/yy/1351814644
+天龙八部经典轮播,http://025365.xyz:18098/yy/1351814644
 笑傲江湖经典轮播,http://cfss.cc/cdn/yy/1354936128.m3u8
 笑傲江湖经典轮播,https://lunbo.freetv.top/yy/1354936128
-笑傲江湖经典轮播,http://119.1.161.121:18525/live/yy/1354936128
+笑傲江湖经典轮播,http://025365.xyz:18098/yy/1354936128
 父母爱情经典轮播,http://cfss.cc/cdn/yy/1382746276.m3u8
 父母爱情经典轮播,http://cfss.cc/cdn/yy/1354926650.m3u8
 父母爱情经典轮播,https://lunbo.freetv.top/yy/1382746276
 父母爱情经典轮播,https://lunbo.freetv.top/yy/1354926650
-父母爱情经典轮播,http://119.1.161.121:18525/live/yy/1382746276
-父母爱情经典轮播,http://119.1.161.121:18525/live/yy/1354926650
+父母爱情经典轮播,http://025365.xyz:18098/yy/1382746276
+父母爱情经典轮播,http://025365.xyz:18098/yy/1354926650
 新白娘子传奇轮播,http://cfss.cc/cdn/yy/1354930969.m3u8
 新白娘子传奇轮播,https://lunbo.freetv.top/yy/1354930969
-新白娘子传奇轮播,http://119.1.161.121:18525/live/yy/1354930969
+新白娘子传奇轮播,http://025365.xyz:18098/yy/1354930969
 经典影艺特色轮播,https://live.gxrb.com.cn/pull/red_movies_0501/index.m3u8
 老旧影院特色轮播,https://play-hsbj.vzan.com/585795983/485469469943314906/live.m3u8
 重温经典特色轮播,https://wuai.pub/cwjdgq
@@ -4337,44 +4337,44 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9
 经典再现特色轮播,http://117.176.241.206:4022/udp/239.10.0.130:5140
 军旅谍战特色轮播,http://117.176.241.206:4022/udp/239.10.0.131:5140
 高清影院特色轮播,http://117.176.241.206:4022/udp/239.10.0.188:5140
-地 雷 战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
-地 道 战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
-少 林 寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-红 孩 子,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
-红 牡 丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
-红 灯 记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
-上 甘 岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
-战 上 海,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
-侦 察 兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
-董 存 瑞,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
-刘 三 姐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
-苦 菜 花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
-鸡 毛 信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
-天 仙 配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
-女 驸 马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
-小兵张嘎,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
-羊城暗哨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
-智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
-突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
-英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
-五朵金花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
-英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
-林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
-闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
-祖国的花朵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
-三毛流浪记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
-三毛从军记,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
-洪湖赤卫队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
-铁道游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-红色娘子军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
-智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
-奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
-冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
-狼牙山五壮士,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
-梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
-孙悟空三打白骨精,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
+地 雷 战,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
+地 道 战,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
+少 林 寺,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
+红 孩 子,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
+红 牡 丹,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
+红 灯 记,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
+上 甘 岭,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
+战 上 海,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
+侦 察 兵,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
+董 存 瑞,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b657281ba44a4b279f55ec860c12543b/850.m3u8
+刘 三 姐,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
+苦 菜 花,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
+鸡 毛 信,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
+天 仙 配,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
+女 驸 马,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
+小兵张嘎,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d8c05f3ca36d48e6b1997b523e885c5c/850.m3u8
+羊城暗哨,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
+智取华山,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
+突破乌江,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
+英雄虎胆,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
+五朵金花,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
+英雄儿女,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
+牛郎织女,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
+林海雪原,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
+闪闪的红星,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
+祖国的花朵,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/ef10a9a9b1534fe38fd4fdfdac1ed493/850.m3u8
+三毛流浪记,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
+三毛从军记,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/919a08437d44499b87b7b4903f2b2ae6/850.m3u8
+洪湖赤卫队,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
+铁道游击队,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
+渡江侦察记,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
+红色娘子军,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
+智取威虎山,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
+奇袭白虎团,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
+冰山上的来客,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
+狼牙山五壮士,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
+梁山伯与祝英台,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
+孙悟空三打白骨精,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
 
 🔰电影轮播,#genre#
 A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/index.m3u8
@@ -4994,11 +4994,11 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 
 👲娱乐综艺,#genre#
 好歌不停,https://lunbo.freetv.top/yy/54880976
+好歌不停,http://025365.xyz:18098/yy/54880976
 好歌不停,http://120.77.28.4:8648/yy.php?id=54880976
-好歌不停,http://119.1.161.121:18525/live/yy/54880976
 热舞不断,https://lunbo.freetv.top/yy/22490906
+热舞不断,http://025365.xyz:18098/yy/22490906
 热舞不断,http://120.77.28.4:8648/yy.php?id=22490906
-热舞不断,http://119.1.161.121:18525/live/yy/22490906
 抖音热舞,http://cfss.cc/cdn/dyu/11531165.m3u8
 动听漫歌,http://cfss.cc/cdn/dyu/9564766.m3u8
 周董乐台,http://cfss.cc/cdn/dyu/7537296.m3u8
@@ -5024,30 +5024,30 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 爵士乐赏,http://cfss.cc/cdn/hy/21241769.m3u8
 华语翻唱,http://cfss.cc/cdn/hy/21241810.m3u8
 
-抖音热舞,http://120.77.28.4:8648/douyu.php?id=11531165
-动听漫歌,http://120.77.28.4:8648/douyu.php?id=9564766
-周董乐台,http://120.77.28.4:8648/douyu.php?id=7537296
-余娟乐台,http://120.77.28.4:8648/douyu.php?id=3186217
-音乐抬头,http://120.77.28.4:8648/douyu.php?id=8666105
-黑糖音乐,http://120.77.28.4:8648/douyu.php?id=9560563
-音乐小琼,http://120.77.28.4:8648/douyu.php?id=8666210
-粤语歌姬,http://120.77.28.4:8648/douyu.php?id=4728410
-老郑音乐,http://120.77.28.4:8648/douyu.php?id=8666143
-喵喵音乐,http://120.77.28.4:8648/douyu.php?id=9568091
-女团现场,http://120.77.28.4:8648/douyu.php?id=123351
-皇冠壹厅,http://120.77.28.4:8648/douyu.php?id=17732
-皇冠贰厅,http://120.77.28.4:8648/douyu.php?id=3221207
-秋月剪水,http://120.77.28.4:8648/douyu.php?id=9588891
-音乐石榴,http://120.77.28.4:8648/huya.php?id=17091681
-阿兰民歌,http://120.77.28.4:8648/huya.php?id=22970983
-日系乐团,http://120.77.28.4:8648/huya.php?id=21241796
-杰伦专场,http://120.77.28.4:8648/huya.php?id=25703092
-奕迅金曲,http://120.77.28.4:8648/huya.php?id=21241843
-动听音乐,http://120.77.28.4:8648/huya.php?id=19439762
-精彩现场,http://120.77.28.4:8648/huya.php?id=21241817
-催眠音乐,http://120.77.28.4:8648/huya.php?id=21241811
-爵士乐赏,http://120.77.28.4:8648/huya.php?id=21241769
-华语翻唱,http://120.77.28.4:8648/huya.php?id=21241810
+抖音热舞,http://025365.xyz:18098/douyu/11531165
+动听漫歌,http://025365.xyz:18098/douyu/9564766
+周董乐台,http://025365.xyz:18098/douyu/7537296
+余娟乐台,http://025365.xyz:18098/douyu/3186217
+音乐抬头,http://025365.xyz:18098/douyu/8666105
+黑糖音乐,http://025365.xyz:18098/douyu/9560563
+音乐小琼,http://025365.xyz:18098/douyu/8666210
+粤语歌姬,http://025365.xyz:18098/douyu/4728410
+老郑音乐,http://025365.xyz:18098/douyu/8666143
+喵喵音乐,http://025365.xyz:18098/douyu/9568091
+女团现场,http://025365.xyz:18098/douyu/123351
+皇冠壹厅,http://025365.xyz:18098/douyu/17732
+皇冠贰厅,http://025365.xyz:18098/douyu/3221207
+秋月剪水,http://025365.xyz:18098/douyu/9588891
+音乐石榴,http://025365.xyz:18098/huya/17091681
+阿兰民歌,http://025365.xyz:18098/huya/22970983
+日系乐团,http://025365.xyz:18098/huya/21241796
+杰伦专场,http://025365.xyz:18098/huya/25703092
+奕迅金曲,http://025365.xyz:18098/huya/21241843
+动听音乐,http://025365.xyz:18098/huya/19439762
+精彩现场,http://025365.xyz:18098/huya/21241817
+催眠音乐,http://025365.xyz:18098/huya/21241811
+爵士乐赏,http://025365.xyz:18098/huya/21241769
+华语翻唱,http://025365.xyz:18098/huya/21241810
 
 抖音热舞,https://www.goodiptv.club/douyu/11531165
 动听漫歌,https://www.goodiptv.club/douyu/9564766
@@ -5223,118 +5223,118 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.m3u8
 剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.m3u8
 
-电影_星爷,http://120.77.28.4:8648/huya.php?id=11342412
-电影_英叔,http://120.77.28.4:8648/huya.php?id=11342421
-电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
-电影_成龙,http://120.77.28.4:8648/huya.php?id=11342386
-电影_王晶,http://120.77.28.4:8648/huya.php?id=11602058
-电影_沈腾,http://120.77.28.4:8648/huya.php?id=11601968
-电影_黄渤,http://120.77.28.4:8648/huya.php?id=11352876
-电影_强森,http://120.77.28.4:8648/huya.php?id=21059581
-电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
-电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
-电影_怪兽,http://120.77.28.4:8648/huya.php?id=21059577
-电影_武侠,http://120.77.28.4:8648/huya.php?id=11342427
-电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
-电影_罪犯,http://120.77.28.4:8648/huya.php?id=11352962
-电影_枪战,http://120.77.28.4:8648/huya.php?id=21059579
-电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
-电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
-电影_推荐,http://120.77.28.4:8648/huya.php?id=11602041
-电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
-电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
-电影_盗墓,http://120.77.28.4:8648/huya.php?id=21059552
-电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
-电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
-电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
-电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
-电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
-电影_港片,http://120.77.28.4:8648/huya.php?id=11602043
-电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
-电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
-电影_李连杰,http://120.77.28.4:8648/huya.php?id=11342390
-电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
-电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
-电影_许冠英,http://120.77.28.4:8648/huya.php?id=11601972
-电影_刘德华,http://120.77.28.4:8648/huya.php?id=11342424
-电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
-电影_小鬼头,http://120.77.28.4:8648/huya.php?id=11352963
-电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
-电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
-电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
-电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
-电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
-电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
-电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
-电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
-电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
-电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
-电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
-电影_高分动作,http://120.77.28.4:8648/huya.php?id=11352884
-电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
-电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
-电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
-电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
-电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
-电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
-电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
-电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
-电影_古墓系列,http://120.77.28.4:8648/huya.php?id=11352913
-电影_嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
-电影_女神系列,http://120.77.28.4:8648/huya.php?id=11336571
-电影_经典女神,http://120.77.28.4:8648/huya.php?id=11352909
-电影_许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
-电影_经典港片,http://120.77.28.4:8648/huya.php?id=11352965
-电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
-电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
-电影_喜乐影院,http://120.77.28.4:8648/huya.php?id=21059580
-电影_蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
-电影_搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
-电影_死神来了,http://120.77.28.4:8648/huya.php?id=11352903
-电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
-电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
-搞笑_陈翔六点半,http://120.77.28.4:8648/huya.php?id=11274154
-解说_电影狂人,http://120.77.28.4:8648/huya.php?id=18715610
-解说_鹿哥电影,http://120.77.28.4:8648/huya.php?id=24396360
-解说_斌哥漫说,http://120.77.28.4:8648/huya.php?id=18632116
-解说_续哥说电影,http://120.77.28.4:8648/huya.php?id=24396472
-解说_小川侃电影,http://120.77.28.4:8648/huya.php?id=15870999
-解说_阿钙扒瞎,http://120.77.28.4:8648/huya.php?id=15978172
-解说_阿良说剧,http://120.77.28.4:8648/huya.php?id=20488841
-解说_鱼丸电影,http://120.77.28.4:8648/huya.php?id=16615910
-解说_阿斗说电影,http://120.77.28.4:8648/huya.php?id=13303478
-解说_扁豆看电影,http://120.77.28.4:8648/huya.php?id=16028551
-解说_乌贼说电影,http://120.77.28.4:8648/huya.php?id=16604522
-解说_大象放映室,http://120.77.28.4:8648/huya.php?id=21277391
-解说_科幻梦工场,http://120.77.28.4:8648/huya.php?id=15152155
-解说_亮哥讲电影,http://120.77.28.4:8648/huya.php?id=16144175
-解说_越哥说电影,http://120.77.28.4:8648/huya.php?id=15894162
-解说_小冉看电影,http://120.77.28.4:8648/huya.php?id=17341907
-解说_嫦娥撩电影,http://120.77.28.4:8648/huya.php?id=18201106
-解说_阿翔说电影,http://120.77.28.4:8648/huya.php?id=16868935
-解说_疯狂解说家,http://120.77.28.4:8648/huya.php?id=18366196
-解说_虎妞说电影,http://120.77.28.4:8648/huya.php?id=20343144
-解说_顾久撩电影,http://120.77.28.4:8648/huya.php?id=16422212
-解说_涵哥评电影,http://120.77.28.4:8648/huya.php?id=16865726
-解说_俗哥看电影,http://120.77.28.4:8648/huya.php?id=15452736
-解说_老皮讲电影,http://120.77.28.4:8648/huya.php?id=16968572
-解说_默爷侃电影,http://120.77.28.4:8648/huya.php?id=17204307
-解说_冷君说电影,http://120.77.28.4:8648/huya.php?id=16739452
-解说_老炮说电影,http://120.77.28.4:8648/huya.php?id=15454716
-解说_刘老师说电影,http://120.77.28.4:8648/huya.php?id=20289754
-解说_恐怖电影解说,http://120.77.28.4:8648/huya.php?id=16741179
-剧集_老三国,http://120.77.28.4:8648/huya.php?id=11602081
-剧集_新三国,http://120.77.28.4:8648/huya.php?id=11352944
-剧集_新水浒,http://120.77.28.4:8648/huya.php?id=11342384
-剧集_纪晓岚,http://120.77.28.4:8648/huya.php?id=11342396
-剧集_庆余年,http://120.77.28.4:8648/huya.php?id=11352960
-剧集_雍正王朝,http://120.77.28.4:8648/huya.php?id=11342439
-剧集_士兵突击,http://120.77.28.4:8648/huya.php?id=11342430
-剧集_爱情公寓,http://120.77.28.4:8648/huya.php?id=11336726
-剧集_家有儿女,http://120.77.28.4:8648/huya.php?id=11352872
-剧集_武林外传,http://120.77.28.4:8648/huya.php?id=21059598
-剧集_地下交通站,http://120.77.28.4:8648/huya.php?id=11342433
-剧集_邻里一家亲,http://120.77.28.4:8648/huya.php?id=11342426
+电影_星爷,http://025365.xyz:18098/huya/11342412
+电影_英叔,http://025365.xyz:18098/huya/11342421
+电影_发哥,http://025365.xyz:18098/huya/11342387
+电影_成龙,http://025365.xyz:18098/huya/11342386
+电影_王晶,http://025365.xyz:18098/huya/11602058
+电影_沈腾,http://025365.xyz:18098/huya/11601968
+电影_黄渤,http://025365.xyz:18098/huya/11352876
+电影_强森,http://025365.xyz:18098/huya/21059581
+电影_漫威,http://025365.xyz:18098/huya/11602034
+电影_宇宙,http://025365.xyz:18098/huya/11342428
+电影_怪兽,http://025365.xyz:18098/huya/21059577
+电影_武侠,http://025365.xyz:18098/huya/11342427
+电影_警匪,http://025365.xyz:18098/huya/11352886
+电影_罪犯,http://025365.xyz:18098/huya/11352962
+电影_枪战,http://025365.xyz:18098/huya/21059579
+电影_海盗,http://025365.xyz:18098/huya/21059595
+电影_赛车,http://025365.xyz:18098/huya/11279247
+电影_推荐,http://025365.xyz:18098/huya/11602041
+电影_救援,http://025365.xyz:18098/huya/21059594
+电影_热血,http://025365.xyz:18098/huya/11352934
+电影_盗墓,http://025365.xyz:18098/huya/21059552
+电影_贺岁,http://025365.xyz:18098/huya/11601971
+电影_玄幻,http://025365.xyz:18098/huya/11342414
+电影_谍战,http://025365.xyz:18098/huya/21059585
+电影_战争,http://025365.xyz:18098/huya/21059592
+电影_喜剧,http://025365.xyz:18098/huya/11352877
+电影_港片,http://025365.xyz:18098/huya/11602043
+电影_国产,http://025365.xyz:18098/huya/11352973
+电影_周星星,http://025365.xyz:18098/huya/11336587
+电影_李连杰,http://025365.xyz:18098/huya/11342390
+电影_洪金宝,http://025365.xyz:18098/huya/11279251
+电影_梁家辉,http://025365.xyz:18098/huya/11342429
+电影_许冠英,http://025365.xyz:18098/huya/11601972
+电影_刘德华,http://025365.xyz:18098/huya/11342424
+电影_斯坦森,http://025365.xyz:18098/huya/21059588
+电影_小鬼头,http://025365.xyz:18098/huya/11352963
+电影_八点档,http://025365.xyz:18098/huya/880261
+电影_蜘蛛侠,http://025365.xyz:18098/huya/21059599
+电影_贺岁片,http://025365.xyz:18098/huya/11601986
+电影_功夫片,http://025365.xyz:18098/huya/11352941
+电影_黑帮片,http://025365.xyz:18098/huya/11336719
+电影_丧尸片,http://025365.xyz:18098/huya/21059578
+电影_灾难片,http://025365.xyz:18098/huya/11602075
+电影_谍战片,http://025365.xyz:18098/huya/21059587
+电影_战争片,http://025365.xyz:18098/huya/21059574
+电影_犯罪片,http://025365.xyz:18098/huya/11352974
+电影_古装片,http://025365.xyz:18098/huya/11336590
+电影_高分动作,http://025365.xyz:18098/huya/11352884
+电影_动作电影,http://025365.xyz:18098/huya/11602077
+电影_搞笑喜剧,http://025365.xyz:18098/huya/11342423
+电影_喜剧专场,http://025365.xyz:18098/huya/11602044
+电影_欢笑影院,http://025365.xyz:18098/huya/11352894
+电影_不挤影院,http://025365.xyz:18098/huya/11352897
+电影_国产悬疑,http://025365.xyz:18098/huya/11342395
+电影_快意江湖,http://025365.xyz:18098/huya/11342435
+电影_黑帮斗争,http://025365.xyz:18098/huya/11342419
+电影_古墓系列,http://025365.xyz:18098/huya/11352913
+电影_嫣然影厅,http://025365.xyz:18098/huya/11601977
+电影_女神系列,http://025365.xyz:18098/huya/11336571
+电影_经典女神,http://025365.xyz:18098/huya/11352909
+电影_许氏三杰,http://025365.xyz:18098/huya/11602033
+电影_经典港片,http://025365.xyz:18098/huya/11352965
+电影_镖行天下,http://025365.xyz:18098/huya/11352969
+电影_高能反转,http://025365.xyz:18098/huya/11352887
+电影_喜乐影院,http://025365.xyz:18098/huya/21059580
+电影_蘑菇影厅,http://025365.xyz:18098/huya/11601981
+电影_搞笑恐怖,http://025365.xyz:18098/huya/11601960
+电影_死神来了,http://025365.xyz:18098/huya/11352903
+电影_变形金刚,http://025365.xyz:18098/huya/21059596
+电影_怪兽系列,http://025365.xyz:18098/huya/21059554
+搞笑_陈翔六点半,http://025365.xyz:18098/huya/11274154
+解说_电影狂人,http://025365.xyz:18098/huya/18715610
+解说_鹿哥电影,http://025365.xyz:18098/huya/24396360
+解说_斌哥漫说,http://025365.xyz:18098/huya/18632116
+解说_续哥说电影,http://025365.xyz:18098/huya/24396472
+解说_小川侃电影,http://025365.xyz:18098/huya/15870999
+解说_阿钙扒瞎,http://025365.xyz:18098/huya/15978172
+解说_阿良说剧,http://025365.xyz:18098/huya/20488841
+解说_鱼丸电影,http://025365.xyz:18098/huya/16615910
+解说_阿斗说电影,http://025365.xyz:18098/huya/13303478
+解说_扁豆看电影,http://025365.xyz:18098/huya/16028551
+解说_乌贼说电影,http://025365.xyz:18098/huya/16604522
+解说_大象放映室,http://025365.xyz:18098/huya/21277391
+解说_科幻梦工场,http://025365.xyz:18098/huya/15152155
+解说_亮哥讲电影,http://025365.xyz:18098/huya/16144175
+解说_越哥说电影,http://025365.xyz:18098/huya/15894162
+解说_小冉看电影,http://025365.xyz:18098/huya/17341907
+解说_嫦娥撩电影,http://025365.xyz:18098/huya/18201106
+解说_阿翔说电影,http://025365.xyz:18098/huya/16868935
+解说_疯狂解说家,http://025365.xyz:18098/huya/18366196
+解说_虎妞说电影,http://025365.xyz:18098/huya/20343144
+解说_顾久撩电影,http://025365.xyz:18098/huya/16422212
+解说_涵哥评电影,http://025365.xyz:18098/huya/16865726
+解说_俗哥看电影,http://025365.xyz:18098/huya/15452736
+解说_老皮讲电影,http://025365.xyz:18098/huya/16968572
+解说_默爷侃电影,http://025365.xyz:18098/huya/17204307
+解说_冷君说电影,http://025365.xyz:18098/huya/16739452
+解说_老炮说电影,http://025365.xyz:18098/huya/15454716
+解说_刘老师说电影,http://025365.xyz:18098/huya/20289754
+解说_恐怖电影解说,http://025365.xyz:18098/huya/16741179
+剧集_老三国,http://025365.xyz:18098/huya/11602081
+剧集_新三国,http://025365.xyz:18098/huya/11352944
+剧集_新水浒,http://025365.xyz:18098/huya/11342384
+剧集_纪晓岚,http://025365.xyz:18098/huya/11342396
+剧集_庆余年,http://025365.xyz:18098/huya/11352960
+剧集_雍正王朝,http://025365.xyz:18098/huya/11342439
+剧集_士兵突击,http://025365.xyz:18098/huya/11342430
+剧集_爱情公寓,http://025365.xyz:18098/huya/11336726
+剧集_家有儿女,http://025365.xyz:18098/huya/11352872
+剧集_武林外传,http://025365.xyz:18098/huya/21059598
+剧集_地下交通站,http://025365.xyz:18098/huya/11342433
+剧集_邻里一家亲,http://025365.xyz:18098/huya/11342426
 
 电影_星爷,https://www.goodiptv.club/huya/11342412
 电影_英叔,https://www.goodiptv.club/huya/11342421
@@ -5551,106 +5551,106 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 大片片说小片,http://cfss.cc/cdn/dyu/7489563.m3u8
 火龙果说电影,http://cfss.cc/cdn/dyu/9559158.m3u8
 
-周 星 驰,http://120.77.28.4:8648/douyu.php?id=122402
-刘 德 华,http://120.77.28.4:8648/douyu.php?id=2516864
-好 先 生,http://120.77.28.4:8648/douyu.php?id=9650792
-庆 余 年,http://120.77.28.4:8648/douyu.php?id=5908256
-欢乐综艺,http://120.77.28.4:8648/douyu.php?id=131977
-万合出品,http://120.77.28.4:8648/douyu.php?id=9220456
-邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
-吃米滴虫,http://120.77.28.4:8648/douyu.php?id=315457
-高分电影,http://120.77.28.4:8648/douyu.php?id=7254536
-豆瓣高分,http://120.77.28.4:8648/douyu.php?id=8770422
-漫威影院,http://120.77.28.4:8648/douyu.php?id=6140589
-特辑电影,http://120.77.28.4:8648/douyu.php?id=3637778
-粤语电影,http://120.77.28.4:8648/douyu.php?id=1226741
-国产电影,http://120.77.28.4:8648/douyu.php?id=5423
-精彩电影,http://120.77.28.4:8648/douyu.php?id=9650887
-喜剧电影,http://120.77.28.4:8648/douyu.php?id=323876
-动作电影,http://120.77.28.4:8648/douyu.php?id=6763930
-恐怖电影,http://120.77.28.4:8648/douyu.php?id=218859
-恐怖鬼怪,http://120.77.28.4:8648/douyu.php?id=1165374
-童年阴影,http://120.77.28.4:8648/douyu.php?id=2935323
-惊悚电影,http://120.77.28.4:8648/douyu.php?id=96577
-粤语电影,http://120.77.28.4:8648/douyu.php?id=6566671
-华语影视,http://120.77.28.4:8648/douyu.php?id=3928
-神乐影视,http://120.77.28.4:8648/douyu.php?id=85894
-周末影院,http://120.77.28.4:8648/douyu.php?id=3637765
-周末电影,http://120.77.28.4:8648/douyu.php?id=3637726
-兔子影厅,http://120.77.28.4:8648/douyu.php?id=8985415
-冰冰影厅,http://120.77.28.4:8648/douyu.php?id=74374
-刀刀影院,http://120.77.28.4:8648/douyu.php?id=747764
-奶虫影院,http://120.77.28.4:8648/douyu.php?id=263824
-贝爷壹厅,http://120.77.28.4:8648/douyu.php?id=252802
-贝爷贰厅,http://120.77.28.4:8648/douyu.php?id=4332
-贝爷叁厅,http://120.77.28.4:8648/douyu.php?id=36337
-凌儿影院,http://120.77.28.4:8648/douyu.php?id=1377142
-云宝影院,http://120.77.28.4:8648/douyu.php?id=7305938
-花卷影院,http://120.77.28.4:8648/douyu.php?id=52787
-菜园小饼,http://120.77.28.4:8648/douyu.php?id=1735337
-米娅影院,http://120.77.28.4:8648/douyu.php?id=6537888
-橙記港剧,http://120.77.28.4:8648/douyu.php?id=4549169
-大宝影视,http://120.77.28.4:8648/douyu.php?id=805235
-蚂蚱影视,http://120.77.28.4:8648/douyu.php?id=6079455
-怡寶影视,http://120.77.28.4:8648/douyu.php?id=434971
-圆子影视,http://120.77.28.4:8648/douyu.php?id=6566658
-贝贝影视,http://120.77.28.4:8648/douyu.php?id=431460
-可乐影视,http://120.77.28.4:8648/douyu.php?id=20415
-萌牛影视,http://120.77.28.4:8648/douyu.php?id=7494871
-兔兔影视,http://120.77.28.4:8648/douyu.php?id=1504768
-无双影视,http://120.77.28.4:8648/douyu.php?id=4870914
-下饭神剧,http://120.77.28.4:8648/douyu.php?id=276200
-古装神剧,http://120.77.28.4:8648/douyu.php?id=338759
-晚湾影视,http://120.77.28.4:8648/douyu.php?id=9461178
-酒染影视,http://120.77.28.4:8648/douyu.php?id=7550220
-芊珏影视,http://120.77.28.4:8648/douyu.php?id=8814650
-热门港剧,http://120.77.28.4:8648/douyu.php?id=5522351
-盗墓剧集,http://120.77.28.4:8648/douyu.php?id=9292503
-金庸武侠,http://120.77.28.4:8648/douyu.php?id=7644931
-国产剧集,http://120.77.28.4:8648/douyu.php?id=8157860
-国产剧场,http://120.77.28.4:8648/douyu.php?id=308752
-爱情公寓,http://120.77.28.4:8648/douyu.php?id=2838296
-经典剧集,http://120.77.28.4:8648/douyu.php?id=6863367
-李卫当官,http://120.77.28.4:8648/douyu.php?id=7473576
-龙门镖局,http://120.77.28.4:8648/douyu.php?id=9650860
-雍正王朝,http://120.77.28.4:8648/douyu.php?id=4944033
-雍正帝王,http://120.77.28.4:8648/douyu.php?id=9650836
-隋唐演义,http://120.77.28.4:8648/douyu.php?id=7552568
-大宋神探,http://120.77.28.4:8648/douyu.php?id=7784862
-音乐欣赏,http://120.77.28.4:8648/douyu.php?id=3186217
-舌尖美食,http://120.77.28.4:8648/douyu.php?id=9650849
-篮球人物,http://120.77.28.4:8648/douyu.php?id=8434598
-史君说剧,http://120.77.28.4:8648/douyu.php?id=9419771
-史剧解说,http://120.77.28.4:8648/douyu.php?id=297689
-老秦说剧,http://120.77.28.4:8648/douyu.php?id=9650131
-老蔡解说,http://120.77.28.4:8648/douyu.php?id=8869614
-长片短解,http://120.77.28.4:8648/douyu.php?id=9410946
-宇哥解说,http://120.77.28.4:8648/douyu.php?id=8651489
-夜魔人老王,http://120.77.28.4:8648/douyu.php?id=610972
-皮皮看动漫,http://120.77.28.4:8648/douyu.php?id=9837291
-开心锤动漫,http://120.77.28.4:8648/douyu.php?id=9018297
-拳叔二次元,http://120.77.28.4:8648/douyu.php?id=9484105
-老邪说电影,http://120.77.28.4:8648/douyu.php?id=9222870
-洗碗君解说,http://120.77.28.4:8648/douyu.php?id=9446706
-百晓生说剧,http://120.77.28.4:8648/douyu.php?id=9649681
-百晓生解说,http://120.77.28.4:8648/douyu.php?id=9653063
-小司马说剧,http://120.77.28.4:8648/douyu.php?id=4808115
-小司马解说,http://120.77.28.4:8648/douyu.php?id=9660127
-星君说电影,http://120.77.28.4:8648/douyu.php?id=8014467
-刘哔讲电影,http://120.77.28.4:8648/douyu.php?id=2632223
-老王说电影,http://120.77.28.4:8648/douyu.php?id=9687733
-贤于说电影,http://120.77.28.4:8648/douyu.php?id=9461990
-牛叔说电影,http://120.77.28.4:8648/douyu.php?id=2758565
-侃片大师兄,http://120.77.28.4:8648/douyu.php?id=9338839
-虫哥说电影,http://120.77.28.4:8648/douyu.php?id=8915074
-电影迷小雅,http://120.77.28.4:8648/douyu.php?id=9639225
-1900影剧室,http://120.77.28.4:8648/douyu.php?id=7796193
-刘老师说电影,http://120.77.28.4:8648/douyu.php?id=8317926
-来呀官人解说,http://120.77.28.4:8648/douyu.php?id=9986305
-科幻Fans布玛,http://120.77.28.4:8648/douyu.php?id=3508304
-小片片说大片,http://120.77.28.4:8648/douyu.php?id=4258555
-大片片说小片,http://120.77.28.4:8648/douyu.php?id=7489563
-火龙果说电影,http://120.77.28.4:8648/douyu.php?id=9559158
+周 星 驰,http://025365.xyz:18098/douyu/122402
+刘 德 华,http://025365.xyz:18098/douyu/2516864
+好 先 生,http://025365.xyz:18098/douyu/9650792
+庆 余 年,http://025365.xyz:18098/douyu/5908256
+欢乐综艺,http://025365.xyz:18098/douyu/131977
+万合出品,http://025365.xyz:18098/douyu/9220456
+邵氏影院,http://025365.xyz:18098/douyu/4246519
+吃米滴虫,http://025365.xyz:18098/douyu/315457
+高分电影,http://025365.xyz:18098/douyu/7254536
+豆瓣高分,http://025365.xyz:18098/douyu/8770422
+漫威影院,http://025365.xyz:18098/douyu/6140589
+特辑电影,http://025365.xyz:18098/douyu/3637778
+粤语电影,http://025365.xyz:18098/douyu/1226741
+国产电影,http://025365.xyz:18098/douyu/5423
+精彩电影,http://025365.xyz:18098/douyu/9650887
+喜剧电影,http://025365.xyz:18098/douyu/323876
+动作电影,http://025365.xyz:18098/douyu/6763930
+恐怖电影,http://025365.xyz:18098/douyu/218859
+恐怖鬼怪,http://025365.xyz:18098/douyu/1165374
+童年阴影,http://025365.xyz:18098/douyu/2935323
+惊悚电影,http://025365.xyz:18098/douyu/96577
+粤语电影,http://025365.xyz:18098/douyu/6566671
+华语影视,http://025365.xyz:18098/douyu/3928
+神乐影视,http://025365.xyz:18098/douyu/85894
+周末影院,http://025365.xyz:18098/douyu/3637765
+周末电影,http://025365.xyz:18098/douyu/3637726
+兔子影厅,http://025365.xyz:18098/douyu/8985415
+冰冰影厅,http://025365.xyz:18098/douyu/74374
+刀刀影院,http://025365.xyz:18098/douyu/747764
+奶虫影院,http://025365.xyz:18098/douyu/263824
+贝爷壹厅,http://025365.xyz:18098/douyu/252802
+贝爷贰厅,http://025365.xyz:18098/douyu/4332
+贝爷叁厅,http://025365.xyz:18098/douyu/36337
+凌儿影院,http://025365.xyz:18098/douyu/1377142
+云宝影院,http://025365.xyz:18098/douyu/7305938
+花卷影院,http://025365.xyz:18098/douyu/52787
+菜园小饼,http://025365.xyz:18098/douyu/1735337
+米娅影院,http://025365.xyz:18098/douyu/6537888
+橙記港剧,http://025365.xyz:18098/douyu/4549169
+大宝影视,http://025365.xyz:18098/douyu/805235
+蚂蚱影视,http://025365.xyz:18098/douyu/6079455
+怡寶影视,http://025365.xyz:18098/douyu/434971
+圆子影视,http://025365.xyz:18098/douyu/6566658
+贝贝影视,http://025365.xyz:18098/douyu/431460
+可乐影视,http://025365.xyz:18098/douyu/20415
+萌牛影视,http://025365.xyz:18098/douyu/7494871
+兔兔影视,http://025365.xyz:18098/douyu/1504768
+无双影视,http://025365.xyz:18098/douyu/4870914
+下饭神剧,http://025365.xyz:18098/douyu/276200
+古装神剧,http://025365.xyz:18098/douyu/338759
+晚湾影视,http://025365.xyz:18098/douyu/9461178
+酒染影视,http://025365.xyz:18098/douyu/7550220
+芊珏影视,http://025365.xyz:18098/douyu/8814650
+热门港剧,http://025365.xyz:18098/douyu/5522351
+盗墓剧集,http://025365.xyz:18098/douyu/9292503
+金庸武侠,http://025365.xyz:18098/douyu/7644931
+国产剧集,http://025365.xyz:18098/douyu/8157860
+国产剧场,http://025365.xyz:18098/douyu/308752
+爱情公寓,http://025365.xyz:18098/douyu/2838296
+经典剧集,http://025365.xyz:18098/douyu/6863367
+李卫当官,http://025365.xyz:18098/douyu/7473576
+龙门镖局,http://025365.xyz:18098/douyu/9650860
+雍正王朝,http://025365.xyz:18098/douyu/4944033
+雍正帝王,http://025365.xyz:18098/douyu/9650836
+隋唐演义,http://025365.xyz:18098/douyu/7552568
+大宋神探,http://025365.xyz:18098/douyu/7784862
+音乐欣赏,http://025365.xyz:18098/douyu/3186217
+舌尖美食,http://025365.xyz:18098/douyu/9650849
+篮球人物,http://025365.xyz:18098/douyu/8434598
+史君说剧,http://025365.xyz:18098/douyu/9419771
+史剧解说,http://025365.xyz:18098/douyu/297689
+老秦说剧,http://025365.xyz:18098/douyu/9650131
+老蔡解说,http://025365.xyz:18098/douyu/8869614
+长片短解,http://025365.xyz:18098/douyu/9410946
+宇哥解说,http://025365.xyz:18098/douyu/8651489
+夜魔人老王,http://025365.xyz:18098/douyu/610972
+皮皮看动漫,http://025365.xyz:18098/douyu/9837291
+开心锤动漫,http://025365.xyz:18098/douyu/9018297
+拳叔二次元,http://025365.xyz:18098/douyu/9484105
+老邪说电影,http://025365.xyz:18098/douyu/9222870
+洗碗君解说,http://025365.xyz:18098/douyu/9446706
+百晓生说剧,http://025365.xyz:18098/douyu/9649681
+百晓生解说,http://025365.xyz:18098/douyu/9653063
+小司马说剧,http://025365.xyz:18098/douyu/4808115
+小司马解说,http://025365.xyz:18098/douyu/9660127
+星君说电影,http://025365.xyz:18098/douyu/8014467
+刘哔讲电影,http://025365.xyz:18098/douyu/2632223
+老王说电影,http://025365.xyz:18098/douyu/9687733
+贤于说电影,http://025365.xyz:18098/douyu/9461990
+牛叔说电影,http://025365.xyz:18098/douyu/2758565
+侃片大师兄,http://025365.xyz:18098/douyu/9338839
+虫哥说电影,http://025365.xyz:18098/douyu/8915074
+电影迷小雅,http://025365.xyz:18098/douyu/9639225
+1900影剧室,http://025365.xyz:18098/douyu/7796193
+刘老师说电影,http://025365.xyz:18098/douyu/8317926
+来呀官人解说,http://025365.xyz:18098/douyu/9986305
+科幻Fans布玛,http://025365.xyz:18098/douyu/3508304
+小片片说大片,http://025365.xyz:18098/douyu/4258555
+大片片说小片,http://025365.xyz:18098/douyu/7489563
+火龙果说电影,http://025365.xyz:18098/douyu/9559158
 
 周 星 驰,https://www.goodiptv.club/douyu/122402
 刘 德 华,https://www.goodiptv.club/douyu/2516864
@@ -5792,43 +5792,43 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 埋堆堆36,http://cfss.cc/cdn/hy/23863787.m3u8
 埋堆堆37,http://cfss.cc/cdn/hy/23824164.m3u8
 
-埋堆堆01,http://120.77.28.4:8648/huya.php?id=23749096
-埋堆堆02,http://120.77.28.4:8648/huya.php?id=23735126
-埋堆堆03,http://120.77.28.4:8648/huya.php?id=23740156
-埋堆堆04,http://120.77.28.4:8648/huya.php?id=23728660
-埋堆堆05,http://120.77.28.4:8648/huya.php?id=23865080
-埋堆堆06,http://120.77.28.4:8648/huya.php?id=23863804
-埋堆堆07,http://120.77.28.4:8648/huya.php?id=23864973
-埋堆堆08,http://120.77.28.4:8648/huya.php?id=23734169
-埋堆堆09,http://120.77.28.4:8648/huya.php?id=23865171
-埋堆堆10,http://120.77.28.4:8648/huya.php?id=23903130
-埋堆堆11,http://120.77.28.4:8648/huya.php?id=23860039
-埋堆堆12,http://120.77.28.4:8648/huya.php?id=23865142
-埋堆堆13,http://120.77.28.4:8648/huya.php?id=23903123
-埋堆堆14,http://120.77.28.4:8648/huya.php?id=23734183
-埋堆堆15,http://120.77.28.4:8648/huya.php?id=23734256
-埋堆堆16,http://120.77.28.4:8648/huya.php?id=23903183
-埋堆堆17,http://120.77.28.4:8648/huya.php?id=23903196
-埋堆堆18,http://120.77.28.4:8648/huya.php?id=23829543
-埋堆堆19,http://120.77.28.4:8648/huya.php?id=23728674
-埋堆堆20,http://120.77.28.4:8648/huya.php?id=23865036
-埋堆堆21,http://120.77.28.4:8648/huya.php?id=23749083
-埋堆堆22,http://120.77.28.4:8648/huya.php?id=23865164
-埋堆堆23,http://120.77.28.4:8648/huya.php?id=23863818
-埋堆堆24,http://120.77.28.4:8648/huya.php?id=23865058
-埋堆堆25,http://120.77.28.4:8648/huya.php?id=23860049
-埋堆堆26,http://120.77.28.4:8648/huya.php?id=23734246
-埋堆堆27,http://120.77.28.4:8648/huya.php?id=23865161
-埋堆堆28,http://120.77.28.4:8648/huya.php?id=23746486
-埋堆堆29,http://120.77.28.4:8648/huya.php?id=23829447
-埋堆堆30,http://120.77.28.4:8648/huya.php?id=23863778
-埋堆堆31,http://120.77.28.4:8648/huya.php?id=23734176
-埋堆堆32,http://120.77.28.4:8648/huya.php?id=23863796
-埋堆堆33,http://120.77.28.4:8648/huya.php?id=23734211
-埋堆堆34,http://120.77.28.4:8648/huya.php?id=23865179
-埋堆堆35,http://120.77.28.4:8648/huya.php?id=23749068
-埋堆堆36,http://120.77.28.4:8648/huya.php?id=23863787
-埋堆堆37,http://120.77.28.4:8648/huya.php?id=23824164
+埋堆堆01,http://025365.xyz:18098/huya/23749096
+埋堆堆02,http://025365.xyz:18098/huya/23735126
+埋堆堆03,http://025365.xyz:18098/huya/23740156
+埋堆堆04,http://025365.xyz:18098/huya/23728660
+埋堆堆05,http://025365.xyz:18098/huya/23865080
+埋堆堆06,http://025365.xyz:18098/huya/23863804
+埋堆堆07,http://025365.xyz:18098/huya/23864973
+埋堆堆08,http://025365.xyz:18098/huya/23734169
+埋堆堆09,http://025365.xyz:18098/huya/23865171
+埋堆堆10,http://025365.xyz:18098/huya/23903130
+埋堆堆11,http://025365.xyz:18098/huya/23860039
+埋堆堆12,http://025365.xyz:18098/huya/23865142
+埋堆堆13,http://025365.xyz:18098/huya/23903123
+埋堆堆14,http://025365.xyz:18098/huya/23734183
+埋堆堆15,http://025365.xyz:18098/huya/23734256
+埋堆堆16,http://025365.xyz:18098/huya/23903183
+埋堆堆17,http://025365.xyz:18098/huya/23903196
+埋堆堆18,http://025365.xyz:18098/huya/23829543
+埋堆堆19,http://025365.xyz:18098/huya/23728674
+埋堆堆20,http://025365.xyz:18098/huya/23865036
+埋堆堆21,http://025365.xyz:18098/huya/23749083
+埋堆堆22,http://025365.xyz:18098/huya/23865164
+埋堆堆23,http://025365.xyz:18098/huya/23863818
+埋堆堆24,http://025365.xyz:18098/huya/23865058
+埋堆堆25,http://025365.xyz:18098/huya/23860049
+埋堆堆26,http://025365.xyz:18098/huya/23734246
+埋堆堆27,http://025365.xyz:18098/huya/23865161
+埋堆堆28,http://025365.xyz:18098/huya/23746486
+埋堆堆29,http://025365.xyz:18098/huya/23829447
+埋堆堆30,http://025365.xyz:18098/huya/23863778
+埋堆堆31,http://025365.xyz:18098/huya/23734176
+埋堆堆32,http://025365.xyz:18098/huya/23863796
+埋堆堆33,http://025365.xyz:18098/huya/23734211
+埋堆堆34,http://025365.xyz:18098/huya/23865179
+埋堆堆35,http://025365.xyz:18098/huya/23749068
+埋堆堆36,http://025365.xyz:18098/huya/23863787
+埋堆堆37,http://025365.xyz:18098/huya/23824164
 
 埋堆堆01,https://www.goodiptv.club/huya/23749096
 埋堆堆02,https://www.goodiptv.club/huya/23735126
@@ -5939,356 +5939,356 @@ CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
 航拍中国内蒙古,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
 
 🚧动物世界,#genre#
-彩蛇之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
-蛇类大观园,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
-深海潜伏的猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
-神秘的眼睛王蛇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cb73d16a9e02484ab4708b0268b63bcf/1200.m3u8
-草原三巨头,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2bdc779138bb4235b20a5155e40fa7c8/1200.m3u8
-草原上的大猫王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e98eed67d3164ec0a2f5a9215693f7a8/1200.m3u8
-草原狮子的戏剧舞台(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93fde1242f50415faa6da2dd5da9105b/1200.m3u8
-草原狮子的戏剧舞台(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c5b600bcb2c44c44b56e9afdb5243a07/1200.m3u8
-草原之王上战场,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bfb6917b29ea413c89e8ed8fa6e2a6ab/1200.m3u8
-爱吃鱼的棕熊,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
-爱的奉献1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
-爱的奉献2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
-爱的奉献3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aee1f28cf3e94a5fa7468206d4f417ed/1200.m3u8
-爱你我的宝宝(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
-爱你我的宝宝(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f16dbba3ddf84af2a0ff1521448ee4da/1200.m3u8
-爱与狗相伴,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
-遨游海底两万里,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31d0363fb3714ce4b916790aa7da22db/1200.m3u8
-白狮的荒野故事(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/649a0df6bc394fde973b2e8ef12ef3d6/1200.m3u8
-白狮的荒野故事(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1eee9eda1dec4c8da256c6b2ef70114a/1200.m3u8
-白狮归来1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/199ab14f5ba44a208371a3eef0029a09/1200.m3u8
-白狮归来2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3b36e52d0bc4a0a851a1bd3fa181365/1200.m3u8
-白狮归来4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffda5e0584b64e0d9dc3cc43783900cf/1200.m3u8
-豹妈当家(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/984cda8d35d544658fbd96b417bdea1f/1200.m3u8
-豹妈当家(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/33343249dabd4dcfaeb64da7ab7fe061/1200.m3u8
-北极熊的冒险之旅(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1b4b7a8beb3459bbd44f505a3fcc99c/1200.m3u8
-北极熊的冒险之旅(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9ab29267ff5b4b2b99fdb74d1b9fec55/1200.m3u8
-北极熊路在何方,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38321222144945faa76d79c7785346a6/1200.m3u8
-北极熊之光(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9df8189c94b24b8b8bb6c69e448cc936/1200.m3u8
-北极熊之光(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ca1fabcc21d64b1f8cc933844830fcc5/1200.m3u8
-被母狮拯救的小角马(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba95e1a983584925887c11306f83ccf8/1200.m3u8
-被母狮拯救的小角马(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e655ba0c751468b9d18f3020133571f/1200.m3u8
-变形记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c88fd67847314d1ab20524c9fd94d555/1200.m3u8
-冰天雪地北极熊(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15dd2029621a498d9c4d3eb2982285e7/1200.m3u8
-冰天雪地北极熊(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/360e77812fc84a8198e85a60f087b049/1200.m3u8
-冰雪世界狼女王(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/640f926df6fb4f398d40c8b254248750/1200.m3u8
-冰雪世界狼女王(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d85457ff45154ff8bdf74e73422e99a4/1200.m3u8
-冰雪王国里的童话,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3b291326cf2648cd8119f5facf9e3b92/1200.m3u8
-捕猎刹那间1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b222a92e2b9484f86121a558915ddb5/1200.m3u8
-捕猎刹那间2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/eb2cf087eae64ff9a40258bbbc1a92ba/1200.m3u8
-捕猎刹那间3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/799ea1ddb3db403484fe2421d4831287/1200.m3u8
-捕食奇谋(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/543fa61893394cc48d2802207c8a51e8/1200.m3u8
-捕食奇谋(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ba8dcc7a224442a58f6d6f86885d25/1200.m3u8
-捕食一瞬间(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
-捕食一瞬间(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b66704d4d4aa4ea7bab6e6ef673568b3/1200.m3u8
-捕食者大观,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19e46abe2754e2985715a147e653626/1200.m3u8
-捕食者身体构造,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/83901acd0fed408f904a9b554c8e16ef/1200.m3u8
-捕食者追猎现场(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/853b68324c2e4718ad08298aaed459b7/1200.m3u8
-捕食者追猎现场(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
-超凡猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/77d5ca903f0948ad8c5ec57e49b3cc95/1200.m3u8
-超凡猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bd3d27314fd431a84d8443c2fdc8b02/1200.m3u8
-超级猫行动,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8d952bbdd6cc4e6abf9df153bc18e927/1200.m3u8
-超级狮子家族,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f689bc846e93479898d8dcbdffad9744/1200.m3u8
-超级狮子群的故事(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c0a25fcb5564e02a435ec33fbdc4888/1200.m3u8
-超级狮子群的故事(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8986640e9a3f43be9ffe66f0feb41f72/1200.m3u8
-充满爱的象家族1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4bd5e30e25244ef1a622142a1053d8c0/1200.m3u8
-充满爱的象家族2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0acf5b4f7fc248f1bd0801b768375fd6/1200.m3u8
-穿越森林的迷宫,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/52bf33932d1646529b95b044f187d4d3/1200.m3u8
-穿越狮子的领地,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ea08ccce272f4b7984eb665a97bab536/1200.m3u8
-传奇母狮,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c550dc54139b4e619e7d4a1c1ab69e56/1200.m3u8
-聪明的建筑师,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d04a550f19ac42869d7b4d3f5f9246b2/1200.m3u8
-从幼狮到狮王(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0eb0c51f46ed4171a9923dd6a9703c45/1200.m3u8
-从幼狮到狮王(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a7510a06ef494458a0f23a8a6b6918d3/1200.m3u8
-丛林勇士之战(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2550722b92464a749fa7aceb52e22895/1200.m3u8
-丛林勇士之战(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c02959d3f2b14d3abf05ec017179c964/1200.m3u8
-丛林之王美洲豹,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bbb1037a32ad44cf8bab822eda34bc86/1200.m3u8
-打造一只超级猫,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
-大地骄子,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b08d6ad2f22047bd93af89955db5ce46/1200.m3u8
-大力士捕鱼记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1bcefb1f860746ebbbfe7f969c3a84ea/1200.m3u8
-大猫榜中榜(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5c95f6d2f9447e2bbb0b2bba952e062/1200.m3u8
-大猫榜中榜(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f813ed35c264d4ea10e57516dafe5d6/1200.m3u8
-大猫传奇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6976a5d0ae0d4426bbd94bc1dd8f44a9/1200.m3u8
-大猫归来,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8c13b8463ee54e93a0a0ccc33dab33ef/1200.m3u8
-大猫和邻居们(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84359a09aab544b184a40865454e0b0a/1200.m3u8
-大猫和邻居们(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2c4bc4b10e7d408a8de9c9e3012f64ca/1200.m3u8
-大猫猎手训练营,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a08d9451f00a451682973c99b503dd6a/1200.m3u8
-大猫们的世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/830375ed0f54449e8e369edc9635e329/1200.m3u8
-大水獭回归的故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0e114c18fa084fe58238307c66506675/1200.m3u8
-大水獭桑丘的故事(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ffea8bb4f0a04e53a82dab943e32bfb1/1200.m3u8
-大水獭桑丘的故事(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9934a6c232264addaf109ac76f21e7da/1200.m3u8
-大象的别样生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f4e6615b73ce42aa805767845425078a/1200.m3u8
-大象的别样生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f80446c8a43c4357af8680057ec1669f/1200.m3u8
-大象的秘密生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f43884b4064750af230205752dbb63/1200.m3u8
-大象的秘密生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/43e021f3a6dc4b6089c71afe80552fae/1200.m3u8
-大象与羊的快乐生活,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b72e3a49fdd44f36915d6cc59aa0a113/1200.m3u8
-大象与羊的神奇友情(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7689d02607d34fdb8ce22cc479e42e91/1200.m3u8
-大象与羊的神奇友情(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ab73d30adff4cfa8e5afda910387dfc/1200.m3u8
-冬季传说雪鸮,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e76b2116c4514daea844fbdd1b56ab5d/1200.m3u8
-冬日雪鸮,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1a7b439474b6439c91dc5d5b2cb736d4/1200.m3u8
-动物宝宝闯天涯(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e1f91fe01a9b4b24834a0a6e4b309bb2/1200.m3u8
-动物宝宝闯天涯(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d5937591787941518b5a1390f7a1e792/1200.m3u8
-动物搏击赛,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/22ef116331af49a782d42488e396837e/1200.m3u8
-动物搏击运动会,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f74c44316a34ea482ecae43f5c12fa8/1200.m3u8
-动物的海底宫殿,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0929798fce744530b14a6add96afcdf3/1200.m3u8
-动物父母有梦想(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f069e600b3584765840f34e9d641919a/1200.m3u8
-动物父母有梦想(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1c1df6f1bff5454a9570693475f920ef/1200.m3u8
-动物冠军竞技场(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cf107046774d4db5a1ac622e880488e2/1200.m3u8
-动物冠军竞技场(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f1dc957013c4765a96b86c1890e4ae2/1200.m3u8
-动物冠军俱乐部,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
-动物界捕食奇观,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5215de3e2a7b41009ed1ded1f29fea40/1200.m3u8
-动物霓裳羽衣之妙,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4aea8cd185c4126a37aa6e92d179f82/1200.m3u8
-动物与计谋,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
-都市里的丛林(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e2e0e875d624196af0488f6b07bb2e0/1200.m3u8
-都市里的丛林(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9f79dac568844de8813e682b280efb4f/1200.m3u8
-都市里的野生家园(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/03770b0594d44f289ce91022fe37a7bf/1200.m3u8
-都市里的野生家园(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/06ca0e5a61624f11987ba99dc9a8ed64/1200.m3u8
-鳄鱼出海,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7bdf23a599b44a7c8308684cbb789da0/1200.m3u8
-鳄鱼王漂流记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
-非凡虎女王(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e657776c024445b83a0554d71773c0b/1200.m3u8
-非凡虎女王(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2c7ecbc0033049efa1946472214eeae3/1200.m3u8
-非同一般的友谊,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fc5b68979baa47e6ab90db7e78b43364/1200.m3u8
-非洲水牛战狮群(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/945ab75be37f46c984dade1efb742b00/1200.m3u8
-非洲水牛战狮群(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76d3b3c55eaf44b198ceb0f456f41416/1200.m3u8
-非洲野放计划2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/21ff76c2151743f983d8f67d3cc7231d/1200.m3u8
-非洲野放计划3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/234631821d1343b086ed272be364d861/1200.m3u8
-非洲野放计划4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/28f6148101924fadb0f1cab6017801fe/1200.m3u8
-疯狂的爱,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35b481b5e27a4fa2b2c03f42596b68ba/1200.m3u8
-高个子幸运儿,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ea3dbe589a34258b6109229223de234/1200.m3u8
-古老的活化石恒河鳄(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f8c9f1b5ac454c9a9ec5fda21c62b926/1200.m3u8
-古老的活化石恒河鳄(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/966f8103448c4dcdabee095eeb340451/1200.m3u8
-海的呼唤,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
-海底生存战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
-海鬣蜥的故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d19635c3f57f4e538e078569ac796fd6/1200.m3u8
-海鬣蜥的幸福生活,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
-海豚的奇妙生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
-海豚的奇妙生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
-海洋宫殿的守护者,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
-海洋里的神奇家族(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
-海洋里的神奇家族(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
-海洋里的神奇家族(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
-海洋猎手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
-海中世界多神奇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
-旱季极限生存战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8
-旱季冒险故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
-旱季生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f34548881664dd6afb01ccdcb677a5d/1200.m3u8
-呵护,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3e2d88a89cd9464e89f3b4b6353db194/1200.m3u8
-河里的捕食大师(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
-河里的捕食大师(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/040c050908a340238dacd1ac86694543/1200.m3u8
-河龙王出海,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
-黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
-猴子的智慧,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef01d6b79fe74daf9bd63ff0469713d2/1200.m3u8
-虎妈妈爱(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6855ee238c9c4e9893ff342b7dbe5a2b/1200.m3u8
-虎妈妈爱(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9b07324b869c457e80531b72e979ee1a/1200.m3u8
-花豹柔情,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/96712ee30d144f21a0566f3c1b2fbc56/1200.m3u8
-荒野里的呼唤,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/de55f16b130042b19472ef89e184d719/1200.m3u8
-家有萌宝(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/496e4c0e2de74aaf968651d447eeb12a/1200.m3u8
-家有萌宝1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c53f1554802430587ecc54b1cef1002/1200.m3u8
-家有萌宝2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/81f9af4e6a6f41daa48c6c0091e4d66b/1200.m3u8
-家有萌宝3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fe463d857de5415daa72441ab0cdab7f/1200.m3u8
-家有萌宝4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/15d2240bbfc34785bfc2ab8147244466/1200.m3u8
-家有萌狗,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0fb39f83b1764305bd0216f15b8ab88a/1200.m3u8
-非洲野狗家族,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e64ec647a314b74b27ebc7f6bb985f2/1200.m3u8
-角马幸运儿(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/40c883e3f4c441d08422ce49aec61644/1200.m3u8
-角马幸运儿(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/67b7d65e3b3e4b509e314e65937ef369/1200.m3u8
-金豺夫妇的故事,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5b71afacb8eb442d9d4a5844d3ceca15/1200.m3u8
-进化中的北极熊,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/caf316bd282e4bfdbbd36bac2514c428/1200.m3u8
-镜头里的真相1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/df70034b3a4243bd888d18b8b877787d/1200.m3u8
-巨兽来了,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
-巨藻林的守卫者,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/432e7e692dc841bfaefb5e662de89bdc/1200.m3u8
-凯门鳄的奇妙旅程,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aba970eff8be48beb339a2ad027592cf/1200.m3u8
-看得见的远方1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f532415139fb4dc3a0e9de757d535d6a/1200.m3u8
-看得见的远方3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/255a802e924a44f381318db92a32431e/1200.m3u8
-可爱的海獭(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/340266a6b3ff421fa174208845f56fef/1200.m3u8
-可爱的海獭(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef9b2898e92146d29a2e926ce1107eac/1200.m3u8
-辣妈带娃记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8fd303fc08454c3497673fa40ced6284/1200.m3u8
-来到这个美丽的世界(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
-来到这个美丽的世界(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9323ea96cf6a47afaf798fca6d9411e6/1200.m3u8
-狼女王的奋斗传奇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f2d629470e214acf9d08dc81f4773cbf/1200.m3u8
-冷静与柔情,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/554c1b879dc646d4ab188dfd58a0f02f/1200.m3u8
-猎豹妈妈奋斗记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6b10d45dafaa47f4a3c3444946c074c9/1200.m3u8
-猎豹妈妈育儿记(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dba9097ef49e42acb2c6597e04551fbc/1200.m3u8
-猎豹妈妈育儿记(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fca702ad83284ff0a3b883a735913060/1200.m3u8
-猎食计划1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd732e06e7934a3daef6483c6be1afca/1200.m3u8
-猎食计划2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/497afdb07e92409fb8cb5c0249dfe6d7/1200.m3u8
-猎食计划3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/947b6c076a0c4a3ca72a1274731feb66/1200.m3u8
-猎手求生记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5bc79939a4804f199e606cc08b1bb416/1200.m3u8
-猎手生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/703310100a944d78a5e6838f80920cd6/1200.m3u8
-鬣蜥生存攻略,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ae22dffaf28f496584fc581ab72fab9c/1200.m3u8
-林间潜伏,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
-领养一只宠物狗,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ec7ccf71d6544387afbfc956f4c29ceb/1200.m3u8
-龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
-猫科动物谁为王者(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
-猫科动物谁为王者(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cbb873dc7474315b86788e9f657534a/1200.m3u8
-美食的诱惑,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9debd40527e34471bdfbe1212aa198d7/1200.m3u8
-萌狗诞生记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0f68b16f162c493c8d82a57135f16da0/1200.m3u8
-猛虎柔情,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dd3be5a89c1542d3bb4db0953a1430c6/1200.m3u8
-秘境里的动物王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb36368ba24f47ed88d4204fd3db5483/1200.m3u8
-秘境里的奇观,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38ba9675721d4259b3dd327b7e212a39/1200.m3u8
-秘境之蛇,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c4e45ac9dd2642b6ae9fb95b470224a9/1200.m3u8
-母爱的呵护,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a6ec4d0475e1453e8ede023e346c2350/1200.m3u8
-母爱之路,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/115d481467e04333be047fcebf482b3e/1200.m3u8
-南美野生世界1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/35eac4ae4e024654b845f5c7b2221d15/1200.m3u8
-南美野生世界2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9c743ea1e41f4bf585fb1470c9575c0d/1200.m3u8
-南美野生世界3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
-螃蟹岛海战(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d0137f4e9adc44a7856c7288fe8ca3d2/1200.m3u8
-螃蟹岛海战(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d784a777f3dd42b3b73be06858b71197/1200.m3u8
-奇迹发生的时刻,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1dbbdbb87b8f410cbc0f3c742201cd7d/1200.m3u8
-奇特动物的奇特遭遇(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2b20f8ba9ae14d96b9907f59bb758595/1200.m3u8
-奇特动物的奇特遭遇(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
-奇异世界的动物们2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
-奇异世界的动物们3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
-棋逢对手,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
-潜水大师的岛上生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
-潜水大师的岛上生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
-抢滩勇士(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
-勤奋的捕食者,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4793c8276c184d03bc3ba5e9b6dc9610/1200.m3u8
-情满大草原1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/222ec6157bf34d8c9abd0e62ddae6ee1/1200.m3u8
-情满大草原2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
-情满大草原3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0ab9b80f79884e22b6390b2deefdc571/1200.m3u8
-如履薄冰的北极熊(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f31953326cca4b5e9c5f7e285a5cddb7/1200.m3u8
-如履薄冰的北极熊(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b6576aa2cd4e43a9a5ddc4af16695a28/1200.m3u8
-森林是我家1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
-森林是我家2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
-森林是我家3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/14b683f0668f404a9bb8ea74d14c5c8e/1200.m3u8
-沙滩上的盛宴,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31e38a0232734780842a9031072c2073/1200.m3u8
-生存的望(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd00ce388b994d7195dbefc1beb5726b/1200.m3u8
-生存的望(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9765b81ca83444a9ba7b6a335b2466a/1200.m3u8
-生存极限大挑战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc7b6dcacde4fad9467c4d2c61da3d1/1200.m3u8
-盛宴的旅程,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbcd61c318c34e08854c3911086a7406/1200.m3u8
-狮口余生的小角马(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
-狮群的家园生活,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
-狮群的荣耀,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
-狮子捕猎计划,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6f2b58a05add4e2a9907ba370473332a/1200.m3u8
-狮子的荣耀回归之路1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
-狮子的荣耀回归之路2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
-狮子的荣耀回归之路3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50ef8c8037da4735a9cb9288f45878b0/1200.m3u8
-狮子的荣耀回归之路4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
-狮子和鬣狗(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6ca061c3b9184e7aa46cef1ead911099/1200.m3u8
-狮子和鬣狗(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
-狮族迷踪1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/801151749824437aaa0afa87bfcf7abf/1200.m3u8
-狮族迷踪2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
-狮族迷踪3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
-湿地小萌兽,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/00892961ec6546ae8c78e96d1dd0874a/1200.m3u8
-湿地有萌兽,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
-湿地之争豹与鳄鱼,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1fe1e5df7c9d4b38a0a855e092a7b6c1/1200.m3u8
-兽语如歌,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9d7bcf3e27d941cfac2e6c933ad9b543/1200.m3u8
-水牛向前冲(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
-水牛向前冲(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bda4b441c07e40cb8a418381d0506c80/1200.m3u8
-水牛与狮子的争战,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
-水獭奇缘,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
-水豚爱湿地,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
-速度大比拼(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2746acf40172425180162fc3a316416b/1200.m3u8
-速度大比拼(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2e5439b8a9c4b53970e5c3b0eee9abd/1200.m3u8
-速度与生存(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9953caf767b04ae782540c8ac53eaaa4/1200.m3u8
-速度与生存1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cc83ec8b9b44794b63e1a249b9fb2fb/1200.m3u8
-速度与生存2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/31abc302978f45df9c4e8aaa3972d599/1200.m3u8
-速度与生存3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/570d9ce8d39d4ede9a26ae6de4d28f54/1200.m3u8
-速度与生存4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f37b1966271f4527a581ed9275c34f7c/1200.m3u8
-探秘冰上的北极熊(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
-探秘冰上的北极熊(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/509e924ad47e422984af226b26236bf6/1200.m3u8
-探秘雨林利爪族(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
-探秘雨林利爪族(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
-天生野长生命课程(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/95839705cfdc471aa67a09b7cfd6f52d/1200.m3u8
-天生野长生命延续(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/87be5f0e1fb14d139fe696081a787914/1200.m3u8
-天生野长生命延续(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b95e26a16f664da498ef421f74ad3006/1200.m3u8
-童话般的雨林(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a1672972c0b742239237bb1686ba0745/1200.m3u8
-童话般的雨林(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8e99e3c9f38340a98fb79b36ab1c863f/1200.m3u8
-团结的水豚家族,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/51e9c38303624369a0ba257163a5528f/1200.m3u8
-蜥蜴安身火山岛(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0c3c388b10ad4cf78f312c6d6620f1e0/1200.m3u8
-蜥蜴安身火山岛(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5043f9b708fe443fb9207e26da903218/1200.m3u8
-险境求生,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3f41478fa1f24606bc1bad4725df7b59/1200.m3u8
-险境求生的小河马(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4b24374adc24487db8c9d5ac5d037079/1200.m3u8
-险境求生的小河马(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5c22e195021d49b8bc5868147fdc3139/1200.m3u8
-小动物大猎手(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
-小动物大猎手(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
-小动物大英雄,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
-小动物的森林童话,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
-小角马历险记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7594a5bc3d241e3a8b95eac39ebd7e9/1200.m3u8
-小鼠奇遇记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
-小象和绵羊朋友(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c69ca1ce229648ce86e97c0b86e67c58/1200.m3u8
-小象和绵羊朋友(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
-小熊的故事1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
-小熊的故事2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3499a172820f47da988e5aaeb187ec29/1200.m3u8
-小熊的故事3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3564b5460bea444b8712fb1cb0a59c00/1200.m3u8
-小熊的梦幻森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
-小熊的梦幻森林2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b2e817cee1a7417ba34f062aa919ca02/1200.m3u8
-小熊的梦幻森林3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
-小勇士闯天下,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8737418de24a461f9785193bcbda0026/1200.m3u8
-新狮王诞生记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e156f1734234e17ab0f6f87f2e7491b/1200.m3u8
-兄弟捕猎联盟,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0b85d990df5c4f7fae663dc595a084bd/1200.m3u8
-兄弟情深(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/0700de47ebc74232bc9f5c5c178aa488/1200.m3u8
-兄弟情深(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/30a35b521af54f1a88d74f7215ece1d3/1200.m3u8
-雄风再起,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b9176a8a35c94c37ade29708eed40190/1200.m3u8
-熊的王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ade1b31d23694fba82c9c4f07dba3267/1200.m3u8
-熊在旅途(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b0b95c35bce84072b10ad0b82cf83951/1200.m3u8
-熊在旅途(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
-雪鸮的风中芭蕾,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4ee145f174a8464fb624c4ae62992b1c/1200.m3u8
-雪鸮的生存之舞,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/722362cb57a74028804e0413141a1866/1200.m3u8
-耀眼的白狮家族1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/07c3395ee5da4f789937372657ab980a/1200.m3u8
-耀眼的白狮家族2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3989c3f3416745438c4bc20abeae51ae/1200.m3u8
-耀眼的白狮家族3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e0efcf1181234f2dabef87db65bcdec0/1200.m3u8
-野狗家族传世之爱,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/dc4007615a124e29827b16bec3885db5/1200.m3u8
-野生白狮(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/a9a5e806d97d41f5827532f1cb3f9afa/1200.m3u8
-野生白狮(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1e405a3890d3497d80df5351ad30f169/1200.m3u8
-野生白狮(中),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aa5594a7d44b42768d0b4f2fa3e3651d/1200.m3u8
-野生世界竞技场(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/11ac06bbb4f0426fbc4c7b3bfd864b3f/1200.m3u8
-野生世界竞技场(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bf683b66c36343599bcad10516c58274/1200.m3u8
-野性的魅力1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2f83cd6f217c48e8abb8064f430bc93a/1200.m3u8
-野性的魅力2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/091f7f7dfce34c0d83bcd93c0b58dc07/1200.m3u8
-野性的召唤1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/ce41c579b0c84ada982b79073028d116/1200.m3u8
-野性的召唤2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/24514b1197ea46b9a443121f5e19f535/1200.m3u8
-野性的召唤3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/9a6b5b4568574867933091059ff57680/1200.m3u8
-野性美洲(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/58a370a91cbf49858c18e6d72007d12e/1200.m3u8
-野性美洲1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d1a92d87e2c74de7a799141e5e89eb3b/1200.m3u8
-野性美洲2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2e902191f2524bc198a656db71791080/1200.m3u8
-野性美洲3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1156d95bcf554d0e9df1688e8a6fd55d/1200.m3u8
-野性美洲3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4cb2ce54e7e047a99c772d3874f4c916/1200.m3u8
-野性美洲4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5dcd2b749aae4e7e973271f124e83fb1/1200.m3u8
-野性生存秘籍1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7c8a682e6c5749b19d375b0c562f4c87/1200.m3u8
-野性生存秘籍2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b95862f403d5404f87114f6a651119e6/1200.m3u8
-一片住着熊的森林1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
-一片住着熊的森林2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/969d426187eb46e19fc6839a435fbf0f/1200.m3u8
-一片住着熊的森林3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fd1e9f94afe948efafaa28a882661620/1200.m3u8
-隐秘的海鬣蜥王国,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b7af80d20f06401989879c44eaf865e8/1200.m3u8
-隐秘王国里的奇迹1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/e2094de08292490db17c29ec299b4bc2/1200.m3u8
-隐秘王国里的奇迹2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1cee8d6ac393418e887420a6e1d54b6e/1200.m3u8
-隐秘王国里的奇迹3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/2fe654a3cadf4838bb34ea18441378e8/1200.m3u8
-隐秘王国里的奇迹4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/953467196a854ed786f7e3521579f1f6/1200.m3u8
-勇闯包围圈,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3af15ad56d1640fab9a1a065402b3b76/1200.m3u8
-勇闯都市丛林,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/221e94ad951d4001b106d3c5af785537/1200.m3u8
-勇闯螃蟹岛,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3bba8da0b6c54771aa02b579ba75f8e7/1200.m3u8
-勇敢的王者之心,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d37b12d09c4144f0a59560f18ff6508a/1200.m3u8
-勇敢的长颈鹿(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8a9d50517baa443b82b3e4c9e0078351/1200.m3u8
-勇敢的长颈鹿(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/773b3e9df72f4834b85c46e0f5b038fb/1200.m3u8
-勇挑重担的矮獴(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8ef930c154a446d0a831d2dd93698fd2/1200.m3u8
-勇挑重担的矮獴(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d9ffce5e83824939ab9bb66502778bd9/1200.m3u8
-有一只美丽的大水獭,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
-与野生动物为邻,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d25931bed86a49d4afb8780771797c19/1200.m3u8
-雨季狮踪,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/c1af227765174580bb3ad5c641f4dfd1/1200.m3u8
-雨林守护的秘密(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18aecd7b1b064f3692f80ce6906895d5/1200.m3u8
-雨林守护的秘密(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/084be96dbd124ac499afc25eb1e4d63d/1200.m3u8
-原野逐梦记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/01fcf61e12c242bd81dc5aca38b6f183/1200.m3u8
-绽放的生命(五),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d2f3f0f3b4c242b4983ee62034f85608/1200.m3u8
-绽放的生命1,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/87145268893a47cd8fc9cda530eee111/1200.m3u8
-绽放的生命2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b6ed77c03224d298a72a8311fcf10a7/1200.m3u8
-绽放的生命3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/aea0ef5ea21c40dea948d723d823a5fb/1200.m3u8
-绽放的生命4,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fbb3d1d6ae37458e84f574881778ac7c/1200.m3u8
-植物王国漫游记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
-植物王国漫游记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
-追逐的游戏,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/34459ad5d340461daab2f453d485833d/1200.m3u8
-追踪兽王,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/93dfcb01bd634370bc211fc7484854ec/1200.m3u8
-自然界奥运冠军,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/7b968e9b50984d598d96c6fc5af40b4c/1200.m3u8
-棕熊把守的水上要塞(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/50590d053a2245428391323902e07d0e/1200.m3u8
-棕熊把守的水上要塞(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
-棕熊捕鱼季(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/1ef91cb6079d46ccb9a62f046739d5c8/1200.m3u8
-棕熊的捕鱼生活(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
-棕熊的捕鱼生活(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
-走出包围圈,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/38fc4f8e379445aeab6098b9ece0aa2a/1200.m3u8
-走进狗的世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
-足球超级猎食者(上),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
-足球超级猎食者(下),https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
+彩蛇之舞,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/002334474c7c4b8b98bad237a7bdeb7b/1200.m3u8
+蛇类大观园,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/414f84230ced4696af656a112385b72c/1200.m3u8
+深海潜伏的猎手,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1a00ae54f3b428bac1ed388ced1ce70/1200.m3u8
+神秘的眼睛王蛇,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cb73d16a9e02484ab4708b0268b63bcf/1200.m3u8
+草原三巨头,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2bdc779138bb4235b20a5155e40fa7c8/1200.m3u8
+草原上的大猫王国,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e98eed67d3164ec0a2f5a9215693f7a8/1200.m3u8
+草原狮子的戏剧舞台(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/93fde1242f50415faa6da2dd5da9105b/1200.m3u8
+草原狮子的戏剧舞台(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c5b600bcb2c44c44b56e9afdb5243a07/1200.m3u8
+草原之王上战场,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bfb6917b29ea413c89e8ed8fa6e2a6ab/1200.m3u8
+爱吃鱼的棕熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/79c7bb4495f74ca698f3111a6f7ba567/1200.m3u8
+爱的奉献1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5b062ba2cd854ba993166d277af8a40d/1200.m3u8
+爱的奉献2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/80cf935aef484e15aa31b8fbd565be39/1200.m3u8
+爱的奉献3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aee1f28cf3e94a5fa7468206d4f417ed/1200.m3u8
+爱你我的宝宝(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/08f97ee21d884d0486c37ae6fb7c5683/1200.m3u8
+爱你我的宝宝(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f16dbba3ddf84af2a0ff1521448ee4da/1200.m3u8
+爱与狗相伴,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/530a12d274184293802f51c38603f75a/1200.m3u8
+遨游海底两万里,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/31d0363fb3714ce4b916790aa7da22db/1200.m3u8
+白狮的荒野故事(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649a0df6bc394fde973b2e8ef12ef3d6/1200.m3u8
+白狮的荒野故事(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1eee9eda1dec4c8da256c6b2ef70114a/1200.m3u8
+白狮归来1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/199ab14f5ba44a208371a3eef0029a09/1200.m3u8
+白狮归来2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e3b36e52d0bc4a0a851a1bd3fa181365/1200.m3u8
+白狮归来4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ffda5e0584b64e0d9dc3cc43783900cf/1200.m3u8
+豹妈当家(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/984cda8d35d544658fbd96b417bdea1f/1200.m3u8
+豹妈当家(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/33343249dabd4dcfaeb64da7ab7fe061/1200.m3u8
+北极熊的冒险之旅(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e1b4b7a8beb3459bbd44f505a3fcc99c/1200.m3u8
+北极熊的冒险之旅(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ab29267ff5b4b2b99fdb74d1b9fec55/1200.m3u8
+北极熊路在何方,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/38321222144945faa76d79c7785346a6/1200.m3u8
+北极熊之光(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9df8189c94b24b8b8bb6c69e448cc936/1200.m3u8
+北极熊之光(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ca1fabcc21d64b1f8cc933844830fcc5/1200.m3u8
+被母狮拯救的小角马(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ba95e1a983584925887c11306f83ccf8/1200.m3u8
+被母狮拯救的小角马(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8e655ba0c751468b9d18f3020133571f/1200.m3u8
+变形记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c88fd67847314d1ab20524c9fd94d555/1200.m3u8
+冰天雪地北极熊(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/15dd2029621a498d9c4d3eb2982285e7/1200.m3u8
+冰天雪地北极熊(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/360e77812fc84a8198e85a60f087b049/1200.m3u8
+冰雪世界狼女王(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/640f926df6fb4f398d40c8b254248750/1200.m3u8
+冰雪世界狼女王(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d85457ff45154ff8bdf74e73422e99a4/1200.m3u8
+冰雪王国里的童话,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3b291326cf2648cd8119f5facf9e3b92/1200.m3u8
+捕猎刹那间1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b222a92e2b9484f86121a558915ddb5/1200.m3u8
+捕猎刹那间2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/eb2cf087eae64ff9a40258bbbc1a92ba/1200.m3u8
+捕猎刹那间3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/799ea1ddb3db403484fe2421d4831287/1200.m3u8
+捕食奇谋(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/543fa61893394cc48d2802207c8a51e8/1200.m3u8
+捕食奇谋(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/05ba8dcc7a224442a58f6d6f86885d25/1200.m3u8
+捕食一瞬间(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/426cfdd1924a452b863c0cd52af6436b/1200.m3u8
+捕食一瞬间(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b66704d4d4aa4ea7bab6e6ef673568b3/1200.m3u8
+捕食者大观,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d19e46abe2754e2985715a147e653626/1200.m3u8
+捕食者身体构造,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/83901acd0fed408f904a9b554c8e16ef/1200.m3u8
+捕食者追猎现场(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/853b68324c2e4718ad08298aaed459b7/1200.m3u8
+捕食者追猎现场(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6016b09920a7447eb798f3f891f52bad/1200.m3u8
+超凡猎手,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/77d5ca903f0948ad8c5ec57e49b3cc95/1200.m3u8
+超凡猎手,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8bd3d27314fd431a84d8443c2fdc8b02/1200.m3u8
+超级猫行动,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8d952bbdd6cc4e6abf9df153bc18e927/1200.m3u8
+超级狮子家族,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f689bc846e93479898d8dcbdffad9744/1200.m3u8
+超级狮子群的故事(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c0a25fcb5564e02a435ec33fbdc4888/1200.m3u8
+超级狮子群的故事(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8986640e9a3f43be9ffe66f0feb41f72/1200.m3u8
+充满爱的象家族1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4bd5e30e25244ef1a622142a1053d8c0/1200.m3u8
+充满爱的象家族2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0acf5b4f7fc248f1bd0801b768375fd6/1200.m3u8
+穿越森林的迷宫,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/52bf33932d1646529b95b044f187d4d3/1200.m3u8
+穿越狮子的领地,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ea08ccce272f4b7984eb665a97bab536/1200.m3u8
+传奇母狮,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c550dc54139b4e619e7d4a1c1ab69e56/1200.m3u8
+聪明的建筑师,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d04a550f19ac42869d7b4d3f5f9246b2/1200.m3u8
+从幼狮到狮王(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0eb0c51f46ed4171a9923dd6a9703c45/1200.m3u8
+从幼狮到狮王(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a7510a06ef494458a0f23a8a6b6918d3/1200.m3u8
+丛林勇士之战(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2550722b92464a749fa7aceb52e22895/1200.m3u8
+丛林勇士之战(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c02959d3f2b14d3abf05ec017179c964/1200.m3u8
+丛林之王美洲豹,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bbb1037a32ad44cf8bab822eda34bc86/1200.m3u8
+打造一只超级猫,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ba966901198844d09399a354e203e6cb/1200.m3u8
+大地骄子,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b08d6ad2f22047bd93af89955db5ce46/1200.m3u8
+大力士捕鱼记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1bcefb1f860746ebbbfe7f969c3a84ea/1200.m3u8
+大猫榜中榜(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e5c95f6d2f9447e2bbb0b2bba952e062/1200.m3u8
+大猫榜中榜(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f813ed35c264d4ea10e57516dafe5d6/1200.m3u8
+大猫传奇,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6976a5d0ae0d4426bbd94bc1dd8f44a9/1200.m3u8
+大猫归来,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8c13b8463ee54e93a0a0ccc33dab33ef/1200.m3u8
+大猫和邻居们(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84359a09aab544b184a40865454e0b0a/1200.m3u8
+大猫和邻居们(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c4bc4b10e7d408a8de9c9e3012f64ca/1200.m3u8
+大猫猎手训练营,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a08d9451f00a451682973c99b503dd6a/1200.m3u8
+大猫们的世界,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/830375ed0f54449e8e369edc9635e329/1200.m3u8
+大水獭回归的故事,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0e114c18fa084fe58238307c66506675/1200.m3u8
+大水獭桑丘的故事(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ffea8bb4f0a04e53a82dab943e32bfb1/1200.m3u8
+大水獭桑丘的故事(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9934a6c232264addaf109ac76f21e7da/1200.m3u8
+大象的别样生活(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f4e6615b73ce42aa805767845425078a/1200.m3u8
+大象的别样生活(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f80446c8a43c4357af8680057ec1669f/1200.m3u8
+大象的秘密生活(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81f43884b4064750af230205752dbb63/1200.m3u8
+大象的秘密生活(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/43e021f3a6dc4b6089c71afe80552fae/1200.m3u8
+大象与羊的快乐生活,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b72e3a49fdd44f36915d6cc59aa0a113/1200.m3u8
+大象与羊的神奇友情(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7689d02607d34fdb8ce22cc479e42e91/1200.m3u8
+大象与羊的神奇友情(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8ab73d30adff4cfa8e5afda910387dfc/1200.m3u8
+冬季传说雪鸮,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e76b2116c4514daea844fbdd1b56ab5d/1200.m3u8
+冬日雪鸮,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1a7b439474b6439c91dc5d5b2cb736d4/1200.m3u8
+动物宝宝闯天涯(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e1f91fe01a9b4b24834a0a6e4b309bb2/1200.m3u8
+动物宝宝闯天涯(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d5937591787941518b5a1390f7a1e792/1200.m3u8
+动物搏击赛,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/22ef116331af49a782d42488e396837e/1200.m3u8
+动物搏击运动会,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f74c44316a34ea482ecae43f5c12fa8/1200.m3u8
+动物的海底宫殿,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0929798fce744530b14a6add96afcdf3/1200.m3u8
+动物父母有梦想(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f069e600b3584765840f34e9d641919a/1200.m3u8
+动物父母有梦想(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1c1df6f1bff5454a9570693475f920ef/1200.m3u8
+动物冠军竞技场(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cf107046774d4db5a1ac622e880488e2/1200.m3u8
+动物冠军竞技场(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f1dc957013c4765a96b86c1890e4ae2/1200.m3u8
+动物冠军俱乐部,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/65227347336749ffa373661cac985952/1200.m3u8
+动物界捕食奇观,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5215de3e2a7b41009ed1ded1f29fea40/1200.m3u8
+动物霓裳羽衣之妙,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b4aea8cd185c4126a37aa6e92d179f82/1200.m3u8
+动物与计谋,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/403122f54ee5492fa9e5d2b8f0087ad2/1200.m3u8
+都市里的丛林(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2e2e0e875d624196af0488f6b07bb2e0/1200.m3u8
+都市里的丛林(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9f79dac568844de8813e682b280efb4f/1200.m3u8
+都市里的野生家园(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/03770b0594d44f289ce91022fe37a7bf/1200.m3u8
+都市里的野生家园(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/06ca0e5a61624f11987ba99dc9a8ed64/1200.m3u8
+鳄鱼出海,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7bdf23a599b44a7c8308684cbb789da0/1200.m3u8
+鳄鱼王漂流记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
+非凡虎女王(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2e657776c024445b83a0554d71773c0b/1200.m3u8
+非凡虎女王(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2c7ecbc0033049efa1946472214eeae3/1200.m3u8
+非同一般的友谊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fc5b68979baa47e6ab90db7e78b43364/1200.m3u8
+非洲水牛战狮群(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/945ab75be37f46c984dade1efb742b00/1200.m3u8
+非洲水牛战狮群(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/76d3b3c55eaf44b198ceb0f456f41416/1200.m3u8
+非洲野放计划2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/21ff76c2151743f983d8f67d3cc7231d/1200.m3u8
+非洲野放计划3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/234631821d1343b086ed272be364d861/1200.m3u8
+非洲野放计划4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/28f6148101924fadb0f1cab6017801fe/1200.m3u8
+疯狂的爱,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/35b481b5e27a4fa2b2c03f42596b68ba/1200.m3u8
+高个子幸运儿,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ea3dbe589a34258b6109229223de234/1200.m3u8
+古老的活化石恒河鳄(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f8c9f1b5ac454c9a9ec5fda21c62b926/1200.m3u8
+古老的活化石恒河鳄(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/966f8103448c4dcdabee095eeb340451/1200.m3u8
+海的呼唤,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ee6a46541b624388a01ba2fc14c34079/1200.m3u8
+海底生存战,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/20225ac33ef7408e8c7040cb39d6a595/1200.m3u8
+海鬣蜥的故事,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d19635c3f57f4e538e078569ac796fd6/1200.m3u8
+海鬣蜥的幸福生活,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a66f6344f9cc4ed3b42b06e678124d0f/1200.m3u8
+海豚的奇妙生活(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30385b1caa214c9a8c6c53ef69ce7e18/1200.m3u8
+海豚的奇妙生活(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b61b0646586142aca08c2e8d333c385b/1200.m3u8
+海洋宫殿的守护者,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/86c73156b8ad405180ed252940b2155c/1200.m3u8
+海洋里的神奇家族(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef8e561920694e4a81cd1933314610cb/1200.m3u8
+海洋里的神奇家族(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5775e1919dca48169eb22986804455b3/1200.m3u8
+海洋里的神奇家族(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a68ae907dc7e4783af8d9547a1926435/1200.m3u8
+海洋猎手,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f98ebc30517647839c09fb17e0dbea04/1200.m3u8
+海中世界多神奇,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/71d7dce230b74c1b9e35b41e837ffc5f/1200.m3u8
+旱季极限生存战,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1b750e952abb452c9f77d44f8d8bae17/1200.m3u8
+旱季冒险故事,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ac505ca5d2d5469eb21448c300a8c16c/1200.m3u8
+旱季生存攻略,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3f34548881664dd6afb01ccdcb677a5d/1200.m3u8
+呵护,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3e2d88a89cd9464e89f3b4b6353db194/1200.m3u8
+河里的捕食大师(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf70f8033ec049f5be4698c3497d3868/1200.m3u8
+河里的捕食大师(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/040c050908a340238dacd1ac86694543/1200.m3u8
+河龙王出海,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f352ba97a41146279f5d250cc8c670bb/1200.m3u8
+黑猩猩的丛林法则,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
+猴子的智慧,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef01d6b79fe74daf9bd63ff0469713d2/1200.m3u8
+虎妈妈爱(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6855ee238c9c4e9893ff342b7dbe5a2b/1200.m3u8
+虎妈妈爱(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9b07324b869c457e80531b72e979ee1a/1200.m3u8
+花豹柔情,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/96712ee30d144f21a0566f3c1b2fbc56/1200.m3u8
+荒野里的呼唤,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/de55f16b130042b19472ef89e184d719/1200.m3u8
+家有萌宝(五),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/496e4c0e2de74aaf968651d447eeb12a/1200.m3u8
+家有萌宝1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7c53f1554802430587ecc54b1cef1002/1200.m3u8
+家有萌宝2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81f9af4e6a6f41daa48c6c0091e4d66b/1200.m3u8
+家有萌宝3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fe463d857de5415daa72441ab0cdab7f/1200.m3u8
+家有萌宝4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/15d2240bbfc34785bfc2ab8147244466/1200.m3u8
+家有萌狗,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0fb39f83b1764305bd0216f15b8ab88a/1200.m3u8
+非洲野狗家族,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2e64ec647a314b74b27ebc7f6bb985f2/1200.m3u8
+角马幸运儿(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/40c883e3f4c441d08422ce49aec61644/1200.m3u8
+角马幸运儿(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/67b7d65e3b3e4b509e314e65937ef369/1200.m3u8
+金豺夫妇的故事,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5b71afacb8eb442d9d4a5844d3ceca15/1200.m3u8
+进化中的北极熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/caf316bd282e4bfdbbd36bac2514c428/1200.m3u8
+镜头里的真相1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/df70034b3a4243bd888d18b8b877787d/1200.m3u8
+巨兽来了,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1224d3b3e1ba410d8dc316f2f2ab1872/1200.m3u8
+巨藻林的守卫者,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/432e7e692dc841bfaefb5e662de89bdc/1200.m3u8
+凯门鳄的奇妙旅程,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aba970eff8be48beb339a2ad027592cf/1200.m3u8
+看得见的远方1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f532415139fb4dc3a0e9de757d535d6a/1200.m3u8
+看得见的远方3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/255a802e924a44f381318db92a32431e/1200.m3u8
+可爱的海獭(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/340266a6b3ff421fa174208845f56fef/1200.m3u8
+可爱的海獭(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef9b2898e92146d29a2e926ce1107eac/1200.m3u8
+辣妈带娃记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8fd303fc08454c3497673fa40ced6284/1200.m3u8
+来到这个美丽的世界(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/003d910853de498299eb47d7d8a2eedf/1200.m3u8
+来到这个美丽的世界(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9323ea96cf6a47afaf798fca6d9411e6/1200.m3u8
+狼女王的奋斗传奇,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f2d629470e214acf9d08dc81f4773cbf/1200.m3u8
+冷静与柔情,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/554c1b879dc646d4ab188dfd58a0f02f/1200.m3u8
+猎豹妈妈奋斗记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6b10d45dafaa47f4a3c3444946c074c9/1200.m3u8
+猎豹妈妈育儿记(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dba9097ef49e42acb2c6597e04551fbc/1200.m3u8
+猎豹妈妈育儿记(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fca702ad83284ff0a3b883a735913060/1200.m3u8
+猎食计划1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cd732e06e7934a3daef6483c6be1afca/1200.m3u8
+猎食计划2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/497afdb07e92409fb8cb5c0249dfe6d7/1200.m3u8
+猎食计划3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/947b6c076a0c4a3ca72a1274731feb66/1200.m3u8
+猎手求生记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5bc79939a4804f199e606cc08b1bb416/1200.m3u8
+猎手生存攻略,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/703310100a944d78a5e6838f80920cd6/1200.m3u8
+鬣蜥生存攻略,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ae22dffaf28f496584fc581ab72fab9c/1200.m3u8
+林间潜伏,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/922b142fef9443218be5eaf44df0b397/1200.m3u8
+领养一只宠物狗,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ec7ccf71d6544387afbfc956f4c29ceb/1200.m3u8
+龙宫里的奇异动物,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+猫科动物谁为王者(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/17c3860b26c14110a740dfa49785a1bd/1200.m3u8
+猫科动物谁为王者(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1cbb873dc7474315b86788e9f657534a/1200.m3u8
+美食的诱惑,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9debd40527e34471bdfbe1212aa198d7/1200.m3u8
+萌狗诞生记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f68b16f162c493c8d82a57135f16da0/1200.m3u8
+猛虎柔情,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dd3be5a89c1542d3bb4db0953a1430c6/1200.m3u8
+秘境里的动物王国,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb36368ba24f47ed88d4204fd3db5483/1200.m3u8
+秘境里的奇观,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/38ba9675721d4259b3dd327b7e212a39/1200.m3u8
+秘境之蛇,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c4e45ac9dd2642b6ae9fb95b470224a9/1200.m3u8
+母爱的呵护,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a6ec4d0475e1453e8ede023e346c2350/1200.m3u8
+母爱之路,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/115d481467e04333be047fcebf482b3e/1200.m3u8
+南美野生世界1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/35eac4ae4e024654b845f5c7b2221d15/1200.m3u8
+南美野生世界2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9c743ea1e41f4bf585fb1470c9575c0d/1200.m3u8
+南美野生世界3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/68caf99e50bc496fb478b0ed8f4b421a/1200.m3u8
+螃蟹岛海战(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d0137f4e9adc44a7856c7288fe8ca3d2/1200.m3u8
+螃蟹岛海战(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d784a777f3dd42b3b73be06858b71197/1200.m3u8
+奇迹发生的时刻,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1dbbdbb87b8f410cbc0f3c742201cd7d/1200.m3u8
+奇特动物的奇特遭遇(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2b20f8ba9ae14d96b9907f59bb758595/1200.m3u8
+奇特动物的奇特遭遇(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ebab68eda084509b18c27982ecfb660/1200.m3u8
+奇异世界的动物们2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef3ee1bb8ff946a9adf07486709883eb/1200.m3u8
+奇异世界的动物们3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/efa51c5e3af04df89e68606d75333080/1200.m3u8
+棋逢对手,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3d515f3011c64797ae15bf36c639cb49/1200.m3u8
+潜水大师的岛上生活(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cd88344f084b47c593388fdf6a8c443f/1200.m3u8
+潜水大师的岛上生活(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/76332b54d8074b0fada76d081570d621/1200.m3u8
+抢滩勇士(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0d4351715b27425d87a926b964b6cdaf/1200.m3u8
+勤奋的捕食者,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4793c8276c184d03bc3ba5e9b6dc9610/1200.m3u8
+情满大草原1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/222ec6157bf34d8c9abd0e62ddae6ee1/1200.m3u8
+情满大草原2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8200031edc9f434583d9b3f738ac4448/1200.m3u8
+情满大草原3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0ab9b80f79884e22b6390b2deefdc571/1200.m3u8
+如履薄冰的北极熊(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f31953326cca4b5e9c5f7e285a5cddb7/1200.m3u8
+如履薄冰的北极熊(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b6576aa2cd4e43a9a5ddc4af16695a28/1200.m3u8
+森林是我家1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c105c056c3f744baa49ce0b8b39c1f3b/1200.m3u8
+森林是我家2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/63bb582977074c57a127eaca9d954154/1200.m3u8
+森林是我家3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/14b683f0668f404a9bb8ea74d14c5c8e/1200.m3u8
+沙滩上的盛宴,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/31e38a0232734780842a9031072c2073/1200.m3u8
+生存的望(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd00ce388b994d7195dbefc1beb5726b/1200.m3u8
+生存的望(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9765b81ca83444a9ba7b6a335b2466a/1200.m3u8
+生存极限大挑战,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9dc7b6dcacde4fad9467c4d2c61da3d1/1200.m3u8
+盛宴的旅程,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fbcd61c318c34e08854c3911086a7406/1200.m3u8
+狮口余生的小角马(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7cfc0fe7981b4022b69c3e1cb7317b77/1200.m3u8
+狮群的家园生活,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/cad939a2eb714f4b9d37c4185674d50b/1200.m3u8
+狮群的荣耀,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/84b850056589475f80528cf28b9b840a/1200.m3u8
+狮子捕猎计划,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6f2b58a05add4e2a9907ba370473332a/1200.m3u8
+狮子的荣耀回归之路1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bec9f485672345339c49bc345edf9fd5/1200.m3u8
+狮子的荣耀回归之路2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bdb438a81a20403db85b6e9d12707f2d/1200.m3u8
+狮子的荣耀回归之路3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50ef8c8037da4735a9cb9288f45878b0/1200.m3u8
+狮子的荣耀回归之路4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2fea6699d56f4274b5ab5260b016fda2/1200.m3u8
+狮子和鬣狗(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6ca061c3b9184e7aa46cef1ead911099/1200.m3u8
+狮子和鬣狗(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e5ea8f4b0cbd4d7aa779b9dfed5a9448/1200.m3u8
+狮族迷踪1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/801151749824437aaa0afa87bfcf7abf/1200.m3u8
+狮族迷踪2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8
+狮族迷踪3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8
+湿地小萌兽,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/00892961ec6546ae8c78e96d1dd0874a/1200.m3u8
+湿地有萌兽,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e3c31d84ec7e4035a8501db9df1d140b/1200.m3u8
+湿地之争豹与鳄鱼,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1fe1e5df7c9d4b38a0a855e092a7b6c1/1200.m3u8
+兽语如歌,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9d7bcf3e27d941cfac2e6c933ad9b543/1200.m3u8
+水牛向前冲(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2f05eb49b3a049c88a848a1104dc856f/1200.m3u8
+水牛向前冲(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bda4b441c07e40cb8a418381d0506c80/1200.m3u8
+水牛与狮子的争战,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1e0dc98b1374b43b157bf82eebc6d09/1200.m3u8
+水獭奇缘,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/da2d147b25404552b118111dd52d7a25/1200.m3u8
+水豚爱湿地,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c7488fc3bed341ad827c054d3ec7e62d/1200.m3u8
+速度大比拼(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2746acf40172425180162fc3a316416b/1200.m3u8
+速度大比拼(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d2e5439b8a9c4b53970e5c3b0eee9abd/1200.m3u8
+速度与生存(五),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9953caf767b04ae782540c8ac53eaaa4/1200.m3u8
+速度与生存1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1cc83ec8b9b44794b63e1a249b9fb2fb/1200.m3u8
+速度与生存2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/31abc302978f45df9c4e8aaa3972d599/1200.m3u8
+速度与生存3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/570d9ce8d39d4ede9a26ae6de4d28f54/1200.m3u8
+速度与生存4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f37b1966271f4527a581ed9275c34f7c/1200.m3u8
+探秘冰上的北极熊(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6a74d01391d849849c7391b2466f3752/1200.m3u8
+探秘冰上的北极熊(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/509e924ad47e422984af226b26236bf6/1200.m3u8
+探秘雨林利爪族(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dc83b3fe7f874e33959bdbf034e6451c/1200.m3u8
+探秘雨林利爪族(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5a8fd3e4e8ba4ca5b62f1b90ae9c3640/1200.m3u8
+天生野长生命课程(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/95839705cfdc471aa67a09b7cfd6f52d/1200.m3u8
+天生野长生命延续(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87be5f0e1fb14d139fe696081a787914/1200.m3u8
+天生野长生命延续(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b95e26a16f664da498ef421f74ad3006/1200.m3u8
+童话般的雨林(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a1672972c0b742239237bb1686ba0745/1200.m3u8
+童话般的雨林(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8e99e3c9f38340a98fb79b36ab1c863f/1200.m3u8
+团结的水豚家族,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/51e9c38303624369a0ba257163a5528f/1200.m3u8
+蜥蜴安身火山岛(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0c3c388b10ad4cf78f312c6d6620f1e0/1200.m3u8
+蜥蜴安身火山岛(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5043f9b708fe443fb9207e26da903218/1200.m3u8
+险境求生,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3f41478fa1f24606bc1bad4725df7b59/1200.m3u8
+险境求生的小河马(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4b24374adc24487db8c9d5ac5d037079/1200.m3u8
+险境求生的小河马(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5c22e195021d49b8bc5868147fdc3139/1200.m3u8
+小动物大猎手(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c46a26d74f5b4da98f5c9d69f8218de0/1200.m3u8
+小动物大猎手(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ef8ad1d36d9c4515a9e04443687a7f33/1200.m3u8
+小动物大英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/27818c0197e94415946b825b2b163e22/1200.m3u8
+小动物的森林童话,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/321727074edc4cf69b5b205111569205/1200.m3u8
+小角马历险记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b7594a5bc3d241e3a8b95eac39ebd7e9/1200.m3u8
+小鼠奇遇记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9417f7c1d9f2484c901d886245892130/1200.m3u8
+小象和绵羊朋友(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c69ca1ce229648ce86e97c0b86e67c58/1200.m3u8
+小象和绵羊朋友(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/138e7ea321c94a86b4f939ccb00a75a9/1200.m3u8
+小熊的故事1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d3c750e3481a4ca696898875f6e6dbf1/1200.m3u8
+小熊的故事2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3499a172820f47da988e5aaeb187ec29/1200.m3u8
+小熊的故事3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3564b5460bea444b8712fb1cb0a59c00/1200.m3u8
+小熊的梦幻森林1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b0f2b241c39c42beb732a5e73b5a9782/1200.m3u8
+小熊的梦幻森林2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b2e817cee1a7417ba34f062aa919ca02/1200.m3u8
+小熊的梦幻森林3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8bbcff92f2ce423bb2d822e0fb67657f/1200.m3u8
+小勇士闯天下,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8737418de24a461f9785193bcbda0026/1200.m3u8
+新狮王诞生记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5e156f1734234e17ab0f6f87f2e7491b/1200.m3u8
+兄弟捕猎联盟,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0b85d990df5c4f7fae663dc595a084bd/1200.m3u8
+兄弟情深(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0700de47ebc74232bc9f5c5c178aa488/1200.m3u8
+兄弟情深(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30a35b521af54f1a88d74f7215ece1d3/1200.m3u8
+雄风再起,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b9176a8a35c94c37ade29708eed40190/1200.m3u8
+熊的王国,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ade1b31d23694fba82c9c4f07dba3267/1200.m3u8
+熊在旅途(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b0b95c35bce84072b10ad0b82cf83951/1200.m3u8
+熊在旅途(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9dc810bc8a3b426f88ac8c998f9e5332/1200.m3u8
+雪鸮的风中芭蕾,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4ee145f174a8464fb624c4ae62992b1c/1200.m3u8
+雪鸮的生存之舞,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/722362cb57a74028804e0413141a1866/1200.m3u8
+耀眼的白狮家族1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/07c3395ee5da4f789937372657ab980a/1200.m3u8
+耀眼的白狮家族2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3989c3f3416745438c4bc20abeae51ae/1200.m3u8
+耀眼的白狮家族3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0efcf1181234f2dabef87db65bcdec0/1200.m3u8
+野狗家族传世之爱,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dc4007615a124e29827b16bec3885db5/1200.m3u8
+野生白狮(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a9a5e806d97d41f5827532f1cb3f9afa/1200.m3u8
+野生白狮(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1e405a3890d3497d80df5351ad30f169/1200.m3u8
+野生白狮(中),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aa5594a7d44b42768d0b4f2fa3e3651d/1200.m3u8
+野生世界竞技场(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/11ac06bbb4f0426fbc4c7b3bfd864b3f/1200.m3u8
+野生世界竞技场(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bf683b66c36343599bcad10516c58274/1200.m3u8
+野性的魅力1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2f83cd6f217c48e8abb8064f430bc93a/1200.m3u8
+野性的魅力2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/091f7f7dfce34c0d83bcd93c0b58dc07/1200.m3u8
+野性的召唤1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ce41c579b0c84ada982b79073028d116/1200.m3u8
+野性的召唤2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/24514b1197ea46b9a443121f5e19f535/1200.m3u8
+野性的召唤3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9a6b5b4568574867933091059ff57680/1200.m3u8
+野性美洲(五),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/58a370a91cbf49858c18e6d72007d12e/1200.m3u8
+野性美洲1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d1a92d87e2c74de7a799141e5e89eb3b/1200.m3u8
+野性美洲2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2e902191f2524bc198a656db71791080/1200.m3u8
+野性美洲3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1156d95bcf554d0e9df1688e8a6fd55d/1200.m3u8
+野性美洲3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4cb2ce54e7e047a99c772d3874f4c916/1200.m3u8
+野性美洲4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/5dcd2b749aae4e7e973271f124e83fb1/1200.m3u8
+野性生存秘籍1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7c8a682e6c5749b19d375b0c562f4c87/1200.m3u8
+野性生存秘籍2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b95862f403d5404f87114f6a651119e6/1200.m3u8
+一片住着熊的森林1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2ac6789acc644b55a4df03445561c56b/1200.m3u8
+一片住着熊的森林2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/969d426187eb46e19fc6839a435fbf0f/1200.m3u8
+一片住着熊的森林3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fd1e9f94afe948efafaa28a882661620/1200.m3u8
+隐秘的海鬣蜥王国,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b7af80d20f06401989879c44eaf865e8/1200.m3u8
+隐秘王国里的奇迹1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e2094de08292490db17c29ec299b4bc2/1200.m3u8
+隐秘王国里的奇迹2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1cee8d6ac393418e887420a6e1d54b6e/1200.m3u8
+隐秘王国里的奇迹3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/2fe654a3cadf4838bb34ea18441378e8/1200.m3u8
+隐秘王国里的奇迹4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/953467196a854ed786f7e3521579f1f6/1200.m3u8
+勇闯包围圈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3af15ad56d1640fab9a1a065402b3b76/1200.m3u8
+勇闯都市丛林,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/221e94ad951d4001b106d3c5af785537/1200.m3u8
+勇闯螃蟹岛,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3bba8da0b6c54771aa02b579ba75f8e7/1200.m3u8
+勇敢的王者之心,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d37b12d09c4144f0a59560f18ff6508a/1200.m3u8
+勇敢的长颈鹿(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8a9d50517baa443b82b3e4c9e0078351/1200.m3u8
+勇敢的长颈鹿(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/773b3e9df72f4834b85c46e0f5b038fb/1200.m3u8
+勇挑重担的矮獴(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8ef930c154a446d0a831d2dd93698fd2/1200.m3u8
+勇挑重担的矮獴(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d9ffce5e83824939ab9bb66502778bd9/1200.m3u8
+有一只美丽的大水獭,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f1ddaab95ca9475da4cd97907cef8e96/1200.m3u8
+与野生动物为邻,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d25931bed86a49d4afb8780771797c19/1200.m3u8
+雨季狮踪,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c1af227765174580bb3ad5c641f4dfd1/1200.m3u8
+雨林守护的秘密(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/18aecd7b1b064f3692f80ce6906895d5/1200.m3u8
+雨林守护的秘密(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/084be96dbd124ac499afc25eb1e4d63d/1200.m3u8
+原野逐梦记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01fcf61e12c242bd81dc5aca38b6f183/1200.m3u8
+绽放的生命(五),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d2f3f0f3b4c242b4983ee62034f85608/1200.m3u8
+绽放的生命1,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87145268893a47cd8fc9cda530eee111/1200.m3u8
+绽放的生命2,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7b6ed77c03224d298a72a8311fcf10a7/1200.m3u8
+绽放的生命3,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/aea0ef5ea21c40dea948d723d823a5fb/1200.m3u8
+绽放的生命4,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fbb3d1d6ae37458e84f574881778ac7c/1200.m3u8
+植物王国漫游记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
+植物王国漫游记,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
+追逐的游戏,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/34459ad5d340461daab2f453d485833d/1200.m3u8
+追踪兽王,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/93dfcb01bd634370bc211fc7484854ec/1200.m3u8
+自然界奥运冠军,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7b968e9b50984d598d96c6fc5af40b4c/1200.m3u8
+棕熊把守的水上要塞(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50590d053a2245428391323902e07d0e/1200.m3u8
+棕熊把守的水上要塞(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/bb2341e42865439eaed4502fcc736ea5/1200.m3u8
+棕熊捕鱼季(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1ef91cb6079d46ccb9a62f046739d5c8/1200.m3u8
+棕熊的捕鱼生活(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/388d46918ea34570a3fed5f5ceb393ee/1200.m3u8
+棕熊的捕鱼生活(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/09def25492254217aba438e7403741e2/1200.m3u8
+走出包围圈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/38fc4f8e379445aeab6098b9ece0aa2a/1200.m3u8
+走进狗的世界,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
+足球超级猎食者(上),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8
+足球超级猎食者(下),https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8
 
 💖安徽有线,#genre#
 CCTV-1,http://skycw.vicp.net:4022/udp/238.1.78.166:7200
