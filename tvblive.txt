@@ -101,6 +101,98 @@ Y+ 剧 场,http://goo.bkpcp.top/mg/yjjc
 熊猫直播频道9,http://goo.bkpcp.top/mg/xm9
 熊猫直播频道10,http://goo.bkpcp.top/mg/xm10
 
+CCTV-1,http://nctv.top/IDOEPpiryt/migu.php?id=cctv1
+CCTV-2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
+CCTV-3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
+CCTV-4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4
+CCTV-5,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5
+CCTV-5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
+CCTV-6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
+CCTV-7,http://nctv.top/IDOEPpiryt/migu.php?id=cctv7
+CCTV-8,http://nctv.top/IDOEPpiryt/migu.php?id=cctv8
+CCTV-9,http://nctv.top/IDOEPpiryt/migu.php?id=cctv9
+CCTV-10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
+CCTV-11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11
+CCTV-12,http://nctv.top/IDOEPpiryt/migu.php?id=cctv12
+CCTV-13,http://nctv.top/IDOEPpiryt/migu.php?id=cctv13
+CCTV-14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
+CCTV-15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
+CCTV-16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
+CCTV-17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
+CCTV-4欧洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
+CCTV-4美洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4a
+CGTN-纪录,http://nctv.top/IDOEPpiryt/migu.php?id=cgtnjl
+CGTN-英语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtn
+CGTN-西语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtne
+CGTN-阿语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtna
+CGTN-法语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtnf
+CGTN-俄语,http://nctv.top/IDOEPpiryt/migu.php?id=cgtnr
+CHC家庭影院,http://nctv.top/IDOEPpiryt/migu.php?id=chcjtyy
+CHC动作电影,http://nctv.top/IDOEPpiryt/migu.php?id=chcdzdy
+CHC影迷电影,http://nctv.top/IDOEPpiryt/migu.php?id=chcgqdy
+欢笑剧场4K,http://nctv.top/IDOEPpiryt/migu.php?id=hxjc
+东方卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dfws
+北京卫视,http://nctv.top/IDOEPpiryt/migu.php?id=bjws
+重庆卫视,http://nctv.top/IDOEPpiryt/migu.php?id=cqws
+吉林卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jlws
+辽宁卫视,http://nctv.top/IDOEPpiryt/migu.php?id=lnws
+宁夏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=nxws
+甘肃卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gsws
+青海卫视,http://nctv.top/IDOEPpiryt/migu.php?id=qhws
+陕西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=sxws
+山东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=sdws
+湖北卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hubws
+湖南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hunws
+江西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jxws
+江苏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jsws
+广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
+四川卫视,http://nctv.top/IDOEPpiryt/migu.php?id=scws
+新疆卫视,http://nctv.top/IDOEPpiryt/migu.php?id=xjws
+西藏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=xzws
+海南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hinws
+海峡卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hxws
+南方卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dwqws
+内蒙古卫视,http://nctv.top/IDOEPpiryt/migu.php?id=nmws
+Y+ 剧 场,http://nctv.top/IDOEPpiryt/migu.php?id=yjjc
+中 学 生,http://nctv.top/IDOEPpiryt/migu.php?id=zxs
+老 故 事,http://nctv.top/IDOEPpiryt/migu.php?id=lgs
+发现之旅,http://nctv.top/IDOEPpiryt/migu.php?id=fxzl
+四海钓鱼,http://nctv.top/IDOEPpiryt/migu.php?id=shdy
+江苏城市,http://nctv.top/IDOEPpiryt/migu.php?id=jscs
+江苏综艺,http://nctv.top/IDOEPpiryt/migu.php?id=jszy
+江苏影视,http://nctv.top/IDOEPpiryt/migu.php?id=jsys
+江苏国际,http://nctv.top/IDOEPpiryt/migu.php?id=jsgj
+江苏教育,http://nctv.top/IDOEPpiryt/migu.php?id=jsjy
+山东教育,http://nctv.top/IDOEPpiryt/migu.php?id=sdjy
+游戏风云,http://nctv.top/IDOEPpiryt/migu.php?id=yxfy
+东方影视,http://nctv.top/IDOEPpiryt/migu.php?id=shys
+东方购物,http://nctv.top/IDOEPpiryt/migu.php?id=dfgw
+之江纪录,http://nctv.top/IDOEPpiryt/migu.php?id=zjjl
+杭州综合,http://nctv.top/IDOEPpiryt/migu.php?id=hzzh
+杭州明珠,http://nctv.top/IDOEPpiryt/migu.php?id=hzmz
+杭州生活,http://nctv.top/IDOEPpiryt/migu.php?id=hzsh
+杭州影视,http://nctv.top/IDOEPpiryt/migu.php?id=hzys
+杭州少儿,http://nctv.top/IDOEPpiryt/migu.php?id=hzse
+高清大片,http://nctv.top/IDOEPpiryt/migu.php?id=gqdp
+热剧联播,http://nctv.top/IDOEPpiryt/migu.php?id=rjlb
+成龙作品集,http://nctv.top/IDOEPpiryt/migu.php?id=clzp
+赛事最经典,http://nctv.top/IDOEPpiryt/migu.php?id=sszjd
+掼蛋精英赛,http://nctv.top/IDOEPpiryt/migu.php?id=gdjys
+体坛名栏汇,http://nctv.top/IDOEPpiryt/migu.php?id=ttmhl
+新片放映厅,http://nctv.top/IDOEPpiryt/migu.php?id=xpfyt
+军事迷必看大片,http://nctv.top/IDOEPpiryt/migu.php?id=jsdp
+经典深圳旁边电影,http://nctv.top/IDOEPpiryt/migu.php?id=jddy
+熊猫直播频道1,http://nctv.top/IDOEPpiryt/migu.php?id=xm1
+熊猫直播频道2,http://nctv.top/IDOEPpiryt/migu.php?id=xm2
+熊猫直播频道3,http://nctv.top/IDOEPpiryt/migu.php?id=xm3
+熊猫直播频道4,http://nctv.top/IDOEPpiryt/migu.php?id=xm4
+熊猫直播频道5,http://nctv.top/IDOEPpiryt/migu.php?id=xm5
+熊猫直播频道6,http://nctv.top/IDOEPpiryt/migu.php?id=xm6
+熊猫直播频道7,http://nctv.top/IDOEPpiryt/migu.php?id=xm7
+熊猫直播频道8,http://nctv.top/IDOEPpiryt/migu.php?id=xm8
+熊猫直播频道9,http://nctv.top/IDOEPpiryt/migu.php?id=xm9
+熊猫直播频道10,http://nctv.top/IDOEPpiryt/migu.php?id=xm10
+
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=11ecfe0a296dcd532df72244565e20008b5a2e6936c05e73d9c90abe54b5bbffc942f2912e3fdd518714c4a7ad984beed028d07db3d49b8d1e21c54686ebfa8546f79a57d969866753cca722cc
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=380a18fe8dc81109270780918e605114ca218bcfa395aaa8682b605d1622439ffe7981dbd10f378c9c045f872d48dce39babcb012c7362dc8b21835e88fde6457bacaa4082c74879d64ad7aee4
@@ -125,62 +217,6 @@ CCTV-4美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=3d8268a79ddaa0
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178b45706a0b6a0ceddc82ce06e53375cfedbc96fd0b00c12195c7d77b6f23811a67970bcfeb47629aa5aa6
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=35df06ac83a8fe0b0d98f96b8dbf5821d2a57fbd279c10148f5eb543353c48d828c15e639a63919e023774c69fac3a6f5a2bbfd1ee773d77c0dc154b9acd0c77e84c99627dd15f852e56ab3281
 湖北卫视,https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d
-
-CCTV-1,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
-CCTV-2,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581514102_1458964604/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265667329&timezone=UTC&mtv_session=0652a49abec4c860e1b09ad88db72dc8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3816442679b4c149e40771e4b7b870cb
-CCTV-3,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1581797368_796839580/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265667206&timezone=UTC&mtv_session=930288b6183258a028c1df87d499752c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4fe4ab3b93d2b7f4fe74cdc14f0914bb
-CCTV-4,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1582083769_-1437579634/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667639&timezone=UTC&mtv_session=bd66c8df11d2f77bee645f53f4ed7362&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c2b1baee99eab7588b8ea53f584c3bb1
-CCTV-5,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1582982132_-1228252651/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667565&timezone=UTC&mtv_session=9723de29a88e2be1095d8c6d5a75dee9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12723843ed39c650d67a569eb896dd81
-CCTV-5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1583569220_1871236375/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073733&ContentId=265106763&timezone=UTC&mtv_session=58d355d22d80390d6d25dbd6f235e018&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9c4cfaf2b480fa47f51066d541e0a97a
-CCTV-6,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584168866_889700348/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667482&timezone=UTC&mtv_session=f70082b1ade8cb422547681dfcdad578&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3197a71757b802dc65f32626eb2ec8dd
-CCTV-7,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584449189_-1771078739/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667268&timezone=UTC&mtv_session=dac68d68c1a7bfb5fce6e52fcae95b03&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=011fdc0d9d5b681821c2be70c08216b1
-CCTV-8,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1584743785_1819567660/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667466&timezone=UTC&mtv_session=f134ad943219a0326cf721cd778880da&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7e74f98dc5df6c18673696da1cb0fc7
-CCTV-9,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1585021209_2146650853/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667202&timezone=UTC&mtv_session=3b457b5d48dfa5bec1b31c42bdc38890&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4831b14f9cf512f5bf6964b103251dc9
-CCTV-10,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1585335959_654961635/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073735&ContentId=265667631&timezone=UTC&mtv_session=2b68379f8365805b0723de44fb722ac4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b8a484d39ecc065fa7a374c4a21467e9
-CCTV-11,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1585598366_-481653261/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073735&ContentId=265667429&timezone=UTC&mtv_session=4b2a1a34470a2292a3b6b8defdd19dc8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f5c6b917bd6664cd3abf93c9a779b8bf
-CCTV-12,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1585892033_-953434305/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073735&ContentId=265667607&timezone=UTC&mtv_session=04a047571867297b61308196c0b61be4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6f196fd01444dfaf9d9ea5d0cc8ecc01
-CCTV-13,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1586189138_-1841939918/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073736&ContentId=265667474&timezone=UTC&mtv_session=8007a0a816a3740025b4925aeae306b3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9ef05645ea51ea0bcfe8d603b748a30e
-CCTV-14,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1586468724_862335566/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073736&ContentId=265667325&timezone=UTC&mtv_session=d69ff4fc771dd3f04825ad6d23121aa0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e145be999fb1457e94c38e728570b97e
-CCTV-15,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1586792991_-195972221/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073736&ContentId=265667535&timezone=UTC&mtv_session=5229243a54883745a550aaaa6f71126b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=324a9a20d7e080d5c25a85803c60add8
-CCTV-17,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587065488_-544231819/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667526&timezone=UTC&mtv_session=fce9a29d0fe15700731dd42b5514437c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38e21fbccbeb7ce8cdeaf7c394b87ce1
-CCTV-4欧洲,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1582375949_203608310/migu/kailu/20200324/cctv4ouhd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667313&timezone=UTC&mtv_session=12bc39164397f10e5223af167f7534a1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9d84e48895c7676c2037280dd67a8351
-CCTV-4美洲,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1582682240_-1402839824/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667335&timezone=UTC&mtv_session=361466f23b240ef7fb33d32f582f16e5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0ecf0c5bd1bb66dff4d24e873e5c63ef
-CGTN-西语,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587345813_482110171/envivo_v/2018/SD/cctv/xibanya/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265218872&timezone=UTC&mtv_session=77cb0a926d2b93c105e811549cf499b3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=03d4607d5c9bfb5d66f170535cb3fbba
-CGTN-阿语,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587628749_-159090613/envivo_v/SD/cctv/alabo/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265219154&timezone=UTC&mtv_session=d15843f3acb2d100ab402ea7a89e39ca&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=440162df6b440ca2fd096a0c18261118
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
-北京卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
-东方卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1588472879_1818144718/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=b92530997e9df844d8ff90071c412ce1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d69348c370f40e3d50d3d87148478bee
-重庆卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1589064099_-704327727/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262033&timezone=UTC&mtv_session=90df447b59006f4434fec2d4695f28a7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8bbc2e41f5b3f80d0b069addb6f1df46
-吉林卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1589344314_453295178/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262154&timezone=UTC&mtv_session=a8fd605fabf2ca0814b5a56aee04bc2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ec7257d80b3cd8e4a5590413a5e9cb93
-辽宁卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1589644797_1577190639/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=265669068&timezone=UTC&mtv_session=4adbe497fcc87ddaaa343726a3a14c13&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b336009b46cc80be11d75c763cb6fe70
-宁夏卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1590245808_-2084121214/envivo_x/2018/SD/ningxia/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531261057&timezone=UTC&mtv_session=83a38128827a852ce1724296852f857e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=17f4b89974b2ed1e654453d44f9968b1
-甘肃卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1590536221_1219061924/envivo_v/2018/SD/gansu/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531261933&timezone=UTC&mtv_session=c42270b736c7f7ad784d63391d3520bc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9de29b7faceedf77d9b5796d2c8448a3
-青海卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1590811433_1387778932/envivo_w/2018/SD/qinghai/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531262027&timezone=UTC&mtv_session=449a36454b820ab73b61a8a33ccf5337&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=aad202f94476c188a79dcc8e1ec1d2b5
-山东卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591381721_-1603694084/wd_r4/yg/shandongwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261825&timezone=UTC&mtv_session=af16f8bbf042e18571b0c4dd8335d42c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fb1405a16fc8244a94df4ac18675a58f
-湖北卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591694976_-107212910/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261978&timezone=UTC&mtv_session=437fc6e8d29c853ca88935e2fd49acea&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d50581461bffa6a3d876b8cc8a1ebce
-湖南卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591995316_1587683132/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=265667721&timezone=UTC&mtv_session=7b07894c57472651304a93669cf87e9b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=617e25748c5f12b7864cc6fb758deaa7
-江西卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1592308998_-1889199081/migu/kailu/jxwshd/57/20190820/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=531262091&timezone=UTC&mtv_session=de50cbe717aa7f99a96fffd956d81e51&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f8930b959a901748e45e2615bac60f75
-江苏卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1592593248_1989329552/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=264104188&timezone=UTC&mtv_session=6bc8392c0ce046c4a27b0d812696e9f8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a05b045f626d4764b5124f26a2f1d747
-广东卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1592898240_-1957872936/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=263541274&timezone=UTC&mtv_session=d190c97b4980b8b8fc8fe749d33c4b53&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7d16b4dab836849b2d69de0c71c0881
-南方卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593455810_973699600/wd_r3/2018/nfmedia/nfws/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=265218882&timezone=UTC&mtv_session=69490e0f5d2243e8aa4627ecf0058de1&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=095412c3a2f0236b02fe898002af482a
-新疆卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1593800523_-1493781639/wd-xinjiangwssd-600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073743&ContentId=531262095&timezone=UTC&mtv_session=864a45b4901ac5ef45e66eda73f46964&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2ecb1cbf330584c821ad5f41b74ff983
-西藏卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594087791_1409479634/envivo_x/2018/SD/xizang/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=524854265&timezone=UTC&mtv_session=5640f857e31349921ba36207946fa904&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=df71711e34a615ea23f680ef139afb1d
-海南卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594363320_-990671769/envivo_x/SD/lvyou/711/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=531262161&timezone=UTC&mtv_session=b55d04e0b5c7e772923fd49422a408a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=97ea95aaf536edf9a57ca0219cadc011
-内蒙古卫视,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1589932581_-415191449/envivo_w/2018/SD/neimeng/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531261982&timezone=UTC&mtv_session=c9a5a27753539fa99cff7fe7b0773863&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9d2e1fadbae161e8f9ee1c06f4b85df
-江苏教育,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594948125_-1781652450/wd_r2/jstv/jsjiaoyu/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265219146&timezone=UTC&mtv_session=a16c1bfb5e088bbea01975f7a8082344&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3b8baea037f0011e4d3ad9db8c91f5cf
-山东教育,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1595216303_855788936/envivo_v/2018/SD/shandongedu/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265218942&timezone=UTC&mtv_session=5df7c38235f8bfddc40ba06656567aa2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=29623301ce35130c865d7d28c7f3b0c3
-四海钓鱼,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1594642123_-1739463849/wd_r4/peoplecn/shdiaoyu/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265667494&timezone=UTC&mtv_session=62fe26ea17a6225b620ad6528d069bad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1dd468b7cedccd815604e427c9d0d8f7
-游戏风云,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1595481830_-1185482178/wd_r2/ocn/youxifengyunhd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265667664&timezone=UTC&mtv_session=a0ecd5ce9d57ca6fe2f9a78dd80357fc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=238d629872f240eaaeb4749a58e17d18
-高清大片,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842
-热剧联播,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599904987_1263698555/wd_r3/cctv/rejulianbo/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265218955&timezone=UTC&mtv_session=d08622891788b7f58f17fe9ddfcf7760&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=13902f5ffd15ce35b793e964458bc0a7
-成龙作品集,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1597833161_-605154292/wd_r2/virtuallive/5102010211/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073747&ContentId=265667553&timezone=UTC&mtv_session=fd80809f3f6b51a68ca8e0d327a5244a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31de3cf7ce30887e13ddcfcdd39350a2
-掼蛋精英赛,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598137381_-800475601/wd_r4/virtuallive/5101059662/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265667449&timezone=UTC&mtv_session=1f06490147bf0ef1556632d58c77b852&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e65a6cf52d4e7b37e781fbab9d02aaac
-掼蛋精英赛,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1598429516_539260722/wd_r4/virtuallive/5101059662/75/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265667449&timezone=UTC&mtv_session=227603b28af017ac99593529975c4ea8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3fc8644a3708179d74852b84c7f3de83
-赛事最经典,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1600189817_1240880411/wd_r3/cctv/saishijingdian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218921&timezone=UTC&mtv_session=ad75dc89299f0a12c357e9f06e860e18&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=031c3d52bbccef1849631b126460966f
-体坛名栏汇,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1600458454_-832716323/wd_r3/cctv/titanminglan/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218759&timezone=UTC&mtv_session=b2e617f735c59ee2def1e133e7a80a5c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0c1268f6846ee93a05130bcd7741b787
-新片放映厅,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
-军事迷必看大片,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599321476_677368024/wd-virtuallive5100002089-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265218878&timezone=UTC&mtv_session=0ef16dd36c78ec6087cfdd9240dda4be&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=59297ef87d5e48c3e92230975540fa04
-经典深圳旁边电影,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1599032126_-227250245/wd_r2/virtuallive/5100180869/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073749&ContentId=265219029&timezone=UTC&mtv_session=f358762bcdc0d98e6da17359ed6dc2d2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8daf635846c7955213792b55f33b0ed4
 
 🔡移动高清,#genre#
 CCTV-1,http://39.134.66.46/PLTV/88888888/224/3221225816/1.m3u8
@@ -410,10 +446,10 @@ CGTN-纪录,http://39.134.65.166/PLTV/88888888/224/3221225509/1.m3u8
 黑莓电影,http://39.134.66.110/PLTV/88888888/224/3221225681/1.m3u8
 黑莓电竞,http://39.134.65.166/PLTV/88888888/224/3221225559/1.m3u8
 黑莓动画,http://39.134.65.166/PLTV/88888888/224/3221225529/1.m3u8
-求索动物,http://39.134.65.166/PLTV/88888888/224/3221225730/1.m3u8
-求索纪录,http://39.134.65.166/PLTV/88888888/224/3221225713/1.m3u8
-求索科学,http://39.134.65.166/PLTV/88888888/224/3221225728/1.m3u8
-求索生活,http://39.134.65.166/PLTV/88888888/224/3221225715/1.m3u8
+求索动物,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
+求索纪录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+求索生活,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225514/1.m3u8
 浙江卫视,http://39.134.66.66/PLTV/88888888/224/3221225959/1.m3u8
 北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/1.m3u8
@@ -1978,6 +2014,13 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTRENDYHD
 
 🔢省内高清,#genre#
+安徽|安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+安徽|安徽公共,http://203.205.191.53/live.ahsx.ahtv.cn/live/ggtv.m3u8
+安徽|安徽经济,http://203.205.191.53/live.ahsx.ahtv.cn/live/jjshtv.m3u8
+安徽|安徽农科,http://203.205.191.53/live.ahsx.ahtv.cn/live/nykjtv.m3u8
+安徽|安徽综艺,http://203.205.191.53/live.ahsx.ahtv.cn/live/zytytv.m3u8
+安徽|安徽影视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ystv.m3u8
+安徽|安徽国际,http://203.205.191.53/live.ahsx.ahtv.cn/live/gjtv.m3u8
 安徽|安徽卫视,http://159.75.166.157/php/ah.php?id=ahws
 安徽|安徽公共,http://159.75.166.157/php/ah.php?id=ahgg
 安徽|安徽经济,http://159.75.166.157/php/ah.php?id=ahjj
@@ -1985,11 +2028,16 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 安徽|安徽综艺,http://159.75.166.157/php/ah.php?id=ahzy
 安徽|安徽影视,http://159.75.166.157/php/ah.php?id=ahys
 安徽|安徽国际,http://159.75.166.157/php/ah.php?id=ahgj
+安徽|安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
+安徽|安徽经济,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽|安徽经济,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
+安徽|安徽综艺,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽|安徽综艺,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+安徽|安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽|安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽|安徽导视,https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
 安徽|安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+安徽|安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
 安徽|安徽卫视,http://over.qiyuevod.com/tmsctv/ahtv.php?id=ahws
 安徽|安徽公共,http://over.qiyuevod.com/tmsctv/ahtv.php?id=ahgg
 安徽|安徽经济,http://over.qiyuevod.com/tmsctv/ahtv.php?id=ahjjsh
@@ -2001,6 +2049,7 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 安徽|芜湖新闻,http://over.qiyuevod.com/tmsctv/whmz.php?id=whzh
 安徽|芜湖生活,http://over.qiyuevod.com/tmsctv/whmz.php?id=whsh
 安徽|芜湖公共,http://over.qiyuevod.com/tmsctv/whmz.php?id=whgg
+安徽|芜湖新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/whpd.m3u8
 安徽|芜湖新闻,http://www.191919.xyz:8888/udp/238.1.78.112:6768
 安徽|芜湖新闻,http://skycw.vicp.net:4022/udp/238.1.78.112:6768
 安徽|芜湖公共,http://www.191919.xyz:8888/udp/238.1.78.80:6512
@@ -2020,27 +2069,32 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 安徽|繁昌文化,http://over.qiyuevod.com/tmsctv/whmz.php?id=fcyl
 安徽|池州新闻,http://over.qiyuevod.com/tmsctv/cztv.php?id=czxwzh
 安徽|池州公共,http://over.qiyuevod.com/tmsctv/cztv.php?id=czgg
-安徽|亳州农村,http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
 安徽|固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 安徽|固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
-安徽|淮河综合,http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
 安徽|淮南一套,http://stream.0554news.com/hnds1/sd/live.m3u8
 安徽|淮南二套,http://stream.0554news.com/hnds2/sd/live.m3u8
-安徽|灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
-安徽|六安公共,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
-安徽|六安新闻,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
-安徽|宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-安徽|宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 安徽|宿州新闻,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-北京|北京卫视,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjws
-北京|北京新闻,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjxw
-北京|北京文艺,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjwy
-北京|北京生活,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjsh
-北京|北京财经,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjcj
-北京|北京影视,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjys
-北京|北京纪实,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjjs
-北京|北京体育,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjty
-北京|卡酷少儿,http://live.nctv.top/TsLHAksKL/bjtv.php?id=bjkk
+安徽|宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+安徽|宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+安徽|六安新闻,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
+安徽|六安公共,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
+安徽|六安新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/latv.m3u8
+安徽|宣城新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/xctv.m3u8
+安徽|淮北新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/hbds.m3u8
+安徽|阜阳新闻,http://203.205.191.53/live.ahsx.ahtv.cn/live/bbtv.m3u8
+安徽|安庆新闻,http://203.205.191.53/nrtapush.ahsx.ahtv.cn/live/aqpd.m3u8
+安徽|灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+安徽|亳州农村,http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.M3U8
+安徽|淮河综合,http://play.hhnynews.com/hhny/zhpd.m3u8?auth_key=1659380497-0-0-b07e3e3cd99f9355b6aa1e79fbd305f2
+北京|北京卫视,http://live.nctv.top/DYjsklis/bjtv.php?id=bjws
+北京|北京新闻,http://live.nctv.top/DYjsklis/bjtv.php?id=bjxw
+北京|北京文艺,http://live.nctv.top/DYjsklis/bjtv.php?id=bjwy
+北京|北京生活,http://live.nctv.top/DYjsklis/bjtv.php?id=bjsh
+北京|北京财经,http://live.nctv.top/DYjsklis/bjtv.php?id=bjcj
+北京|北京影视,http://live.nctv.top/DYjsklis/bjtv.php?id=bjys
+北京|北京纪实,http://live.nctv.top/DYjsklis/bjtv.php?id=bjjs
+北京|北京体育,http://live.nctv.top/DYjsklis/bjtv.php?id=bjty
+北京|卡酷少儿,http://live.nctv.top/DYjsklis/bjtv.php?id=bjkk
 北京|北京卫视,http://drive.mxmy.net:8888/udp/239.3.1.241:8000
 北京|北京新闻,http://drive.mxmy.net:8888/udp/239.3.1.159:8000
 北京|北京影视,http://drive.mxmy.net:8888/udp/239.3.1.158:8000
@@ -2142,11 +2196,12 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 江苏|南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 江苏|南京信息,http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
 江苏|南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+江苏|苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+江苏|苏州4K,http://live-auth.51kandianshi.com/ksz-norecord/csztv4k_4k.m3u8
 江苏|苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 江苏|苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 江苏|苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 江苏|苏州生活资讯,http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
-江苏|苏州4K,http://live-auth.51kandianshi.com/ksz-norecord/csztv4k_4k.m3u8
 江苏|无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
 江苏|无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 江苏|无锡经济频道,http://stream.thmz.com/wxtv5/playlist.m3u8
@@ -2204,11 +2259,11 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 浙江|少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江|留学世界,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江|国际频道,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江|杭州综合,http://live.nctv.top/TsLHAksKL/hztv.php?id=hzzh
-浙江|杭州明珠,http://live.nctv.top/TsLHAksKL/hztv.php?id=hzmz
-浙江|杭州生活,http://live.nctv.top/TsLHAksKL/hztv.php?id=hzsh
-浙江|杭州影视,http://live.nctv.top/TsLHAksKL/hztv.php?id=hzys
-浙江|杭州体育,http://live.nctv.top/TsLHAksKL/hztv.php?id=hzse
+浙江|杭州综合,http://live.nctv.top/DYjsklis/hztv.php?id=hzzh
+浙江|杭州明珠,http://live.nctv.top/DYjsklis/hztv.php?id=hzmz
+浙江|杭州生活,http://live.nctv.top/DYjsklis/hztv.php?id=hzsh
+浙江|杭州影视,http://live.nctv.top/DYjsklis/hztv.php?id=hzys
+浙江|杭州体育,http://live.nctv.top/DYjsklis/hztv.php?id=hzse
 浙江|杭州综合,http://over.qiyuevod.com/tmsctv/migu.php?id=hzzh
 浙江|杭州明珠,http://over.qiyuevod.com/tmsctv/migu.php?id=hzmz
 浙江|杭州生活,http://over.qiyuevod.com/tmsctv/migu.php?id=hzsh
@@ -2734,12 +2789,21 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 山西|运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8
 山西|运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 江西|江西卫视,http://lt.hxtre.com:35455/itv/1000000006000268001.m3u8?cdn=ystenlive
+江西|江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江西|江西都市,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+江西|江西经济生活,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+江西|江西公共农业,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+江西|江西影视,http://203.205.191.53/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
+江西|江西少儿,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+江西|江西新闻,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+江西|江西移动,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+江西|江西陶瓷,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
 江西|江西卫视,http://php.jdshipin.com:8880/bst2.php?id=jxws8m/8000000
 江西|江西卫视,http://over.qiyuevod.com/tmsctv/jxtv.php?id=1
 江西|江西新闻,http://over.qiyuevod.com/tmsctv/jxtv.php?id=7
 江西|江西都市,http://over.qiyuevod.com/tmsctv/jxtv.php?id=2
-江西|江西公共农业,http://over.qiyuevod.com/tmsctv/jxtv.php?id=5
 江西|江西经济生活,http://over.qiyuevod.com/tmsctv/jxtv.php?id=3
+江西|江西公共农业,http://over.qiyuevod.com/tmsctv/jxtv.php?id=5
 江西|江西影视,http://over.qiyuevod.com/tmsctv/jxtv.php?id=4
 江西|江西少儿,http://over.qiyuevod.com/tmsctv/jxtv.php?id=6
 江西|江西移动,http://over.qiyuevod.com/tmsctv/jxtv.php?id=8
@@ -2973,11 +3037,19 @@ CHC影迷电影,https://live.goodiptv.club/api/cqyx.php?id=CHCGQDYHD
 云南|砚山频道,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 云南|镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8
 贵州|贵州卫视,http://lt.hxtre.com:35455/itv/5000000004000025843.m3u8?cdn=bestzb
+贵州|贵州卫视,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
+贵州|贵州公共,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
+贵州|贵州影视,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
+贵州|贵州生活,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
+贵州|贵州法制,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH05_lo.m3u8
+贵州|贵州科教,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
+贵州|贵州经济,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
+贵州|贵州移动,http://203.205.191.53/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
 贵州|贵州卫视,http://php.jdshipin.com:8880/bst2.php?id=gzwshd8m/8000000
 贵州|贵州公共,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzgg
 贵州|贵州经济,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzjj
 贵州|贵州生活,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzsh
-贵州|贵州法治,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzfz
+贵州|贵州法制,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzfz
 贵州|贵州科教,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzkj
 贵州|贵州影视,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzwy
 贵州|贵州移动,http://over.qiyuevod.com/tmsctv/gztv.php?id=gzyd
@@ -4039,10 +4111,10 @@ CHC影迷电影,http://over.qiyuevod.com/tmsctv/yhtv.php?id=chcgq
 求索纪录,http://3501776.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索科学,http://3501776.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索生活,http://3501776.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/1.m3u8
-求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/1.m3u8
-求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/1.m3u8
-求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/1.m3u8
+求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+求索纪录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
+求索生活,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
+求索动物,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/1.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/1.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/1.m3u8
@@ -4406,7 +4478,7 @@ NewTV超级电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenl
 電影4K,http://183.222.206.14:8096/udp/239.93.1.156:5140
 影院4K,https://lunbo.freetv.top/douyu/9249162
 影院4K,https://www.goodiptv.club/douyu/9249162
-影院4K,http://mmitv.top/test/douyu.php?id=9249162
+影院4K,https://mmitv.top/test/douyu.php?id=9249162
 影院4K,http://over.qiyuevod.com/tmsctv/scxg.php?id=emdy4k_8000
 影院4K,http://lt.hxtre.com:35455/itv/6000000003000004748.m3u8?cdn=wasusyt
 影院4K,http://lt.hxtre.com:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
@@ -4435,8 +4507,8 @@ NewTV超级电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenl
 华数4K,http://39.134.65.79/0000000000001000/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&HlsProfileId=
 华数4K,http://39.134.136.160:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K,http://39.134.136.160:6610/000000001000/2000000004000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=3
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://live-auth.51kandianshi.com/norecord/csztv4k_4k.m3u8
+苏州4K,http://live-auth.51kandianshi.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K,http://lt.hxtre.com:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 欢笑剧场4K,http://lt.hxtre.com:35455/itv/5000000007000010001.m3u8?cdn=bestzb
 欢笑剧场4K,http://php.jdshipin.com:8880/bst2.php?id=hxjc8m/8000000
@@ -4457,8 +4529,8 @@ NewTV超级电视剧,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenl
 百视通纪实4K,http://www.17888.fun:10000/udp/239.45.1.10:5140
 百视通测试4K,http://www.17888.fun:10000/udp/239.45.1.108:5140
 百视通儿童4K,http://www.17888.fun:10000/udp/239.45.1.1:5140
+河南试验4K,http://ik.iptv8.net:8888/udp/225.1.4.254:1300
 河南试验4K,http://115.60.241.249:2000/udp/225.1.4.254:1300
-河南试验4K,http://218.29.135.2:4000/udp/225.1.4.254:1300
 广东综艺4K,http://ddns.cyruslee.top:8888/udp/239.77.1.237:5146
 广东综艺4K,http://ddns.cyruslee.top:8888/udp/239.77.1.236:5146
 广东综艺4K,http://ddns.cyruslee.top:8888/udp/239.77.0.244:5146
@@ -10279,11 +10351,11 @@ Astro Rania,http://test.zapi.us.kg/?id=astro-rania
 Astro AEC,http://test.zapi.us.kg/?id=astro-aec
 Astro AOD,http://test.zapi.us.kg/?id=astro-aod-hd
 Astro AOD,http://test.zapi.us.kg/?id=astro-aod
+Astro 爱奇艺,http://test.zapi.us.kg/?id=astro-iqiyi
 Astro 全佳台,http://test.zapi.us.kg/?id=astro-quanjia
 Astro 双星台,http://test.zapi.us.kg/?id=astro-shuangxing
 Astro 欢喜台,http://test.zapi.us.kg/?id=astro-huaheedai
 Astro 华丽台,http://test.zapi.us.kg/?id=astro-wahlaitoi
-Astro 爱奇艺,http://test.zapi.us.kg/?id=astro-iqiyi
 Astro Arena,http://test.zapi.us.kg/?id=astro-arena-hd
 Astro Arena 2,http://test.zapi.us.kg/?id=astro-arena2
 Channel 8,http://test.zapi.us.kg/?id=channel8
